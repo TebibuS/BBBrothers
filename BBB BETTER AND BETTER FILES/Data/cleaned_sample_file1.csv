@@ -1,0 +1,25 @@
+ID,firm_id,company_name,condensed_name,main,legal,full_address,city,state,zip,zip_4,phone,email,url
+1,2.0,"Able Fence, Inc.",ablefenceinc,True,True,78 Acker St E ,Saint Paul,MN,55117,5507.0,6512224355,,http://www.albinchapel.com/
+2,5.0,Albin Chapel,albinchapel,False,False,2200 Nicollet Ave ,Minneapolis,MN,55404,3301.0,9529149410,office@albinchapel.com,
+3,5.0,Albin Funeral Chapel Inc,albinfuneralchapelinc,False,False,6855 Rowland Rd ,Eden Prairie,MN,55344,3209.0,6128711418,jimalbinson@gmail.com,http://www.arthurwilliamsoptical.com/
+4,5.0,"Albin Endeavor, Inc.",albinendeavorinc,True,True,PO Box 46147 ,Eden Prairie,MN,55344,2847.0,6122700491,,
+5,7.0,Albrecht Company,albrechtcompany,True,False,2024 Blackberry Ln ,Wayzata,MN,55391,2006.0,6516334510,mail@albrechtcompany.com,http://www.ablemovers.net
+6,7.0,"Albrecht Enterprises, LLC",albrechtenterprisesllc,False,True,1408 County Road C W ,Roseville,MN,55113,3198.0,,edward@albrechtcompany.com,http://www.andersencorp.com
+7,,,,,,,,,,,,arthurwilliamsoptical@gmail.com,
+8,9.0,Arthur Williams Opticians,arthurwilliamsopticians,False,False,366 Saint Peter St ,Saint Paul,MN,55102,1302.0,6512242883,ablemovers@izoom.net,
+9,9.0,Arthur Williams Optical Inc,arthurwilliamsopticalinc,False,False,772 Cleveland Ave S ,Saint Paul,MN,55116,1347.0,7632242883,donna.dingle@andersencorp.com,http://www.asphaltmn.com
+10,10.0,Able Movers LLC,ablemoversllc,True,True,14601 Spring Lake Rd ,Minnetonka,MN,55345,2349.0,6516451976,,http://asphaltmn.com
+11,10.0,Able Moving & Storage Inc,ablemovingandstorageinc,False,False,,,,,,9529350331,jennifer.lamson@andersen.com,
+12,10.0,Able Transfer,abletransfer,False,False,12285 Rush Cir NW ,Elk River,MN,55330,8245.0,6129913264,mitch@asphaltmn.com,http://twitter.com/asphaltmn
+13,14.0,Albrechts,albrechts,True,True,,,,,,,office@asphaltmn.com,http://www.facebook.com/asphaltmn
+14,18.0,Andersen Corporation,andersencorporation,True,True,680 Cleveland Ave S ,Saint Paul,MN,55116,1218.0,6516901567,sales@act-asphaltspecialties.com,
+15,18.0,Andersen Windows Inc,andersenwindowsinc,False,False,100 4th Ave N ,Bayport,MN,55003,1096.0,6126901567,ed@6514841696.com,http://www.adt.com
+16,18.0,Emco Enterprises Inc,emcoenterprisesinc,False,False,39811 Golden Ave ,North Branch,MN,55056,,9529278808,erik@act-asphaltspecialties.com,http://www.amfam.com
+17,,,,,,13118 Tyler St NE ,Blaine,MN,55434,3240.0,,consumeraffairs@amfam.com,http://www.stanthonyautorepair.com/
+18,18.0,Eagle Window and Door,eaglewindowanddoor,False,False,547 County Road E W Ste 205 ,Shoreview,MN,55126,7049.0,8888887020,jtuzun@amfam.com,http://www.autoelectricmn.com
+19,19.0,Appearance Reconditioning Co.,appearancereconditioningco,True,True,,,,,,,,http://www.citywideinsul.com
+20,22.0,A.C.T.  Asphalt Specialties Company,actasphaltspecialtiescompany,False,False,430 Industrial Blvd NE ,Minneapolis,MN,55413,2979.0,,ehledoux@helixhca.com,http://www.aquacityplumbing.com
+21,22.0,A C T Specialties,actspecialties,False,False,5910 Rice Creek Pkwy STE 700 ,Shoreview,MN,55126,5023.0,,jgeyen@citywideinsul.com,http://www.aaalabor.com
+22,22.0,Asphalt Specialties Company,asphaltspecialtiescompany,True,True,1 Town Center Rd ,Boca Raton,FL,33486,1002.0,,jodytravelagent@yahoo.com,
+23,,,,,,14200 E Exposition Ave Stop 2 Accounts Payable-,Aurora,CO,80012,2540.0,,info@aquacityplumbing.com,
+24,,,,,,14200 E. Exposition Ave. ,Aurora,CO,80012,2540.0,,service@AquaCityPlumbing.com,http://andyandgeorgesautoservice.com/
