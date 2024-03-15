@@ -1,0 +1,1251 @@
+ID,firm_id,company_name,condensed_name,main,legal,full_address,city,state,zip,zip_4,phone,email,url
+1,2,"Able Fence, Inc.",ablefenceinc,TRUE,TRUE,78 Acker St E ,Saint Paul,MN,55117,5507,6512224355,,http://www.albinchapel.com/
+2,5,Albin Chapel,albinchapel,FALSE,FALSE,2200 Nicollet Ave ,Minneapolis,MN,55404,3301,9529149410,office@albinchapel.com,
+3,5,Albin Funeral Chapel Inc,albinfuneralchapelinc,FALSE,FALSE,6855 Rowland Rd ,Eden Prairie,MN,55344,3209,6128711418,jimalbinson@gmail.com,http://www.arthurwilliamsoptical.com/
+4,5,"Albin Endeavor, Inc.",albinendeavorinc,TRUE,TRUE,PO Box 46147 ,Eden Prairie,MN,55344,2847,6122700491,,
+5,7,Albrecht Company,albrechtcompany,TRUE,FALSE,2024 Blackberry Ln ,Wayzata,MN,55391,2006,6516334510,mail@albrechtcompany.com,http://www.ablemovers.net
+6,7,"Albrecht Enterprises, LLC",albrechtenterprisesllc,FALSE,TRUE,1408 County Road C W ,Roseville,MN,55113,3198,,edward@albrechtcompany.com,http://www.andersencorp.com
+7,,,,,,,,,,,,arthurwilliamsoptical@gmail.com,
+8,9,Arthur Williams Opticians,arthurwilliamsopticians,FALSE,FALSE,366 Saint Peter St ,Saint Paul,MN,55102,1302,6512242883,ablemovers@izoom.net,
+9,9,Arthur Williams Optical Inc,arthurwilliamsopticalinc,FALSE,FALSE,772 Cleveland Ave S ,Saint Paul,MN,55116,1347,7632242883,donna.dingle@andersencorp.com,http://www.asphaltmn.com
+10,10,Able Movers LLC,ablemoversllc,TRUE,TRUE,14601 Spring Lake Rd ,Minnetonka,MN,55345,2349,6516451976,,http://asphaltmn.com
+11,10,Able Moving & Storage Inc,ablemovingandstorageinc,FALSE,FALSE,,,,,,9529350331,jennifer.lamson@andersen.com,
+12,10,Able Transfer,abletransfer,FALSE,FALSE,12285 Rush Cir NW ,Elk River,MN,55330,8245,6129913264,mitch@asphaltmn.com,http://twitter.com/asphaltmn
+13,14,Albrechts,albrechts,TRUE,TRUE,,,,,,,office@asphaltmn.com,http://www.facebook.com/asphaltmn
+14,18,Andersen Corporation,andersencorporation,TRUE,TRUE,680 Cleveland Ave S ,Saint Paul,MN,55116,1218,6516901567,sales@act-asphaltspecialties.com,
+15,18,Andersen Windows Inc,andersenwindowsinc,FALSE,FALSE,100 4th Ave N ,Bayport,MN,55003,1096,6126901567,ed@6514841696.com,http://www.adt.com
+16,18,Emco Enterprises Inc,emcoenterprisesinc,FALSE,FALSE,39811 Golden Ave ,North Branch,MN,55056,,9529278808,erik@act-asphaltspecialties.com,http://www.amfam.com
+17,,,,,,13118 Tyler St NE ,Blaine,MN,55434,3240,,consumeraffairs@amfam.com,http://www.stanthonyautorepair.com/
+18,18,Eagle Window and Door,eaglewindowanddoor,FALSE,FALSE,547 County Road E W Ste 205 ,Shoreview,MN,55126,7049,8888887020,jtuzun@amfam.com,http://www.autoelectricmn.com
+19,19,Appearance Reconditioning Co.,appearancereconditioningco,TRUE,TRUE,,,,,,,,http://www.citywideinsul.com
+20,22,A.C.T.  Asphalt Specialties Company,actasphaltspecialtiescompany,FALSE,FALSE,430 Industrial Blvd NE ,Minneapolis,MN,55413,2979,,ehledoux@helixhca.com,http://www.aquacityplumbing.com
+21,22,A C T Specialties,actspecialties,FALSE,FALSE,5910 Rice Creek Pkwy STE 700 ,Shoreview,MN,55126,5023,,jgeyen@citywideinsul.com,http://www.aaalabor.com
+22,22,Asphalt Specialties Company,asphaltspecialtiescompany,TRUE,TRUE,1 Town Center Rd ,Boca Raton,FL,33486,1002,,jodytravelagent@yahoo.com,
+23,,,,,,14200 E Exposition Ave Stop 2 Accounts Payable-,Aurora,CO,80012,2540,,info@aquacityplumbing.com,
+24,29,Anderson Ladd Floors,andersonladdfloors,FALSE,FALSE,14200 E. Exposition Ave. ,Aurora,CO,80012,2540,,service@AquaCityPlumbing.com,http://andyandgeorgesautoservice.com/
+25,29,Anderson-Ladd,andersonladd,FALSE,FALSE,PO Box 310700 ,Boca Raton,FL,33431,700,7635593292,dave@aquacityplumbing.com,http://www.morriescadillac.com
+26,29,Haldeman Homme Inc,haldemanhommeinc,FALSE,FALSE,4411 Beacon Cir Ste 4 ,West Palm Beach,FL,33407,3270,7633508716,support@aaalabor.com,http://www.apartmentmartmn.com
+27,,,,,,6131 Blue Circle Dr ,Eden Prairie,MN,55343,9108,6514841696,sjzimmer@aaalabor.com,
+28,30,A D T Security Services,adtsecurityservices,FALSE,FALSE,PO Box 9462 ,Minneapolis,MN,55440,9462,,,http://www.allpoolside.com
+29,30,American District Telegraph,americandistricttelegraph,FALSE,FALSE,PO Box 9436 ,Minneapolis,MN,55440,9436,6124368589,,http://www.facebook.com/Allpoolside
+30,30,ADT Security Services,adtsecurityservices,FALSE,FALSE,,,,,,,aganto@goldengate.net,http://www.animalinnpetresort.net
+31,30,"ADT, LLC",adtllc,TRUE,TRUE,3009 37th Ave NE ,St Anthony,MN,55421,4301,6123314880,agauto@goldengate.net,http://www.facebook.com/pages/Animal-Inn-Pet-Resort-Spa/150482981654331
+32,31,American Family Insurance Group - Headquarters,americanfamilyinsurancegroupheadquarters,TRUE,TRUE,3800 W Broadway Ave ,Minneapolis,MN,55422,2208,6519170000,,http://twitter.com/AnimalInnPetRes
+33,31,American Family Mutual Insurance Company,americanfamilymutualinsurancecompany,FALSE,FALSE,,,,,,8002387870,patrick.kyes@morries.com,http://www.moundsview.abbeycarpet.com
+34,31,American Family Insurance,americanfamilyinsurance,FALSE,FALSE,6600 France Ave S Ste 164 ,Minneapolis,MN,55435,1802,6513390987,cindy.robin@morriesclassiccars.com,http://www.allstatetreemn.com/
+35,32,North Land Auto Repair Inc,northlandautorepairinc,TRUE,TRUE,84 S 9th St ,Minneapolis,MN,55402,,6082492111,aiari@aol.com,http://www.cbsainc.com
+36,33,Auto Electric Co,autoelectricco,TRUE,TRUE,,,,,,9529334446,info@poolside.biz,http://www.meritain.com
+37,34,Allied Hearing Services,alliedhearingservices,TRUE,TRUE,,,,,,8668814318,randerson@poolside.biz,http://www.associatedconsultantsusa.com
+38,34,Helix Corporation,helixcorporation,FALSE,FALSE,PO Box 298 ,Shakopee,MN,55379,298,6082424100,dsheridan@poolside.biz,http://www.advancecos.com
+39,34,Helix Hearing Care of America,helixhearingcareofamerica,FALSE,FALSE,1725 3rd Ave W ,Shakopee,MN,55379,1018,8006926326,info@animalinnpetresort.net,http://www.andersencabinet.com
+40,36,"Anderson Insulation, Inc.",andersoninsulationinc,FALSE,FALSE,6834 11th Ave SW PO Box 1024,Rochester,MN,55902,2500,6127889087,john@abbeymv.com,https://www.apollonowmn.com/
+41,36,City Wide Insulation Inc,citywideinsulationinc,TRUE,TRUE,339 8th St NW ,Saint Paul,MN,55112,2745,6122933978,peter@giesecarpet.com,https://www.asphaltdrivewayco.com
+42,36,Carnahan City-Wide Insulation Inc,carnahancitywideinsulationinc,FALSE,TRUE,5428 Nicollet Ave ,Minneapolis,MN,55419,1928,,kathy@abbeymv.com,
+43,37,All Star Travel Inc,allstartravelinc,TRUE,TRUE,6045 Pillsbury Ave S ,Minneapolis,MN,55419,2328,4506746161,info@allstatetreemn.com,http://www.augsburgfortress.org
+44,43,"Aqua City Plumbing, Inc.",aquacityplumbinginc,TRUE,TRUE,7701 Pillsbury Ave S ,Minneapolis,MN,55423,4121,9529290501,lhemmer@cbsainc.com,http://www.artmaterialsonline.com
+45,43,Aqua City Plumbing & Heating,aquacityplumbingandheating,FALSE,FALSE,1908 Chicago Ave ,Minneapolis,MN,55404,1928,,cbsaa@cbsainc.com,http://www.artsuppliesonline.com
+46,46,AAA Labor,aaalabor,TRUE,TRUE,,,,,,6127241272,,http://www.acordia.com
+47,46,AAA Employment Service,aaaemploymentservice,FALSE,FALSE,,,,,,9524451387,khaug@advancecos.com,http://www.wellsfargo.com
+49,,,,,,521 W 90th St ,Bloomington,MN,55420,3515,8009579994,mikem@andersencabinet.com,https://www.rollxvans.com
+50,,,,,,7400 Wayzata Blvd ,Golden Valley,MN,55426,1673,6516364644,,
+52,49,"Andy & George's Auto Service Center, Inc.",andyandgeorgesautoservicecenterinc,TRUE,TRUE,PO Box 24258 ,Minneapolis,MN,55424,258,6123334948,,
+53,49,"CNS Enterprises MN, Inc.",cnsenterprisesmninc,FALSE,FALSE,5621 Knox Ave S ,Minneapolis,MN,55419,1505,9528970032,,http://www.armorsecurity.com
+54,50,Morrie's Cadillac,morriescadillac,FALSE,TRUE,2904 E 35th St ,Minneapolis,MN,55406,2605,9528819655,rexhanson2003@aol.com,http://www.bobandcarls.com
+55,51,Apartment Mart,apartmentmart,TRUE,TRUE,121 County Road C E ,Little Canada,MN,55117,1350,9529425144,state@visi.com,https://www.bergerallied.com
+56,53,Alexander's Import Auto Repair,alexandersimportautorepair,TRUE,TRUE,1960 Cliff Lake Rd Ste 126 ,Eagan,MN,55122,2439,9529262845,sales@asphaltdrivewayco.com,http://www.BesterBros.com
+57,54,"All Poolside Services, Inc.",allpoolsideservicesinc,TRUE,TRUE,,,,,,9524744277,rchorlton@asphaltdrivewayco.com,http://www.bolander.com
+58,54,Poolside,poolside,FALSE,FALSE,1251 Washington Ave N ,Minneapolis,MN,55401,1036,7635459168,credit@augsburgfortress.org,
+59,56,Animal Inn Pet Resort & Spa Inc.,animalinnpetresortandspainc,TRUE,TRUE,2222 Highway 10 ,Mounds View,MN,55112,2491,6516991341,rect@augsburgfortress.org,http://www.bonfesauto.com
+60,58,Appliance Parts Inc,appliancepartsinc,TRUE,TRUE,,,,,,6516991625,jbrown@artmaterialsonline.com,https://www.buildersandremodelers.com
+61,60,Abbey Carpet of Mounds View,abbeycarpetofmoundsview,FALSE,FALSE,7510 Jackson St NE ,Minneapolis,MN,55432,3211,6128226596,keith.burkhardt@wellsfargoservices.com,http://www.BoehmHeatingCo.com
+62,60,Giese Carpet LLC,giesecarpetllc,FALSE,FALSE,7600 Highway 65 NE ,Fridley,MN,55432,3574,6128270340,fixmycar@maxiautoservice.com,http://www.bemis.com
+63,61,Allstate Tree Service,allstatetreeservice,TRUE,TRUE,400 Highway 169 S Ste 800 ,Minneapolis,MN,55426,1141,6128272872,ted@brausens.com,https://www.berwaldroofing.com
+64,67,A B I Financial Corp,abifinancialcorp,FALSE,FALSE,,,,,,6128272874,mharris@rollxvans.com,http://bloomingtonmn.abbeycarpetandfloor.com
+65,67,Associated Advisory Services,associatedadvisoryservices,FALSE,FALSE,516 W Franklin Ave ,Minneapolis,MN,55405,3147,6128274749,questions@rollxvans.com,http://bloomingtonmn.abbeycarpet.com
+66,67,"Corporate Benefit Services Of America,Inc.",corporatebenefitservicesofamericainc,FALSE,TRUE,PO Box 16293 ,St Louis Park,MN,55416,293,6128259805,sandrews@rollxvans.com,http://www.blcflooring.com
+67,67,"CBSA Performax, A Meritain Health Company",cbsaperformaxameritainhealthcompany,TRUE,FALSE,1400 Jackson St ,Saint Paul,MN,55117,4693,6128712505,,http://galaxiefloorstores.com
+68,67,Meritain Health,meritainhealth,FALSE,FALSE,3901 Central Ave NE ,Minneapolis,MN,55421,3932,6128712506,,http://www.bredeexhibitsplus.com
+69,70,Associated Credit Company,associatedcreditcompany,FALSE,FALSE,,,,,,6128712507,,http://www.brede.com
+70,70,"Associated Consultants, Inc.",associatedconsultantsinc,TRUE,TRUE,2500 Charles St N ,Saint Paul,MN,55109,3038,6517750161,catholic2@msn.com,http://www.bringlass.com
+71,70,Associated Consultants of Carico-Box 16293,associatedconsultantsofcaricobox16293,FALSE,FALSE,4820 Minnetonka Blvd Ste 101 ,Saint Louis Park,MN,55416,2278,,pros@armorsecurity.com,
+72,70,Carico (This is a product),caricothisisaproduct,FALSE,FALSE,,,,,,,info@bobandcarls.com,http://www.facebook.com/BergstromJewelers
+73,70,Carico Assoc Ent,caricoassocent,FALSE,FALSE,PO Box 1209 ,Minneapolis,MN,55440,1209,9528844675,marketingteam@bergerallied.com,
+74,70,Carico Products,caricoproducts,FALSE,FALSE,510 Marquette Ave 8th Floor ,Minneapolis,MN,55402,1110,7632487859,info@BesterBros.com,http://www.bmfurnitureonline.com
+75,70,Oneida Flatware (This is a product),oneidaflatwarethisisaproduct,FALSE,FALSE,426 South St ,Minneapolis,MN,55440,,7634494200,paull@besterbros.com,https://www.burnsvillevw.com
+76,70,Regal Cookware (This is a Product),regalcookwarethisisaproduct,FALSE,FALSE,100 S 5th St Ste 600 ,Minneapolis,MN,55402,1242,9525443501,info@bolander.com,
+77,71,Advance Equipment Company,advanceequipmentcompany,FALSE,FALSE,2728 Lyndale Ave S ,Minneapolis,MN,55408,1301,8664074172,,
+78,71,Advance Shoring Company,advanceshoringcompany,TRUE,TRUE,718 Washington Ave N Ste 100 ,Minneapolis,MN,55401,1296,6129274591,tomdbonfe@aol.com,
+79,71,Advance Specialties Company,advancespecialtiescompany,FALSE,FALSE,,,,,,8882545899,bonfe@aol.com,
+80,71,"Advance Equipment, Shoring & Specialties Company",advanceequipmentshoringandspecialtiescompany,FALSE,FALSE,7701 York Ave S Ste 200 ,Minneapolis,MN,55435,5831,6127292516,,http://www.bachmans.com
+81,72,Aladdin Pools Inc,aladdinpoolsinc,FALSE,TRUE,4300 Market Pointe Dr Ste 600 ,Bloomington,MN,55435,5455,6127212868,,https://www.facebook.com/pages/Basement-Water-Controlled/181275151910046
+82,72,Aladdin Pool and Spa,aladdinpoolandspa,TRUE,TRUE,4300 Market Pointe Dr # 600 ,Minneapolis,MN,55435,5455,6514836600,,http://www.safedrybasement.com
+83,73,"Andersen Cabinet, Inc.",andersencabinetinc,TRUE,TRUE,2803 Central Ave NE ,Minneapolis,MN,55418,2951,6513793682,,https://www.youtube.com/watch?t=27&v=zb5MSYRT_pk
+84,74,Apollo Hair Clinic,apollohairclinic,TRUE,TRUE,1310 County Road E W ,Arden Hills,MN,55112,3737,6517770255,,http://www.bluecrossmn.com
+85,74,Apollo of Minneapolis,apolloofminneapolis,FALSE,FALSE,5979 Rice Creek Pkwy ,Shoreview,MN,55126,5021,6123330931,,http://www.beltmann.com
+86,75,Asphalt Driveway Company of St Paul,asphaltdrivewaycompanyofstpaul,FALSE,FALSE,6591 Highway 13 W ,Savage,MN,55378,1177,7633983981,office@boehmheatingco.com,http://www.facebook.com/BeltmannRelocation
+87,75,Asphalt Driveway Co.,asphaltdrivewayco,TRUE,TRUE,,,,,,6128235600,joyces@berwaldroofing.com,http://twitter.com/beltmanngroup
+88,77,Augsburg Fortress Publishers,augsburgfortresspublishers,TRUE,TRUE,,,,,,7637868629,sundaem@berwaldroofing.com,
+89,78,Art Materials Inc,artmaterialsinc,TRUE,FALSE,,,,,,7632201533,elizabeths@berwaldroofing.com,http://www.btaapartments.com
+90,78,Penco Graphic Supply/Artist's,pencographicsupplyartists,FALSE,FALSE,393 Dunlap St N Ste 115 ,Saint Paul,MN,55104,4364,7634799091,paulavan@berwaldroofing.com,http://www.browncollege.edu
+91,78,Penco Artists' Supply Warehouse,pencoartistssupplywarehouse,FALSE,FALSE,2099 Division St N ,North Saint Paul,MN,55109,4147,9525936511,stacym@berwaldroofing.com,http://www.sanfordbrown.edu
+92,78,"Art Materials, LLC",artmaterialsllc,FALSE,TRUE,7010 6th St N ,Oakdale,MN,55128,6146,9525460062,,https://www.rbhonda.com
+93,79,Acordia,acordia,FALSE,FALSE,2313 Hennepin Ave ,Minneapolis,MN,55405,2740,9525410444,,https://www.facebook.com/RichfieldBloomingtonHonda
+94,79,"Acordia of Minnesota, Inc.",acordiaofminnesotainc,FALSE,FALSE,2601 Stevens Ave ,Minneapolis,MN,55408,1635,8889694675,,https://twitter.com/rbhonda
+95,79,Wells Fargo Insurance Services,wellsfargoinsuranceservices,TRUE,TRUE,107 Central Ave ,Osseo,MN,55369,1242,8005669305,,https://plus.google.com/u/0/101341587337255851302/posts
+96,79,Wells Fargo Insurance Service,wellsfargoinsuranceservice,FALSE,FALSE,2950 Long Lake Rd ,Saint Paul,MN,55113,1000,8009252272,,
+97,81,Anderson Automotive Inc,andersonautomotiveinc,FALSE,TRUE,260 Hardman Ave S ,South Saint Paul,MN,55075,2454,8002426226,,https://www.superiorford.com
+98,81,Maxi Auto Center,maxiautocenter,TRUE,FALSE,PO Box 7216 ,Saint Paul,MN,55107,216,6128717700,jodyc@gfloors.biz,
+99,,,,,,251 Starkey St ,Saint Paul,MN,55107,1821,,sanderson@brede.com,http://www.cbburnet.com
+100,,,,,,13425 Court House Blvd ,Rosemount,MN,55068,2552,7637851079,dnelson@bringlass.com,
+102,84,Brausen Enterprises Inc,brausenenterprisesinc,TRUE,TRUE,337 7th St W ,Saint Paul,MN,55102,2327,6516464247,,http://www.invergroveford.com
+105,,,,,,3517 Hennepin Ave ,Minneapolis,MN,55408,3887,6126761717,eabramson@b-and-m-furniture.com,http://www.facebook.com/pages/Brambillas-Inc/191042452283
+106,,,,,,1598 Selby Ave ,Saint Paul,MN,55104,6292,7632191666,jay.radue@burnsvillevw.com,
+107,,,,,,1040 Highway 110 ,Mendota Hts,MN,55120,,6512375276,cathy.mohler@burnsvillevw.com,
+108,,,,,,1259 Scheffer Ave ,Saint Paul,MN,55116,1716,9529554341,bill.johnson@suddath.com,http://www.broadwayrental.com
+109,,,,,,1 Neenah Ctr Ste 400 ,Neenah,WI,54956,3092,6122930601,bill.johnson@barrettmoving.com,http://www.blainestatebank.com
+110,86,Associated Leasing/Handicapable Van,associatedleasinghandicapablevan,FALSE,FALSE,2440 Charles St N ,North Saint Paul,MN,55109,3080,6123303300,info@ballardmoving.com,http://www.republicservices.com
+111,86,Associated Partnership Ltd,associatedpartnershipltd,FALSE,TRUE,9939 Lyndale Ave S ,Bloomington,MN,55420,4795,6128728088,maryann.murphy@suddath.com,http://www.beisselwindows.com
+112,86,Associated Rollx Vans,associatedrollxvans,FALSE,FALSE,6808 151st St W STE 104 ,Apple Valley,MN,55124,7282,6128275301,Brigitt.Berlin@suddath.com,http://www.facebook.com/BeisselWindows
+113,86,Rollx Vans,rollxvans,TRUE,TRUE,2211 Broadway St NE ,Minneapolis,MN,55413,1782,6123723100,Mike.Nash@suddath.com,http://twitter.com/BeisselWindows
+114,,,,,,430 E 1st St ,Boston,MA,2127,1320,6123333330,Michael.Nash@suddath.com,http://www.iverhcarlson.com
+115,,,,,,2300 N 2nd St ,Minneapolis,MN,55411,2277,9528303000,legal@suddath.com,
+119,,,,,,2001 Broadway St NE ,Minneapolis,MN,55413,1790,,info@baberautorepair.com,http://www.goldpoints.com
+120,,,,,,4332 Shady Oak Rd S Ste B ,Hopkins,MN,55343,4517,,cdejarlais@bachmans.com,http://www.cdsdoor.com
+121,,,,,,256 7th St E ,Saint Paul,MN,55101,2349,6514888800,bwckevins@gmail.com,
+122,,,,,,2117 Charles Ave Ste 9 ,Saint Paul,MN,55114,1316,,Gwen@brookparkrealty.com,http://www.cub.com
+123,,,,,,12020 Highway 35W S ,Burnsville,MN,55337,1639,,,http://www.commerceexpressinc.com
+124,,,,,,14700 Buck Hill Rd ,Burnsville,MN,55306,4984,,,http://www.campustravelmn.com
+125,94,Associated Hearing,associatedhearing,FALSE,FALSE,14550 Buck Hill Rd ,Burnsville,MN,55306,4985,9528907851,Mike.Peshut@beltmann.com,http://www.centraire.com
+126,94,Associated Hearing Instruments,associatedhearinginstruments,FALSE,FALSE,7100 Washington Ave S ,Eden Prairie,MN,55344,3584,8009566668,Fred.McPherson@beltmann.com,http://www.custompoolsinc.com
+127,94,Associated Hearing of Saint Paul,associatedhearingofsaintpaul,FALSE,FALSE,2922 W Service Rd ,Eagan,MN,55121,1223,9528082766,ben.branson@beltmann.com,http://carmichaellynchspong.com
+128,94,"Associated Hearing of St. Paul, Inc.",associatedhearingofstpaulinc,TRUE,TRUE,,,,,,,ryan.seabright@beltmann.com,http://carmichaellynch.com
+129,95,"Affordable Automotive, Inc.",affordableautomotiveinc,TRUE,TRUE,815 S Main St ,Jacksonville,FL,32207,9050,,lyle.saumweber@beltmann.com,http://www.certainteed.com
+130,96,Apostolic Publishing Company,apostolicpublishingcompany,TRUE,TRUE,,,,,,,info@budgetinsulation.com,
+131,96,C Y Publications,cypublications,FALSE,FALSE,,,,,,9524316113,jmloney@mn.rr.com,http://www.leskemasonry.com
+132,96,"Catholic Devotional, The",catholicdevotionalthe,FALSE,FALSE,,,,,,6516462427,loneyjm@comcast.net,
+133,96,"Lutheran Prayerbook, The",lutheranprayerbookthe,FALSE,FALSE,727 Nicollet Mall ,Minneapolis,MN,55402,2004,6517706400,jloney@kleinmanrealty.com,http://www.alexanders.net
+134,96,Lutheran Message,lutheranmessage,FALSE,FALSE,80 S 8th St Ste 205 ,Minneapolis,MN,55402,2113,6517020086,wcowan@browncollege.edu,http://www.metroconcreteraisinginc.com
+135,96,The Catholic Leader,catholicleader,FALSE,FALSE,12 S 6th St Ste 1125 ,Minneapolis,MN,55402,1515,6517020176,aluckie@browncollege.edu,http://www.saabvw.com
+136,96,The Lutheran Journal,lutheranjournal,FALSE,FALSE,228 Broadway Ave ,Saint Paul Park,MN,55071,1895,6128704142,kbaumeister@browncollege.edu,http://www.schmelzvw.com
+137,97,A-1 Armor,a1armor,FALSE,FALSE,1690 Hamline Ave N ,Saint Paul,MN,55113,6216,7634252177,EMorris@browncollege.edu,http://www.creative-lighting.com
+138,97,Armor Alarm Co,armoralarmco,FALSE,FALSE,6010 Lyndale Ave S ,Minneapolis,MN,55419,2289,8669695040,mernst@browncollege.edu,http://www.crystalpierz.com
+139,97,Armor Lock & Alarm,armorlockandalarm,FALSE,FALSE,21952 Rausch Lake Rd ,Saint Cloud,MN,56301,9732,6516976288,pkraimer@browncollege.edu,http://www.crossroadscollision.com
+140,97,Armor Lock & Safe,armorlockandsafe,FALSE,FALSE,PO Box 354 ,Rockville,MN,56369,354,,kdavis@sb.brooklyncenter.edu,http://www.carouselautomobiles.com
+141,97,"Armor Security, Inc.",armorsecurityinc,TRUE,TRUE,600 Highway 169 S ,Minneapolis,MN,55426,1205,,studentcomplaints@careered.com,http://www.audiminneapolis.com
+142,100,Bob & Carl's Auto Body,bobandcarlsautobody,TRUE,TRUE,8525 Edinbrook Crossing Ste 101 ,Brooklyn Park,MN,55443,1995,,,https://www.facebook.com/audi
+143,,,,,,3535 Blue Cross Rd ,Saint Paul,MN,55122,1154,6514570825,dlesnefsky@rbhonda.com,https://twitter.com/Audi
+144,,,,,,2405 8th St S Ste 200 ,Moorhead,MN,56560,4224,6123335101,sales@borton.com,
+145,103,Berger International Inc,bergerinternationalinc,FALSE,FALSE,1303 Chestnut St W ,Virginia,MN,55792,,6512246299,psutter@borton.com,http://www.culliganbetterwater.com
+146,103,Berger Transfer & Storage,bergertransferandstorage,FALSE,TRUE,405 W Superior St ,Duluth,MN,55802,,,,
+147,103,Berger Transfer & Storage Agent for Allied Van Lines,bergertransferandstorageagentforalliedvanlines,FALSE,FALSE,1800 Yankee Doodle Rd ,Eagan,MN,55122,6200,,,http://www.ForsytheAppraisals.com
+148,103,"Berger Transfer & Storage, Inc.",bergertransferandstorageinc,TRUE,FALSE,1769 Yankee Doodle Rd ,Eagan,MN,55121,,,,http://www.conceptgroup.com
+149,104,"Bester Bros Transfer & Storage Co, Inc.",besterbrostransferandstoragecoinc,TRUE,TRUE,1200 Yankee Doodle Rd ,Eagan,MN,55121,,6512247571,kylene@brookdaleford.com,http://www.facebook.com/conceptgroupinc
+150,105,Carl Bolander & Sons Company,carlbolanderandsonscompany,FALSE,FALSE,1301 Chestnut St W ,Virginia,MN,55792,3442,6512224458,todougherty@brookdaleford.com,http://twitter.com/conceptgroupinc
+151,105,Carl Bolander & Sons LLC,carlbolanderandsonsllc,FALSE,FALSE,2015 Silver Bell Rd ,Eagan,MN,55121,,,tgmetcor@gmail.com,http://www.jadeautoservice.com
+152,105,Bolander & Sons Co.,bolanderandsonsco,FALSE,FALSE,3400 Yankee Dr Consumer Service Center,Eagan,MN,55121,1627,,kbwka@aol.com,
+153,105,SKB Environmental Inc.,skbenvironmentalinc,FALSE,FALSE,1750 Yankee Place ,Eagan,MN,55121,,,sales@brookdaleford.com,http://www.campbell-mithun.com/
+154,,,,,,4150 2nd St S ,Saint Cloud,MN,56301,7314,6128275481,rabiola@aol.com,http://www.coit.com/minneapolis
+155,105,"SKB Recycling, LLC",skbrecyclingllc,FALSE,FALSE,802 W 3rd Ave N ,Aurora,MN,55705,1283,6122236191,sclark@superiorford.com,http://www.coit.com/saint-paul
+156,106,Bonfe's Auto Service & Body Repair,bonfesautoserviceandbodyrepair,FALSE,FALSE,302 N Riverfront Dr ,Mankato,MN,56001,500,,sales@superiorford.com,http://www.coit.com
+157,106,"Bonfe's Auto Service, Inc.",bonfesautoserviceinc,TRUE,TRUE,3425 40th Ave NW Ste 106 ,Rochester,MN,55901,2790,,b-stroh@dealeremail.com,
+158,,,,,,PO Box 64560 ,Saint Paul,MN,55164,560,,dina@superiorford.com,http://www.conklin.com
+159,,,,,,PO Box 77 ,Minneapolis,MN,55440,77,,trabiola@superiorford.com,http://www.cokecce.com
+160,,,,,,2480 Long Lake Rd ,Roseville,MN,55113,2534,,trehman@cbburnet.com,http://www.coca-colacompany.com
+161,109,"Builders & Remodelers, Inc.",buildersandremodelersinc,TRUE,TRUE,10913 Chatham Ct S ,Burnsville,MN,55337,1094,,aaron.sorenson@lfhi.com,https://www.commers.com
+162,110,Boehm Heating,boehmheating,TRUE,FALSE,3401 Colfax Ave S Ste A ,Minneapolis,MN,55408,4099,6516444990,jbauer@invergroveford.com,http://www.culliganstpeter.com/
+163,110,Boehm Cycling Fitness & Hockey Center,boehmcyclingfitnessandhockeycenter,FALSE,FALSE,1345 Mendota Heights ,Mendota Heights,MN,55120,,6516464531,,http://www.cabinetpakkitchens.com
+164,110,"Boehm's, Inc.",boehmsinc,FALSE,TRUE,5951 Earle Brown Drive ,Brooklyn Center,MN,55430,,6514542066,jack@barnettauto.com,http://www.customcameraservice.com
+165,111,Bemis Company Inc,bemiscompanyinc,TRUE,TRUE,PO Box 957768 ,Hoffman Estates,IL,60195,7768,6512703782,brtransserv@aol.com,http://www.neielectric.com
+166,113,"Berwald Roofing Company, Inc.",berwaldroofingcompanyinc,TRUE,TRUE,400 W 78th St ,Richfield,MN,55423,4090,9207274100,info@brambillasinc.com,http://www.cargill.com
+167,,,,,,5428 Lyndale Ave S ,Minneapolis,MN,55419,1786,6517777411,,http://www.pwcglobal.com
+168,114,"Bloomington Linoleum & Carpet, Inc",bloomingtonlinoleumandcarpetinc,FALSE,FALSE,905 Hampshire Ave S ,Golden Valley,MN,55426,1708,9528815825,roger@brambillasinc.com,http://www.pwc.com
+169,114,Galaxie Floor Stores - Bloomington,galaxiefloorstoresbloomington,FALSE,FALSE,2500 County Road 10 ,Minneapolis,MN,55430,2502,9528915100,brecosales@comcast.net,http://www.centexhomes.com
+170,114,"Abbey Decorating Center, Inc",abbeydecoratingcenterinc,FALSE,TRUE,9700 56th Ave N ,Plymouth,MN,55442,1698,6123786570,gsmbre@comcast.net,http://www.centex.com
+171,114,Galaxie Floor Stores - Apple Valley,galaxiefloorstoresapplevalley,FALSE,FALSE,Highway 169 & County Rd. 10 ,Plymouth,MN,55442,,6123314540,guy@broadwayrental.com,http://www.carvergeneralrepair.com
+172,114,Bloomington Carpet and Floor,bloomingtoncarpetandfloor,FALSE,FALSE,7550 France Ave S STE 300 ,Edina,MN,55435,5292,8008883976,,http://cherokeesvc.com
+173,114,Galaxie Floor Stores,galaxiefloorstores,TRUE,FALSE,7171 France Ave S ,Minneapolis,MN,55435,4379,6123786564,,http://www.coatestrailers.com
+174,114,Abbey Decorating Center,abbeydecoratingcenter,FALSE,FALSE,800 W 78th St ,Chanhassen,MN,55317,9578,6125299671,,http://www.genesis-computer.com
+175,115,Brede Exposition Services,bredeexpositionservices,FALSE,FALSE,5725 Duluth St ,Minneapolis,MN,55422,4035,8004584003,jeff@beisselwindows.com,
+176,115,Brede Inc.,bredeinc,TRUE,TRUE,1959 Suburban Ave ,Saint Paul,MN,55119,4399,6123320552,erecthunter@yahoo.com,http://www.globalpaymentsinc.com
+177,115,Exhibits Plus,exhibitsplus,FALSE,FALSE,2510 W Division St ,Saint Cloud,MN,56301,3898,6123316170,,
+178,115,Brede Exposition Service,bredeexpositionservice,FALSE,FALSE,3777 Park Center Blvd ,Minneapolis,MN,55416,2515,,ihchugh@gmail.com,http://www.dnb.com
+179,116,Brin Glass Company,bringlasscompany,TRUE,TRUE,13081 Ridgedale Dr ,Hopkins,MN,55305,1807,6512249633,intern@ccf-ideas.com,http://www.dodgeofburnsville.com
+180,,,,,,401 W 98th St ,Minneapolis,MN,55420,4798,6516442699,centralsystemsllc@earthlink.net,
+181,116,Heartland Glass,heartlandglass,FALSE,FALSE,1601 County Road C W ,Saint Paul,MN,55113,1313,6122021874,centralsystemsllc@embarqmail.com,https://wilsonsautoworldmn.com/
+182,120,"Bergstrom Jewelers, Inc.",bergstromjewelersinc,FALSE,TRUE,401 County Road 42 E ,Burnsville,MN,55306,5736,9528929400,gcraven@culliganredwing.com,http://www.deydistributing.com
+183,120,Bergstrom Jewelry Company,bergstromjewelrycompany,FALSE,FALSE,1299 Promenade Pl ,Saint Paul,MN,55121,2293,8003135218,,http://www.donnellystucco.com
+184,125,Barry & Sewall Industrial Supply Company,barryandsewallindustrialsupplycompany,TRUE,TRUE,4100 W 50th St Ste 2100,Minneapolis,MN,55424,1200,9522326974,info@cdsdoor.com,
+185,132,"BC Kitchens, Inc.",bckitchensinc,TRUE,TRUE,3945 W 50th St ,Minneapolis,MN,55424,1203,8008791283,mcarl@cdsdoor.com,https://www.duanesfloorservice.com/
+186,133,"B & M Furniture, Inc.",bandmfurnitureinc,TRUE,TRUE,6228 Penn Ave S ,Minneapolis,MN,55423,1135,8006204121,,
+187,135,Burnsville Volkswagen,burnsvillevolkswagen,TRUE,FALSE,11400 Highway 7 ,Hopkins,MN,55305,5306,7635461330,tammie.l.lukkonen@supervalu.com,http://www.cloggedplumbing.com
+188,135,Luther Burnsville Volkswagen Inc,lutherburnsvillevolkswageninc,FALSE,TRUE,2303 Palmer Dr ,Saint Paul,MN,55112,2463,6123334141,carrie.b.higgs@supervalu.com,http://www.ikon.com
+189,136,"Suddath Relocation Systems of MN, LLC/Barrett",suddathrelocationsystemsofmnllcbarrett,FALSE,FALSE,2128 Ford Pkwy ,Saint Paul,MN,55116,1863,9528287944,joe@commerceexpresslinc.com,https://www.deluxe.com/
+190,136,"United Van Lines, Mayflower Transit",unitedvanlinesmayflowertransit,FALSE,FALSE,1151 Wayzata Blvd E ,Wayzata,MN,55391,1935,9528287909,joe@commerceexpressinc.com,https://www.dinsmorecleaners.net/
+191,136,Barrett Moving & Storage Company,barrettmovingandstoragecompany,FALSE,FALSE,1450 W Lake St ,Minneapolis,MN,55408,2672,9528287923,info@commerceexpressinc.com,http://www.mydolphingroup.com
+192,136,A & M Moving & Storage Co Inc,aandmmovingandstoragecoinc,FALSE,FALSE,Highway 7 & County Rd. 73 ,Hopkins,MN,55343,0,9528294804,pkoepcke@centraire.com,http://www.delislecompany.com
+193,136,A & M Moving Systems Inc,aandmmovingsystemsinc,FALSE,FALSE,5159 W. 98th St. ,Minneapolis,MN,55437,2040,,tpacker@centraire.com,http://www.facebook.com/pages/DeLisle-Company-Realtors/731421333541789?ref=br_tf
+194,136,Ambassador Moving Systems Inc,ambassadormovingsystemsinc,FALSE,FALSE,4725 S Robert Trl ,Inver Grove Heights,MN,55077,1113,6123386929,general@custompoolsinc.com,http://twitter.com/DeLisleCompany
+195,136,Ballard Moving & Storage Company Inc,ballardmovingandstoragecompanyinc,FALSE,FALSE,5201 Lakeland Ave N ,Minneapolis,MN,55429,3114,6514595719,rmonten@clynch.com,http://www.rbcwm-usa.com
+196,136,United Van Lines,unitedvanlines,FALSE,FALSE,PO Box 20008 ,Minneapolis,MN,55420,,6516468661,erika.collins@clynch.com,
+197,136,"Suddath Relocation Systems of Twin Cities, LLC/Boulevard",suddathrelocationsystemsoftwincitiesllcboulevard,FALSE,FALSE,1700 E Old Shakopee Rd ,Minneapolis,MN,55425,2445,6516902050,rpg.t.services@saint-gobain.com,http://www.dicksvalleyservice.com
+198,,,,,,4269 Malmo Ln. N. ,Saint Paul,MN,55123,1754,6128617600,dale.h.walton@saint-gobain.com,http://www.quantumlabs.com
+199,,,,,,992 Pinewood Pl ,The Villages,FL,32162,4053,,Sandles81@msn.com,
+200,,,,,,1438 146th Lane NW ,Andover,MN,55304,,,sales@leskemasonry.com,http://www.ecolab.com
+202,,,,,,3610 Highway 61 N ,White Bear Lake,MN,55110,4197,3206549900,,http://www.effectivelearning.com
+203,,,,,,3700 Highway 61 N ,Saint Paul,MN,55110,4132,8003486247,info@alexanders.net,http://www.efflearn.com
+204,141,Badiner Jewelers,badinerjewelers,TRUE,TRUE,3430 Highway 61 N ,Saint Paul,MN,55110,5236,3203337445,ckromer@alexanders.net,http://www.enduranceautomotiveinc.com
+205,141,Badiner Jewelers & Gemologists,badinerjewelersandgemologists,FALSE,FALSE,,,,,,9525932500,kquagliano@alexanders.net,http://www.enviromatic.com
+206,143,Broadway Automotive,broadwayautomotive,TRUE,TRUE,,,,,,7634248525,mcri@integra.net,http://www.apartycrasher.com
+207,143,Park Automotive Inc,parkautomotiveinc,FALSE,FALSE,,,,,,6516624357,jschmelz@saabvw.com,http://www.easternonion.com
+208,146,"Baber Auto Repair Services, Inc.",baberautorepairservicesinc,FALSE,FALSE,6304 42nd Ave N ,Minneapolis,MN,55427,1424,6514568955,cwilke@schmelzvw.com,http://energysaversinsulationinc.com
+209,146,"T & N King, Inc.",tandnkinginc,FALSE,FALSE,PO Box 37 ,Shakopee,MN,55379,37,2187394473,jschmelz@schmelzvw.com,http://www.environmentsinc.com
+210,146,Baber Automotive,baberautomotive,FALSE,TRUE,550 Valley Park Dr ,Shakopee,MN,55379,1811,5072812130,michael@creative-lighting.com,http://www.gf.com
+211,148,Cedar Acres Landscape and Garden Center,cedaracreslandscapeandgardencenter,FALSE,FALSE,6800 W Broadway Ave ,Brooklyn Park,MN,55428,2397,5073454406,customerservice@creative-lighting.com,http://www.farmcredit.com
+212,148,"Bachman's, Inc.",bachmansinc,TRUE,TRUE,7409 Jolly Ln ,Minneapolis,MN,55428,1218,3202350633,mlarson@crystalpierz.com,http://www.agribank.com
+213,148,Bachman's Nursery Wholesale,bachmansnurserywholesale,FALSE,FALSE,10107 University Ave NE ,Minneapolis,MN,55434,8098,3202538300,sue@crystalpierz.com,
+214,148,Flowers By Bachman's,flowersbybachmans,FALSE,FALSE,9813 Flying Cloud Dr ,Eden Prairie,MN,55347,4006,2187223371,myron@crystalpierz.com,
+215,148,Bachman's Floral Gift and Garden Centers,bachmansfloralgiftandgardencenters,FALSE,FALSE,700 40th Ave NE ,Sauk Rapids,MN,56379,8607,2187495890,KaMitchell@basspro.com,
+216,149,Basement Water Controlled,basementwatercontrolled,TRUE,TRUE,8661 Rendova St NE ,Circle Pines,MN,55014,4102,2182338691,mauricebowen@trackermarine.com,http://www.fireside.com
+217,149,JLAM Inc.,jlaminc,FALSE,FALSE,4325 66th St E ,Inver Grove Heights,MN,55076,4233,9524561192,mbowen@basspro.com,
+219,150,"Baxter Advertising Inc, William",baxteradvertisingincwilliam,TRUE,TRUE,1635 Oakdale Ave ,West Saint Paul,MN,55118,3503,9526625050,,https://www.freewayford.net
+220,150,Baxter Wm. L. Advertising Inc.,baxterwmladvertisinginc,FALSE,FALSE,3304 Belden Dr NE ,St Anthony,MN,55418,1643,6516627329,alp@audiminneapolis.com,
+221,152,The Brook Park Group,brookparkgroup,FALSE,FALSE,3304 Belden Dr NE ,Minneapolis,MN,55418,1643,6516392800,,https://www.usbank.com/index.html
+222,152,Brook Park Realty Inc,brookparkrealtyinc,TRUE,TRUE,749 Snelling Ave N ,Saint Paul,MN,55104,1287,6516392928,,http://Flo-Pac.Com
+223,154,Blue Cross & Blue Shield of Minnesota,bluecrossandblueshieldofminnesota,TRUE,TRUE,,,,,,6516392839,kthaley@hbci.com,http://www.foleyexteriors.com
+224,154,HMO Minnesota,hmominnesota,FALSE,FALSE,4750 Nicollet Ave ,Minneapolis,MN,55419,5509,6516392837,mnmyhome@aol.com,http://www.bluestembrands.com
+225,154,Blue Plus,blueplus,FALSE,FALSE,120 S 6th St Ste 1300 ,Minneapolis,MN,55402,5168,6516392870,info@csmcremation.com,http://www.fingerhut.com
+226,155,"Beltmann Group, Inc.",beltmanngroupinc,TRUE,TRUE,9835 State Highway 284 ,Waconia,MN,55387,9575,9528905253,ForsytheInfo@ForsytheAppraisals.com,http://www.gettington.com
+227,155,Beltmann Relocation Group,beltmannrelocationgroup,FALSE,FALSE,4301 10th Ave S ,Minneapolis,MN,55407,3209,6128256811,info@conceptgroup.com,http://www.flareheating.com
+228,155,North American Van Lines,northamericanvanlines,FALSE,FALSE,4608 Ewing Ave S ,Minneapolis,MN,55410,1744,6519053406,jadeinc@comcast.net,http://www.FaegreBD.com
+229,156,"Budget Insulation, Inc",budgetinsulationinc,TRUE,TRUE,1600 University Ave W # 208 ,Saint Paul,MN,55104,3825,6519053409,Deans@Jade-Inc.com,http://www.faegre.com
+230,157,B T & A Construction Company,btandaconstructioncompany,TRUE,TRUE,PO Box 412 ,Red Wing,MN,55066,412,6519053400,,http://www.bayportbank.com
+231,157,B T & A,btanda,FALSE,FALSE,2342 Old Zumbrota St ,Red Wing,MN,55066,9506,8006276966,nate.wohl@coit.com,http://www.tedglasrud.com
+232,159,Brown College,browncollege,FALSE,FALSE,12755 State Highway 55 ,Minneapolis,MN,55441,,6519053558,,
+233,159,Brown Institute,browninstitute,FALSE,FALSE,701 Carlson Pkwy ,Minnetonka,MN,55305,5240,6519053420,Randy.Kasecky@coit.com,http://www.grahnsupholstery.com
+234,159,Sanford Brown College - Mendota Heights,sanfordbrowncollegemendotaheights,TRUE,TRUE,1405 Xenium Ln N Stop 8249 ,Plymouth,MN,55441,4429,6519053499,vp@conklin.com,http://www.bestblacktop.com
+235,163,Richfield Bloomington Honda,richfieldbloomingtonhonda,TRUE,FALSE,,,,,,6519053564,jeredmond@coca-cola.com,http://www.sprintpcs.com
+236,163,Tom Wood Group,tomwoodgroup,FALSE,TRUE,PO Box 1702 ,Minneapolis,MN,55440,1702,6128340594,nancy.guarneri@commers.com,http://www.sprint.com
+237,164,Bergh International Holdings Inc,berghinternationalholdingsinc,FALSE,FALSE,,,,,,6519053401,john.commers@commers.com,http://www.greatnextels.com
+238,164,Borton Leasing Inc,bortonleasinginc,FALSE,FALSE,408 Snelling Ave S ,Saint Paul,MN,55105,2146,6519053509,rob.commers@commers.com,https://www.gibbslawn.com
+239,164,"Borton Volvo, Inc.",bortonvolvoinc,TRUE,TRUE,1641 Oakdale Ave ,West Saint Paul,MN,55118,3533,7632792400,chriscude@financial.wellsfargo.com,http://www.grussingroofing.com
+240,165,Brookdale Ford,brookdaleford,FALSE,FALSE,1940 Cliff Lake Rd. ,Eagan,MN,55122,2400,7632792505,jeralyn.carroll@wellsfargo.com,https://plus.google.com/+GrussingRoofingIncEdenPrairie/posts
+241,165,"Superior-Brookdale Ford, LLC",superiorbrookdalefordllc,TRUE,FALSE,15350 Cedar Ave ,Apple Valley,MN,55124,7021,8478515123,cabinetpakmn@aol.com,https://www.facebook.com/GrussingRoofing
+242,167,"Burnet Realty, Inc.",burnetrealtyinc,FALSE,FALSE,7555 W. Broadway Ave. ,Brooklyn Park,MN,55428,1297,6128668832,milo.c.thompson@gmail.com,http://www.garlock-french.com
+243,,,,,,1801 Market Dr. ,Stillwater,MN,55082,7599,,customerservice@neielectric.com,
+244,,,,,,8150 Wedgewood Ln N ,Maple Grove,MN,55369,9402,8003287114,sweingart@neielectric.com,http://www.astleford.com
+245,167,Coldwell Banker Burnet Realty,coldwellbankerburnetrealty,TRUE,TRUE,615 W Central Entrance ,Duluth,MN,55811,5470,,jlovegren@neielectric.com,https://www.lathropgpm.com
+246,167,Burnet Realty LLC,burnetrealtyllc,FALSE,FALSE,5301 36th Ave. N. ,Crystal,MN,55422,2811,,cargill_incorporated@cargill.com,http://twitter.com/GrayPlantMooty
+247,168,Byerly Inc,byerlyinc,FALSE,FALSE,585 Northtown Dr NE ,Blaine,MN,55434,1044,6128212777,lydia_madden@cargill.com,http://www.facebook.com/grayplantmooty
+248,168,Byerlys,byerlys,FALSE,FALSE,2900 Highway 13 W. ,Burnsville,MN,55337,1742,6128212704,timothy_loesch@cargill.com,http://www.graco.com
+249,168,Lund Food Holdings Inc,lundfoodholdingsinc,TRUE,TRUE,100 County Road B W. ,Maplewood,MN,55117,,,zanna_mcferson@cargill.com,https://www.communitysafetynet.com
+250,168,Lunds,lunds,FALSE,FALSE,8690 E Point Douglas Rd S ,Cottage Grove,MN,55016,4007,7635035787,karin_baril@cargill.com,https://www.facebook.com/communitysafetynet
+251,168,Lunds Markets,lundsmarkets,FALSE,FALSE,PO Box 9 ,Stillwater,MN,55082,9,7635599111,jean.d.mcgann@us.pwc.com,https://twitter.com/CSN4_LIFE
+252,168,Lunds & Byerlys,lundsandbyerlys,FALSE,FALSE,250 33rd Ave S ,Saint Cloud,MN,56301,3715,7635999111,erika.l.kearny@us.pwc.com,http://www.giertsenco.com
+253,169,Inver Grove Ford Inc,invergrovefordinc,FALSE,FALSE,3930 Silver Lake Rd NE ,Saint Paul,MN,55112,,7635196330,marty.gergen@pultegroup.com,http://twitter.com/giertsen1918
+254,169,Inver Grove Ford Lincoln Mercury,invergrovefordlincolnmercury,FALSE,FALSE,421 3rd St S ,Stillwater,MN,55082,4955,,ebon.petty@pultegroup.com,https://plus.google.com/+Giertsenco/posts
+255,169,Inver Grove Ford Lincoln,invergrovefordlincoln,FALSE,FALSE,1059 Meadowlands  Drive ,White Bear Township,MN,55110,,9528446400,adam.stowell@Pulte.com,http://www.gregoryscarpetcleaned.com
+256,171,Bill's Economy Glass Service,billseconomyglassservice,TRUE,TRUE,3550 Vicksburg Ln. N. ,Plymouth,MN,55447,,9528446452,Lorrie.Ulvi@Pulte.com,http://www.generalmills.com
+257,172,Bloomington Phillips 66,bloomingtonphillips66,TRUE,FALSE,3717 Lexington Avenue North ,Arden Hills,MN,55126,,9529273663,,http://twitter.com/generalmills
+258,172,Bloomington Auto Care,bloomingtonautocare,FALSE,TRUE,4205 Pheasant Ridge Dr NE ,Blaine,MN,55449,4529,6517356340,cherokeesvc@gmail.com,http://www.homecoinsulation.com
+259,172,J T D Corp,jtdcorp,FALSE,FALSE,12595 Central Ave NE ,Blaine,MN,55434,4861,9526869669,coatesparts@isd.net,http://www.hilltoptrailers.com
+260,175,B & B Insulation Company Inc.,bandbinsulationcompanyinc,TRUE,TRUE,3245 County Road 10 ,Brooklyn Center,MN,55430,,9524741298,,http://www.hagensautobody.com
+261,,,,,,1008 Highway 55 E ,Buffalo,MN,55313,8923,9528925600,jma@genesis-computer.com,
+262,,,,,,1750 County Road 42 W ,Burnsville,MN,55337,6200,6516336949,contact@mycustomglass.com,http://www.harmonautoglass.com
+263,,,,,,12900 Riverdale Drive ,Coon Rapids,MN,55448,,9528816294,Loren.Linn@att.net,http://www.hawkinsinc.com
+264,,,,,,2050 Northdale Blvd. ,Coon Rapids,MN,55433,,7635411414,,http://www.hoigaards.com
+265,179,Barnett Chrysler Jeep Kia,barnettchryslerjeepkia,TRUE,TRUE,2013 Broadway Ave. West ,Forest Lake,MN,55025,,9529292100,,http://www.holcombhenryboom.com
+266,,,,,,246 57th Ave NE ,Fridley,MN,55432,5420,3202524112,,http://www.austinsautorepaircenter.com
+267,,,,,,1729 Market Blvd ,Hastings,MN,55033,1254,7635448846,,http://www.hardrivesinc.com
+268,,,,,,7850 Cahill Ave. ,Inver Grove Heights,MN,55076,,9528313601,msaba@dodgeofburnsville.com,http://www.houleinsulation.com
+269,,,,,,7435 179th St W ,Lakeville,MN,55044,5264,9529266833,dlgmdaveauto@aol.com,https://homecareincremodeling.com/
+270,,,,,,8421 S. Lyndale Ave. ,Bloomington,MN,55420,,6128611881,deyhq@deydistributing.com,
+271,,,,,,8150 Wedgewood Lane ,Maple Grove,MN,55369,,9529350198,,https://www.facebook.com/HomecareIncorporated
+272,,,,,,2390 White Bear Ave. ,Maplewood,MN,55109,,6126367654,bdey@deydistributing.com,
+273,,,,,,1440 University Ave W ,Saint Paul,MN,55104,4012,9524762222,jmonahan@donnellystucco.com,
+274,183,B & R Transmission & Service Center Inc,bandrtransmissionandservicecenterinc,TRUE,TRUE,4801 Highway 101 ,Minnetonka,MN,55345,2636,6126985845,tdonnelly@donnellystucco.com,
+275,184,"Brambillas, Inc.",brambillasinc,FALSE,TRUE,216 W 7th St ,Monticello,MN,55362,8305,9529350194,,http://www.houseofclocksmn.com
+276,184,Brambillas RV,brambillasrv,TRUE,FALSE,2600 Rice Creek Rd ,New Brighton,MN,55112,5344,9528960092,bbreault@donnellystucco.com,
+277,185,Broadway Party & Tent Rental,broadwaypartyandtentrental,FALSE,FALSE,2423 Highway 3 S ,Northfield,MN,55057,4588,9529152628,,https://www.lupientchevrolet.com/
+278,185,Broadway Rental Equipment Company,broadwayrentalequipmentcompany,FALSE,FALSE,4445  Nathan Lane N ,Plymouth,MN,55442,,6515547001,jdaher@donnellystucco.com,http://www.honeywell.com
+279,185,Broadway Party Rental,broadwaypartyrental,FALSE,FALSE,3784 150th Street ,Rosemount,MN,55068,,6514512201,neva@duanesfloorservice.com,
+280,187,Blaine State Bank,blainestatebank,FALSE,FALSE,14075 Highway 13 S ,Savage,MN,55378,3100,8009540343,nevmgull@embarqmail.com,
+281,187,CorTrust Bank,cortrustbank,TRUE,TRUE,1198 Vierling Dr E ,Shakopee,MN,55379,4313,8002012039,nevmgull@centurylink.net,
+282,188,Allied Waste Services,alliedwasteservices,FALSE,FALSE,23800 State Hwy. 7 ,Excelsior,MN,55331,,7635330355,tom@Durabiltconst.com,http://www.hindingheating.com
+283,188,Republic Services of the Twin Cities-Eden Prairie,republicservicesofthetwincitiesedenprairie,TRUE,TRUE,2197 Old Hudson Rd ,Saint Paul,MN,55119,4404,9528810415,john@cloggedplumbing.com,http://www.holidaystationstores.com
+284,190,Beissel Inc John,beisselincjohn,FALSE,FALSE,300 E. Travelers Trl. ,Burnsville,MN,55337,,6517313589,info@precisionconsultingmn.com,http://www.hiawathalumber.com
+285,190,Beissel John Inc,beisseljohninc,FALSE,FALSE,20250 Heritage Drive ,Lakeville,MN,55044,,6127313589,office@cloggedplumbing.com,http://www.heritagebldrs.com
+286,190,Beissel Window & Siding,beisselwindowandsiding,TRUE,TRUE,1616 W Mason St ,Green Bay,WI,54303,2329,6513356834,kim.castagnetta@ricoh-usa.com,
+287,190,General Home Improvement Company,generalhomeimprovementcompany,FALSE,FALSE,PO Box 2504 ,Inver Grove Heights,MN,55076,8504,,luke1331@hotmail.com,http://www.hoffmancorner.com
+288,190,Accent Design & Renovation LLC,accentdesignandrenovationllc,FALSE,FALSE,2945 Buckley Way ,Inver Grove Heights,MN,55076,2019,,jolynn.grenier@ricoh-usa.com,http://www.hiltonfirebrick.com
+289,192,Coverall Siding Co,coverallsidingco,TRUE,TRUE,2506 Riverside Ave ,Minneapolis,MN,55454,1497,,Cindy.K.Huntington@deluxe.com,http://www.refractoryservice.com
+290,194,"Carlson, Iver & Son Inc",carlsoniverandsoninc,FALSE,FALSE,,,,,,6514293391,kathy.r.viere@deluxe.com,http://www.hagekobany.com
+291,194,"Carlson, Iver H. and Son, Inc",carlsoniverhandsoninc,FALSE,FALSE,7402 Washington Ave S ,Eden Prairie,MN,55344,3704,6514826100,karen.d.miller@deluxe.com,http://www.idcmn.com
+292,194,"Iver H. Carlson & Son, Inc.",iverhcarlsonandsoninc,TRUE,TRUE,8960 Excelsior Blvd ,Hopkins,MN,55343,8393,,Cynthia.L.Rivenburgh@deluxe.com,http://www.americanexpress.com
+293,194,"Iver Carlson & Son, Inc.",ivercarlsonandsoninc,FALSE,FALSE,800 Hennepin Ave ,Minneapolis,MN,55403,1899,,joanne.bailey@deluxe.com,http://www.ameriprise.com
+294,,,,,,110 North Fifth Street ,Minneapolis,MN,55403,,7635334422,,http://www.icsystem.com
+295,196,Cramer Electrical Contracting Inc,cramerelectricalcontractinginc,TRUE,TRUE,1400 Union Meeting Rd Ste 101 ,Blue Bell,PA,19422,1952,9524452611,dinsmorecleans@qwestoffice.net,
+296,196,Cramer Electric,cramerelectric,FALSE,FALSE,110 Cottage Ave W ,Saint Paul,MN,55117,4577,7634246155,cindy.brooks@mydolphingroup.com,
+297,196,Maxwell Ronallo Electric,maxwellronalloelectric,FALSE,FALSE,1711 Gurney St ,Saint Paul,MN,55117,2319,7635331680,info@mydolphingroup.com,http://www.kaufman-roofing.com
+298,197,Clarity Coverdale Fury Advertising,claritycoverdalefuryadvertising,FALSE,FALSE,10010 Minnetonka Blvd ,Hopkins,MN,55305,4656,7633920167,jdelisle@tds.net,https://www.kaufmanroofing.com
+299,,,,,,335 E 78th St ,Bloomington,MN,55420,1290,,jdelisle@delislecompany.com,http://www.youtube.com/watch?v=GOwgm4cX7fE
+300,198,Central Insulation,centralinsulation,TRUE,FALSE,2811 Beverly Rd Ste 100 ,Eagan,MN,55121,5501,7637860123,,https://www.facebook.com/KaufmanRoofing
+301,198,Central Insulation & Weatherization,centralinsulationandweatherization,FALSE,FALSE,12501 Rhode Island Ave ,Savage,MN,55378,1136,9529415174,sbergin@visi.com,https://www.lupient.com
+302,198,Central Shelving Designs,centralshelvingdesigns,FALSE,FALSE,1180 Highway 36 E ,Maplewood,MN,55109,2597,7637842104,,https://www.facebook.com/LupientAuto
+303,198,"Central Systems, LLC",centralsystemsllc,FALSE,TRUE,1728 Concordia Ave ,Saint Paul,MN,55104,5226,3202529608,,https://www.twitter.com/lupientauto
+304,199,Chim Chimney Chimney Sweep,chimchimneychimneysweep,TRUE,TRUE,5712 Lakeland Ave N ,Minneapolis,MN,55429,,9529465227,,http://www.johnsauto.com
+305,201,Countryside Culligan Of Red Wing,countrysideculliganofredwing,FALSE,FALSE,1101 Highway 10 S ,Saint Cloud,MN,56304,1813,6514558634,twuensch@qwest.net,
+306,201,Culligan Water,culliganwater,FALSE,FALSE,8089 Lost Lake Rd ,Lake Shore,MN,56468,2523,9529465201,griswold@efflearn.com,http://www.jostens.com
+307,201,M & M Water Inc,mandmwaterinc,FALSE,FALSE,I94 Hwy. 101 ,Rogers,MN,55358,396,9529465220,jeff@elsaudio.com,http://www.jeffsautoservice.com
+308,201,Bluff Country Water Corporation,bluffcountrywatercorporation,TRUE,TRUE,12720 Chestnut Blvd ,Shakopee,MN,55379,9319,6514576030,,http://www.myfoxtwincities.com
+309,,,,,,6671 Lake Blvd ,Forest Lake,MN,55025,8297,6514516835,accounting@enduranceautomotiveinc.com,http://www.fox9.com
+312,,,,,,51629 County Highway 9 ,Pel Rapids,MN,56572,,6517889082,energysavers2000@aol.com,http://www.kathhvac.com
+313,,,,,,2381 Crossroads Blvd ,Albert Lea,MN,56007,4001,6512229327,rwothe@envieonmentsinc.com,
+314,,,,,,Hwy 371 N ,Brainerd,MN,56401,,9522361737,tbriggman@gf.com,
+315,202,Radisson Hotels International,radissonhotelsinternational,FALSE,FALSE,621 Division St E ,Maple Lake,MN,55358,4595,6513232215,info@firstlandmarkbuildersinc.com,
+316,,,,,,12260 Margo Ave S ,Hastings,MN,55033,9180,6513232016,janf@fullertonlbr.com,http://www.kraftfoods.com
+317,202,Radisson Hotel Worldwide,radissonhotelworldwide,FALSE,FALSE,21150 Rogers Dr ,Rogers,MN,55374,9540,6128222270,garyk@fullertonlbr.com,http://www.kelcosupply.com
+318,,,,,,2210 E Main St ,Albert Lea,MN,56007,3921,9528545529,,http://www.facebook.com/pages/Kelco-Supply-Company/110213795705431
+319,202,Hotel Radisson,hotelradisson,FALSE,FALSE,17021 Commercial Park Rd Ste 7,Brainerd,MN,56401,6260,7635515528,riegelmanp@fireside.com,http://www.keycadillac.com
+321,,,,,,5375 Landmark Dr ,Brainerd,MN,56401,6859,6127212560,rbossert@floydtotalsecurity.com,http://www.associatedbank.com
+322,,,,,,8910 Hudson Blvd N ,Lake Elmo,MN,55042,9704,6516467161,,http://www.lilorbits.com
+324,,,,,,9393 Wayzata Blvd ,Minneapolis,MN,55426,1862,,,http://www.leefservices.com
+325,,,,,,6030 Culligan Way ,Minnetonka,MN,55345,5917,6128273541,,https://www.liebermancompanies.com
+326,,,,,,1825 Mobile Drive ,Winona,MN,55987,,6123393902,regulatorycomplaints@usbank.com,http://www.facebook.com/LiebermanCompanies
+327,,,,,,1825 Mobile Dr ,Winona,MN,55987,6225,9524422982,1800usbanks@usbank.com,http://www.pestandcrittercontrol.com
+328,,,,,,4343 Nicollet Ave ,Minneapolis,MN,55409,2032,6123303764,,http://www.lehmansgarage.com
+329,,,,,,7110 France Ave S ,Edina,MN,55435,4301,8002168808,jean.beikler@usbank.com,http://www.firerepair.com
+330,,,,,,7835 Brooklyn Blvd ,Brooklyn Park,MN,55445,2716,6513888808,christine.hobrough@usbank.com,
+331,,,,,,4100 Grand Ave ,Duluth,MN,55807,2736,7632125002,Midwest@Flo-Pac.Com,
+332,,,,,,5249 W. 73rd Street ,Edina,MN,55439,,8008888584,info@foleyexteriors.com,
+333,202,Gold Points Reward Network,goldpointsrewardnetwork,FALSE,FALSE,1979 Old Hudson Rd ,Saint Paul,MN,55119,4395,7632122196,vi.finch@bluestembrands.com,http://www.leossouth.com
+334,202,Gold Points Corporation,goldpointscorporation,FALSE,FALSE,222 Little Canada Rd E Ste 175,Saint Paul,MN,55117,1399,7632125000,customerservice@gettington.com,http://www.FriendshipVillageMN.com
+335,,,,,,222 Little Canada Rd E # 175 ,Saint Paul,MN,55117,1399,7632125400,noel.folstad@bluestembrands.com,http://www.facebook.com/LifespaceCommunities
+336,,,,,,192 9th St W Ste 100 ,Saint Paul,MN,55102,1012,8004018472,customerservice@mypaycheckdirect.com,http://twitter.com/LifespaceComm
+337,,,,,,190 5th St E Ste 200 ,Saint Paul,MN,55101,1637,8005089000,rimker@flareheating.com,http://www.lakelandfloral.com
+338,,,,,,332 Minnesota St STE N-110 ,Saint Paul,MN,55101,1314,8002073110,ddormanen@flareheating.com,http://www.latuffbrothers.com
+339,,,,,,7900 Bass Lake Rd ,New Hope,MN,55428,3116,6516983195,jschindele@flareheating.com,http://www.facebook.com/latuffautobody
+340,,,,,,1000 University Ave SE ,Minneapolis,MN,55414,2209,6126983195,info@flareheating.com,http://www.twitter.com/latuffautobody
+341,202,Carlson Rezidor Hotel Group,carlsonrezidorhotelgroup,FALSE,TRUE,2441 Fairview Ave N ,Roseville,MN,55113,2606,6514551221,melanie.green@faegrebd.com,
+342,205,Cliff's Hardware Inc,cliffshardwareinc,FALSE,FALSE,PO Box 1416 ,Maple Grove,MN,55311,6416,,bnodzon@faegre.com,
+343,205,Total Hardware Hank,totalhardwarehank,TRUE,TRUE,,,,,,7635592110,BKiernoziak@faegre.com,http://www.lundandlangeflorist.com
+344,205,Mitsch Total Hardware,mitschtotalhardware,FALSE,FALSE,,,,,,6514266534,tjbazoff@tedglasrud.com,https://www.facebook.com/pages/Larsen-Motors/122740897784480
+345,207,Crawford Door Sales Company - Twin Cities,crawforddoorsalescompanytwincities,TRUE,TRUE,,,,,,6514898217,tlglasrud@aol.com,http://www.mohawkmoving.com
+346,207,"Crawford Door Service Company, Inc.",crawforddoorservicecompanyinc,FALSE,FALSE,900 W Burnsville Pkwy ,Burnsville,MN,55337,2338,6514597106,sales@gopherbearing.com,https://www.boblowthford.com
+347,209,Cub Foods,cubfoods,TRUE,TRUE,222 S 9th St ,Minneapolis,MN,55402,3327,6514302350,Bearingjoe@AOL.COM,http://www.thrivent.com
+348,209,SuperValu Minneapolis,supervaluminneapolis,FALSE,FALSE,,,,,,7632879996,,http://lakestreettire.com
+349,209,Cub Liquor,cubliquor,FALSE,FALSE,11100 Hampshire Ave S Ste B ,Minneapolis,MN,55438,2740,9528949040,,http://www.lotsurveyscompany.com
+350,209,Cub Pharmacy,cubpharmacy,FALSE,FALSE,897 Hinckley Rd ,Burlingame,CA,94010,1502,7634242510,andreag@yourccsteam.com,http://www.lesjonesroofing.com
+351,211,Commerce Express Inc,commerceexpressinc,TRUE,TRUE,3738 Pillsbury Ave S ,Minneapolis,MN,55409,1221,7637804323,wrjellison@yahoo.com,http://www.lonmusolf.com
+352,212,Campus Travel Center Inc,campustravelcenterinc,TRUE,TRUE,464 Stillwater Rd ,Mahtomedi,MN,55115,,9524326300,mbailey@ll.net,http://www.rainsoftofperham.com
+353,214,Centraire,centraire,FALSE,FALSE,1909 W Burnsville Pkwy ,Burnsville,MN,55337,4233,6514867933,sales@gibbslawn.com,
+354,214,Centraire Heating & Air Conditioning Inc,centraireheatingandairconditioninginc,TRUE,TRUE,6540 Penn Ave S ,Richfield,MN,55423,1143,7637559802,mbalsom@zalecorp.com,
+355,214,Centraire Heating & AC Inc,centraireheatingandacinc,FALSE,FALSE,551 Valley Park Dr ,Shakopee,MN,55379,1874,7636824940,guygrussing@hotmail.com,http://www.newbrightonford.com
+356,216,"Custom Pools, Inc.",custompoolsinc,TRUE,TRUE,2750 Eagandale Blvd ,Eagan,MN,55121,1209,9524358300,amy@grussingroofing.com,http://www.mnstatefair.org
+357,216,Custom Pools & Spas Inc,custompoolsandspasinc,FALSE,FALSE,2000 1st Ave N ,Moorhead,MN,56560,2309,7637679330,guy@grussingroofing.com,http://www.muskalighting.com
+358,220,Carmichael Lynch Spong,carmichaellynchspong,TRUE,TRUE,405 9th St SE ,Minot,ND,58701,4804,7634214252,gopmotor@aol.com,http://www.centerpointenergy.com
+359,220,Carmichael Lynch Spong Public Relations,carmichaellynchspongpublicrelations,FALSE,FALSE,1016 10th St SE ,Jamestown,ND,58401,5821,6514544406,,
+360,220,Carmichael Lynch Thorburn Design,carmichaellynchthorburndesign,FALSE,FALSE,PO Box 191 ,Devils Lake,ND,58301,191,6519824511,gdownes@garlock-french.com,http://www.metro-cleaning-services.com
+361,221,CertainTeed Corp Building Materials,certainteedcorpbuildingmaterials,FALSE,FALSE,801 Industrial Blvd ,Morris,MN,56267,,7635713744,sloyd@astleford.com,http://www.askmerrill.ml.com
+362,221,CertainTeed Corp,certainteedcorp,TRUE,TRUE,3225 E Thayer Ave ,Bismarck,ND,58501,3354,6514381481,lwaters@northstartrucks.com,http://www.mickman.com
+363,221,CertainTeed Roofing,certainteedroofing,FALSE,FALSE,300 S Central Ave ,Duluth,MN,55807,2368,6514511579,,
+364,221,Certain Teed Corporation Tech Center,certainteedcorporationtechcenter,FALSE,FALSE,819 S 46th St ,Grand Forks,ND,58201,3841,9528911700,,
+365,225,"Leske Co., Inc.",leskecoinc,FALSE,FALSE,2505 Alexander St SW ,Owatonna,MN,55060,4721,9528814299,,
+366,225,Leske Masonry,leskemasonry,TRUE,TRUE,PO Box 387 ,Jamestown,ND,58402,387,7634948364,kgallivan@graco.com,
+367,227,"Carl's Auto Body, Inc.",carlsautobodyinc,TRUE,TRUE,9150 W 35W Service Dr NE ,Blaine,MN,55449,6745,6517738558,charlotte_m_boyd@graco.com,https://www.midas.com/minneapolis/store.aspx?shopnum=2239&dmanum=576001
+368,229,Alexander's Mobility Services,alexandersmobilityservices,TRUE,FALSE,15306 Highway 7 ,Minnetonka,MN,55345,3529,6516461003,info@communitysafetynet.com,http://www.ragstock.com
+369,229,Alexander's Moving & Storage,alexandersmovingandstorage,FALSE,FALSE,400 Cty Rd. 42 ,Burnsville,MN,55337,,9529381404,kmg@giertsenco.com,http://www.premierbanks.com
+370,229,"Stanley G Alexander, Inc.",stanleygalexanderinc,FALSE,TRUE,3101 W 69th St  MACF4822-021 ,Edina,MN,55435,,7632716800,charlied@giertsenco.com,http://www.monray.com
+371,230,"Metro Concrete Raising, Inc.",metroconcreteraisinginc,TRUE,TRUE,3200 Main St NW Ste 250 ,Minneapolis,MN,55448,1197,6516362277,keving@giertsenco.com,
+372,231,Countryside Volkswagen Inc,countrysidevolkswageninc,TRUE,TRUE,1011 1st St S Ste 490 ,Hopkins,MN,55343,9479,5076456887,ken.davis@goodyear.com,http://www.mwqa.com
+373,231,Countryside Volkswagen Saab Inc,countrysidevolkswagensaabinc,FALSE,FALSE,5871 Neal Ave N ,Stillwater,MN,55082,2177,7635530611,gregorysca@earthlink.net,http://www.morries.com
+374,231,Schmelz Countryside Saab,schmelzcountrysidesaab,FALSE,FALSE,8120 Penn Ave S Ste 265 ,Minneapolis,MN,55431,1326,6514230300,jeff.hagen@genmills.com,http://www.facebook.com/MorriesAuto
+375,231,Schmelz Countryside Volkswagen,schmelzcountrysidevolkswagen,FALSE,FALSE,5448 S Robert Trl ,Inver Grove Heights,MN,55077,1406,9524471555,lee.anderson@genmills.com,http://www.metricautoworks.com
+376,232,Creative Lighting Inc,creativelightinginc,TRUE,TRUE,4124 Quebec Ave N Ste 106 ,Minneapolis,MN,55427,1200,9524031620,,https://www.securian.com
+377,233,Crystal-Pierz Marine,crystalpierzmarine,FALSE,TRUE,110 2nd St S Ste 306 ,Waite Park,MN,56387,1367,9523809900,genesservice@gmail.com,
+378,233,Crystal - Pierz Marine,crystalpierzmarine,FALSE,FALSE,4886 Miller Trunk Hwy ,Duluth,MN,55811,1504,6127898689,homeco2@visi.com,http://www.mckaysfamily.com
+379,233,Crystal Marine,crystalmarine,FALSE,FALSE,3140 Neil Armstrong Blvd # 101 ,Saint Paul,MN,55121,2272,6513791440,homeco@visi.com,http://www.mckaysdodge.com
+380,233,Pierz Marine Inc,pierzmarineinc,FALSE,FALSE,4130 Blackhawk Rd Ste 122 ,Saint Paul,MN,55122,1700,6514397200,dgulden@homecoinsulation.com,http://www.mayerelectriccorp.com
+381,233,Tracker Marine - Shakopee,trackermarineshakopee,FALSE,FALSE,401 16th Ave NW  Ste 101A ,Rochester,MN,55903,,2187270272,Info@homecoinsulation.com,http://www.mayerelec.com
+382,233,"Tracker Marine, LLC",trackermarinellc,FALSE,FALSE,7100 Northland Circle Ste 210 ,Brooklyn Park,MN,55428,,9524698400,,http://www.hartmancommunities.com
+383,233,Bass Pro Shops Tracker Boating Center,bassproshopstrackerboatingcenter,TRUE,FALSE,1350 E Hwy 96 ,White Bear Lake,MN,55110,,6514831504,,http://www.rosevillemidwayford.net
+384,233,TMBC LLC,tmbcllc,FALSE,FALSE,4126 W Cty Rd 42 ,Savage,MN,55378,,6517794028,,
+385,,,,,,1005 SW Disk Dr Suite 101 MAC P6322-010 ,Bend,OR,97701,,9205928677,Sandy@hagensautobody.com,http://www.meritchev.com
+386,243,Classic Cleaners,classiccleaners,FALSE,FALSE,203 S Front St ,Saint Peter,MN,56082,2513,6514517332,dave.tomlinson@harmonglassmn.com,
+387,246,Carousel Automobiles,carouselautomobiles,FALSE,FALSE,PO Box 296 ,Saint Peter,MN,56082,296,9524517332,contactus@harmonautoglassmn.com,http://www.facebook.com/pages/Midwest-Northern-Nut-Company/150077071670652?sk=wall
+388,246,Carousel Porsche,carouselporsche,FALSE,FALSE,7843 12th Ave S ,Bloomington,MN,55425,1002,8003337731,Customer.Service@Hawkinsinc.com,http://www.marsden.com
+389,246,Carousel Audi,carouselaudi,FALSE,FALSE,823 W Lake St ,Minneapolis,MN,55408,2899,6123386705,firebird@gtojon.com,http://www.marsh.com
+390,246,Audi Minneapolis,audiminneapolis,TRUE,TRUE,PO Box 21401 ,Eagan,MN,55121,401,6123385616,dhall@hardrivesinc.com,http://www.martinwilliams.com
+391,248,Culligan Soft Water Services Company,culligansoftwaterservicescompany,FALSE,FALSE,1551 Payne Ave ,Saint Paul,MN,55130,3218,9529411044,bmehlhaff@hardrivesinc.com,http://www.facebook.com/MartinWilliamsAdvertising
+392,248,Culligan Water Conditioning-Minnetonka,culliganwaterconditioningminnetonka,TRUE,TRUE,,,,,,9529332255,info@houleinsulation.com,http://twitter.com/20tonideas
+393,248,Culligan - Minnetonka,culliganminnetonka,FALSE,FALSE,,,,,,6123346050,searl56@comcast.net,http://www.mna.org
+394,249,Culligan Water Conditioning Co,culliganwaterconditioningco,TRUE,TRUE,PO Box 9300 ,Minneapolis,MN,55440,9300,6123346222,stephanie@frontstepmarketing.com,https://www.pulte.com/homes/minnesota
+395,253,"Cremation Society of Minnesota, LLC",cremationsocietyofminnesotallc,TRUE,TRUE,15407 McGinty Rd W ,Wayzata,MN,55391,2399,9528941473,info@hirte.net,http://www.facebook.com/PulteGroup
+396,253,Waterson Funeral Home,watersonfuneralhome,FALSE,FALSE,PO Box 5650 ,Minneapolis,MN,55440,5650,6123346000,dispatch@hirtetransfer.net,http://twitter.com/PulteHomes
+397,253,"Cremation Society, Inc.",cremationsocietyinc,FALSE,FALSE,10775 SW 188th St Ste 2 ,Miami,FL,33157,6711,6123758500,meggie.wood@hirtetransfer.com,http://www.homeenergycenter.com
+398,255,Forsythe Appraisals LLC,forsytheappraisalsllc,TRUE,TRUE,4000 Highway 61 N ,Saint Paul,MN,55110,4664,8003451145,,http://www.mastertransmission.com
+399,256,Concept Group Atlanta (satellite office),conceptgroupatlantasatelliteoffice,FALSE,FALSE,225 S 6th St Ste 1400 ,Minneapolis,MN,55402,4654,2152742387,info@downtownjaguar.com,http://www.midwaychevy.com
+400,256,"Concept Group, Inc.",conceptgroupinc,TRUE,TRUE,1177 Avenue Of The Americas ,New York,NY,10036,2714,6103416470,bob.notch@downtownjaguar.com,http://www.minneapolisbusinesscollege.edu
+401,260,"Jade, Inc.",jadeinc,FALSE,TRUE,12701 Whitewater Dr Ste 300 ,Minnetonka,MN,55343,4160,6514889668,ted.terp@lutherauto.com,http://www.globeuniversity.edu
+402,260,Rosedale BP,rosedalebp,FALSE,FALSE,PO Box 2834 Centex Homes - Minnesota Division,Portland,OR,97208,2834,6516997089,,http://www.msbcollege.edu
+403,260,Southeast BP,southeastbp,FALSE,FALSE,,,,,,9529384240,,http://www.masterautomn.com
+404,260,Winnetka Marathon,winnetkamarathon,FALSE,FALSE,2730 Highwood Ave E ,Saint Paul,MN,55119,5898,8003285673,,http://www.medicalartspress.com
+405,260,Jade Auto Service,jadeautoservice,TRUE,FALSE,815 Dodd Rd ,Saint Paul,MN,55118,5725,9528814128,,http://www.metrogaragedoor.com
+406,260,Snelling I94 Citgo (OLD INFO),snellingi94citgooldinfo,FALSE,FALSE,509 Como Ave. ,Saint Paul,MN,55103,1598,9524408000,,http://www.ridgedoorsales.com
+407,,,,,,14025 W Freeway Dr ,Columbus,MN,55038,9705,9528905333,,
+408,,,,,,321 Gate Ave ,Williston,ND,58801,5833,6514848441,paul.arntzen@honeywell.com,http://www.startribune.com
+409,,,,,,8120 Penn Ave S Ste 111 ,Bloomington,MN,55431,1326,9524848441,,http://twitter.com/StarTribune
+410,262,Crosstown Auto Repair,crosstownautorepair,TRUE,TRUE,9309 Lyndale Ave S Ste 109 ,Bloomington,MN,55420,3541,6516470111,netmind18@aol.com,http://www.facebook.com/startribune
+411,263,Campbell Mithun,campbellmithun,TRUE,TRUE,9309 Lyndale Ave S # 109 ,Minneapolis,MN,55420,3541,8005479444,robin@hindingheating.com,https://plus.google.com/+startribune/posts
+412,,,,,,10843 University Ave NE ,Minneapolis,MN,55434,8032,2188291112,tom@hindingheating.com,http://www.manheim.com
+413,,,,,,1823 Glenwood Ave ,Minneapolis,MN,55405,1286,9522333437,customerservice@holidaystationstores.com,http://www.mwhi.com
+414,,,,,,5651 International Pkwy ,New Hope,MN,55428,3046,2189631010,dawn.prokop@holidaycompanies.com,http://www.jimmurrplumbing.com/
+415,,,,,,9140 Old Cedar Ave S ,Minneapolis,MN,55425,2340,2188331304,iked@heritagebldrs.com,http://www.nelsonstucco.com
+416,266,Coit Drapery & Carpet Cleaners,coitdraperyandcarpetcleaners,FALSE,FALSE,6215 W Howard St ,Niles,IL,60714,3403,2188331288,hoffmancorner@aol.com,http://www.northmemorial.com
+417,266,Coit Cleaning & Restoration Services,coitcleaningandrestorationservices,FALSE,FALSE,,,,,,3202515555,hagekobanytrans@msn.com,http://www.nashfinch.com
+418,266,"Coit Services Minnesota, Inc.",coitservicesminnesotainc,TRUE,FALSE,,,,,,7635331655,showroom@idcmn.com,https://www.spartannash.com/
+419,266,Coit,coit,FALSE,FALSE,3500 W 80th St ,Minneapolis,MN,55431,1068,7012829000,,http://www.northcentralbuilders.com
+420,266,Coit Services,coitservices,FALSE,FALSE,103 John F Kennedy Pkwy ,Short Hills,NJ,7078,2708,7152362628,regulatory.requests@ampf.com,http://www.michaelfoods.com
+421,266,Fabritain Enterprises Inc,fabritainenterprisesinc,FALSE,FALSE,12101 Highway 35W S ,Burnsville,MN,55337,1693,6514643005,ampfcicompliance@ampf.com,http://www.northernasphalt.com
+422,267,"Conklin Company, Inc.",conklincompanyinc,TRUE,TRUE,,,,,,7634161301,,
+423,269,Coca-Cola Enterprises Inc,cocacolaenterprisesinc,FALSE,FALSE,1850 New Brighton Blvd ,Minneapolis,MN,55418,4825,2188291111,consumeraffairs@icsystem.com,http://www.xcelenergy.com
+424,269,Midwest Coca-Cola Bottling Company,midwestcocacolabottlingcompany,FALSE,TRUE,PO Box 10698 1401 Willow Lake Blvd,Vadnais Heights,MN,55110,698,5073733559,,http://www.homesmartminnesota.com
+425,269,Coca Cola Refreshments,cocacolarefreshments,TRUE,FALSE,137 85th Ave NW ,Coon Rapids,MN,55433,6023,2185325151,clabs@icsystem.com,
+426,269,Coca Cola Bottling Company Jamestown,cocacolabottlingcompanyjamestown,FALSE,FALSE,525 Snelling Ave N ,Saint Paul,MN,55104,2331,6514808300,,http://www.nordicinsulation.com
+427,269,Coca-Cola Bottling Company,cocacolabottlingcompany,FALSE,FALSE,3431 Highway 13 E ,Burnsville,MN,55337,1026,6128657515,brucee2000@aol.com,http://www.qwest.com
+428,271,Commers Conditioned Water,commersconditionedwater,FALSE,TRUE,4302 Airpark Blvd ,Duluth,MN,55811,5724,7633238272,,
+429,271,Commers Soft Water Co,commerssoftwaterco,FALSE,FALSE,2810 3rd Ave N ,Fargo,ND,58102,4021,2185472800,therese@kaufman-roofing.com,http://www.neighborhoodbuilding.com
+430,271,"Commers Conditioned Water Southwest, Inc.",commersconditionedwatersouthwestinc,FALSE,FALSE,2519 E 25th St ,Minneapolis,MN,55406,1256,4178735900,christine@kaufman-roofing.com,http://www.northerncargo.net
+431,271,"Commers Conditioned Water of Burnsville, Inc.",commersconditionedwaterofburnsvilleinc,FALSE,FALSE,2700 Minnehaha Ave South Suite 1,Minneapolis,MN,55406,,4178735618,bob@kaufmanroofing.com,http://www.northlandapplianceservice.com
+432,272,Wells Fargo Financial Acceptance,wellsfargofinancialacceptance,TRUE,TRUE,2500 E 25th St ,Minneapolis,MN,55406,,4178734550,tony@kaufmanroofing.com,http://www.allianzlife.com
+433,276,Culligan of St. Peter,culliganofstpeter,TRUE,TRUE,2700 30th Ave S ,Minneapolis,MN,55406,1606,8664677408,info@kaufmanroofing.com,https://www.nebankmn.com
+434,276,"Mayer Soft Water, Co",mayersoftwaterco,FALSE,FALSE,118 State St S Ste 102 ,Waseca,MN,56093,3065,6517381244,,http://www.ing-usa.com
+435,,,,,,PO Box 524 ,Waseca,MN,56093,524,8006411244,,http://www.reliastar.com
+436,277,"Cabinetpak Kitchens of Minnesota, Inc.",cabinetpakkitchensofminnesotainc,TRUE,TRUE,20060 148th Cir N ,Rogers,MN,55374,9463,,,http://www.ingdirect.com
+437,281,Custom Camera & Electronics Service Inc.,customcameraandelectronicsserviceinc,FALSE,FALSE,6318 Cambridge St ,Minneapolis,MN,55416,2471,,,https://www.novusglass.com
+438,281,Custom Camera Service Inc,customcameraserviceinc,TRUE,TRUE,8000 Powell Rd Ste 160,Hopkins,MN,55343,8786,,dennis.quinn@lupient.com,http://www.northerndoor.com
+439,283,Anderson Electric Company Inc,andersonelectriccompanyinc,FALSE,FALSE,11976 Riverwood Dr ,Burnsville,MN,55337,1505,7637449393,,http://www.novakgm.com
+440,283,Claude M. Anderson Electric Company Inc,claudemandersonelectriccompanyinc,FALSE,FALSE,12124 12th Ave S ,Burnsville,MN,55337,1408,7637449303,leigh.kennedy@lupient.com,http://www.northlandwater.com
+441,283,NEI Electric Inc.,neielectricinc,TRUE,TRUE,2740 American Blvd W Ste 100 ,Bloomington,MN,55431,,,,http://www.wellsfargo.com
+442,284,Cargill Incorporated,cargillincorporated,TRUE,TRUE,3680 Victoria St N ,Shoreview,MN,55126,2966,,harry@johnsauto.com,
+443,285,Color Specialties Inc,colorspecialtiesinc,TRUE,TRUE,740 Adams St NE ,Minneapolis,MN,55413,2176,,1520Managers@LKQcorp.com,http://www.newgateschool.org
+444,287,Continental Motors,continentalmotors,TRUE,TRUE,2900 Johnson St NE ,Minneapolis,MN,55418,2234,9529127365,richard.stoebe@jostens.com,http://www.foundersproperties.com
+445,287,"L B Sales, Inc.",lbsalesinc,FALSE,FALSE,17 Washington Ave N # 500 ,Minneapolis,MN,55401,2093,8006576891,consumeraffairs@jostens.com,http://www.podanys.com
+446,288,"PricewaterhouseCoopers, LLP",pricewaterhousecoopersllp,TRUE,TRUE,1146 Rice St ,Saint Paul,MN,55117,4999,5074523600,jeffsauto@mcleodusa.net,
+447,288,Pricewaterhouse Coopers,pricewaterhousecoopers,FALSE,FALSE,,,,,,6128252435,leann@jeffsauto.com,http://www.facebook.com/OwensCompanies
+448,752,Centex Homes,centexhomes,FALSE,FALSE,,,,,,9529244100,carol.rueppel@foxtv.com,http://www.twitter.com/OwensCompanies
+449,752,Centex Real Estate Corporation,centexrealestatecorporation,FALSE,FALSE,,,,,,7635603100,cruep601@foxtv.com,http://www.pemtomland.com
+450,752,Centex Homes - Minnesota Division,centexhomesminnesotadivision,FALSE,TRUE,,,,,,2186245200,kmspap@foxtv.com,
+451,752,Pulte Group MN,pultegroupmn,FALSE,FALSE,4805 Nicollet Ave ,Minneapolis,MN,55409,2510,6514869550,,http://www.bonabros.com
+452,292,"Carver General Repair, Inc.",carvergeneralrepairinc,TRUE,TRUE,19030 31st Place N. ,Plymouth,MN,55447,,8007234003,john.campobasso@krausanderson.com,http://www.plehal.com
+453,292,Carver Towing,carvertowing,FALSE,FALSE,7079 Amundson Ave ,Edina,MN,55439,2017,6512219710,dengelsma@karealty.com,
+454,292,Carver Auto Body,carverautobody,FALSE,FALSE,60 S 6th St Ste 1000 ,Minneapolis,MN,55402,1125,7634166366,psevenich@karealty.com,https://plus.google.com/+PlehalBlacktoppingIncShakopee/about
+455,293,Cherokee Service Inc,cherokeeserviceinc,TRUE,TRUE,5170 W Broadway Ave ,Minneapolis,MN,55429,3506,6516369494,,https://www.pilgrimdrycleaners.com
+456,293,Cherokee Service Station,cherokeeservicestation,FALSE,FALSE,12930 Martin St NW ,Coon Rapids,MN,55448,7024,7635350580,ddiessner@kainsurance.com,https://www.facebook.com/pages/Pilgrim-Cleaners/280779447824?ref=ts
+457,294,Coates Rental & Trailer Sales,coatesrentalandtrailersales,FALSE,FALSE,3446 Bloomington Ave ,Minneapolis,MN,55407,2217,6123312244,kbrenna@kainsurance.com,https://twitter.com/PilgrimCleaners
+458,294,Coates Trailer Sales,coatestrailersales,FALSE,FALSE,6885 146th St W ,Saint Paul,MN,55124,6894,6516463889,rwaddell@kainsurance.com,http://www.palenkimball.com
+459,294,Coates Trailers Inc,coatestrailersinc,TRUE,TRUE,6781 146th St W ,Apple Valley,MN,55124,7285,,dareldmeggitt@kathfuel.com,
+460,294,Coates RV,coatesrv,FALSE,FALSE,452 Northco Dr Ste 180 ,Minneapolis,MN,55432,3308,9528909760,keithwilliams@kathfuel.com,
+461,296,Computer Buying Service - Old Name,computerbuyingserviceoldname,FALSE,FALSE,7515 Wayzata Blvd ,Minneapolis,MN,55426,1604,,timmcquillan@kathfuel.com,http://www.parentsautocare.com
+462,296,Genesis Computers,genesiscomputers,TRUE,TRUE,,,,,,6127414763,,http://www.facebook.com/parentsautocare
+463,296,"Centurion Computers, Inc.",centurioncomputersinc,FALSE,FALSE,,,,,,6123471000,,http://twitter.com/ParentsAutocare
+464,296,Centurian Computers Inc,centuriancomputersinc,FALSE,FALSE,300 York Ave ,Saint Paul,MN,55101,4082,,,https://plus.google.com/105988352899332626449/posts
+465,299,Crest Cleaners,crestcleaners,TRUE,TRUE,875 Montreal Way ,Saint Paul,MN,55102,4245,9529449433,alicia@kelcosupply.com,http://www.kpmg.com
+467,300,Custom Glass & Screen,customglassandscreen,TRUE,TRUE,370 Wabasha St N Ste 100 ,Saint Paul,MN,55102,1390,,order@kelcosupply.com,http://www.patioenc.com
+468,305,Cedar Avenue Amoco,cedaravenueamoco,TRUE,TRUE,655 Lone Oak Dr ,Eagan,MN,55121,1649,,dburg@keycadillac.com,http://www.greatdayimprovements.com/
+469,306,National Check Service,nationalcheckservice,FALSE,FALSE,11 W 58th St ,Minneapolis,MN,55419,2410,,,http://www.petersonroofing.net
+470,306,Global Payments Inc.,globalpaymentsinc,TRUE,TRUE,988 Greensboro Ln ,Eagan,MN,55123,2246,,mstanzak@keycadillac.com,https://www.parkchryslerjeep.com
+471,306,NAB Check Services,nabcheckservices,FALSE,FALSE,7740 W 78th St ,Bloomington,MN,55439,2520,,,https://www.pentair.com
+472,306,EVS Check Services,evscheckservices,FALSE,FALSE,5516 Doncaster Way ,Minneapolis,MN,55436,2018,9524456010,,http://www.walserbuickgmc.com
+473,,,,,,3515 Highway 169 N ,Plymouth,MN,55441,2414,6514545460,justin.bjerkaas@associatedbank.com,http://www.classiccollisioncenter.org
+474,,,,,,5936 Pillsbury Ave S ,Minneapolis,MN,55419,2327,2182367165,sheila.iczkowski@associatedbank.com,
+475,311,Dun & Bradstreet,dunandbradstreet,TRUE,TRUE,2657 Brand Street  NE ,Minneapolis,MN,55418,,7018524431,,
+476,314,Burnsville Dodge,burnsvilledodge,FALSE,FALSE,9339 Science Center Drive ,Minneapolis,MN,55438,,7012524880,sue.smythurst@associatedbank.com,http://www.prestigelm.com
+477,314,"Dodge of Burnsville, Inc.",dodgeofburnsvilleinc,TRUE,TRUE,2635 Cedar Ave S ,Minneapolis,MN,55407,1220,7016622421,WeCare@associatedbank.com,http://www.plantscapeinc.com
+478,314,John Adamich's Dodge of Burnsville,johnadamichsdodgeofburnsville,FALSE,FALSE,5158 Bloomington Ave ,Minneapolis,MN,55417,1850,3205893328,,http://www.commercialsilk.com
+479,,,,,,13600 County Rd 62 ,Minnetonka,MN,55345,,7012221200,contact@lilorbits.com,http://www.prideaux.com
+480,316,Dave Steffens Automotive,davesteffensautomotive,FALSE,FALSE,528 Dale St SW ,Hutchinson,MN,55350,2329,2186282311,edo@lilorbits.com,http://www.penncycle.com
+481,316,Dave's Automotive,davesautomotive,FALSE,FALSE,375 Jackson St ,Saint Paul,MN,55101,1850,7017756211,brian@lilorbits.com,http://www.medica.com
+482,316,Steffens Automotive Dave,steffensautomotivedave,FALSE,FALSE,30 7th St E STE 1600 ,Saint Paul,MN,55101,4970,5074464070,consumeraffairs@landolakes.com,http://www.pioneerwheel.com
+483,322,Dey Appliance Company,deyappliancecompany,FALSE,FALSE,998 Kohlman Ct ,Saint Paul,MN,55109,1026,7637800555,DMSwanson@landolakes.com,
+484,322,Dey Appliance Parts,deyapplianceparts,FALSE,FALSE,995 Burns Ave ,Saint Paul,MN,55106,6577,6127813367,psjanzen@landolakes.com,
+485,322,"Dey Distributing, Inc.",deydistributinginc,TRUE,TRUE,4940 Viking Dr Ste 308 ,Minneapolis,MN,55435,5307,7632527701,dlbrooks@landolakes.com,
+486,323,Donnelly Companies,donnellycompanies,FALSE,FALSE,13355 10th Ave N Ste 100 ,Plymouth,MN,55441,5554,9527464200,jleef@leefservices.com,
+487,323,Donnelly Dotson Inc,donnellydotsoninc,FALSE,FALSE,13605 1st Ave N Ste 200 ,Plymouth,MN,55441,8831,9528981300,hallieberman@liebermancompanies.com,
+488,323,Donnelly Stucco Company,donnellystuccocompany,FALSE,FALSE,2700 Fairview Ave N ,Roseville,MN,55113,1306,7634273950,harold.lederman@liebermancompanies.com,http://www.whitebearlakesuperstore.com
+489,323,"Donnelly Stucco Construction Services, Inc.",donnellystuccoconstructionservicesinc,TRUE,TRUE,12460 Wayzata Blvd. ,Minnetonka,MN,55305,1923,6122820981,mia.dirks@liebermancompanies.com,http://www.supergmstore.com
+490,323,Donnelly Stucco,donnellystucco,FALSE,FALSE,3235 Denmark Ave ,Eagan,MN,55121,1382,8476251595,rick.cossette@lehmansgarage.com,http://twitter.com/wblsuperstore
+491,324,"Duane's Floor Service, Inc.",duanesfloorserviceinc,TRUE,TRUE,7937 Wedgewood Ln N ,Maple Grove,MN,55369,9411,9529153868,request@lehmansgarage.com,http://www.facebook.com/WhiteBearLakeSuperstore
+492,,,,,,12780 Plaza Dr ,Eden Prairie,MN,55344,3632,6514293363,darrell.amberson@lehmansgarage.com,https://plus.google.com/+Whitebearlakesuperstore/posts
+493,324,Gullickson Hardwoods,gullicksonhardwoods,FALSE,FALSE,20802 Kensington Blvd. ,Lakeville,MN,55044,8052,6514298023,sjammes@abraauto.com,
+494,325,Durabilt Additions,durabiltadditions,FALSE,FALSE,8390 Tamarack Vlg STE 512 ,Woodbury,MN,55125,3391,6514390766,garrett@firerepair.com,https://www.lincolnofbloomington.com
+495,325,"Durabilt Associates, Inc.",durabiltassociatesinc,TRUE,TRUE,9036 Grand Ave S ,Bloomington,MN,55420,3634,6514516866,hannah@firerepair.com,http://www.qualityinsulationmn.com
+496,325,Durabilt Garages,durabiltgarages,FALSE,FALSE,,,,,,6514558709,mikel@firerepair.com,
+497,326,"Annis Sewer, Inc",annissewerinc,FALSE,FALSE,,,,,,6516280208,chuck@firerepair.com,http://www.qeroof.com
+498,326,"D.C. Annis Sewer, Inc.",dcannissewerinc,TRUE,TRUE,,,,,,6516332421,kevin@firerepair.com,https://www.raymondautobody.com
+499,327,IKON Office Solutions,ikonofficesolutions,FALSE,TRUE,9700 Lyndale Ave S ,Bloomington,MN,55420,4233,6517304630,gary@firerepair.com,http://www.rossbachconst.com
+500,327,"IKON Office Solutions, a Ricoh Company",ikonofficesolutionsaricohcompany,TRUE,FALSE,,,,,,6517700564,michelle@firerepair.com,http://www.rudyluthertoyota.com
+501,332,Deluxe Corporation,deluxecorporation,TRUE,TRUE,,,,,,6517778316,rong@lakewoodcemetery.com,
+502,338,"Dinsmore Cleaners, Inc.",dinsmorecleanersinc,FALSE,FALSE,,,,,,9524313262,,http://www.roto-rooter.com
+503,338,"Dinsmore Cleaners & Launderers, Inc.",dinsmorecleanersandlaunderersinc,TRUE,TRUE,,,,,,6126280208,,http://www.rotorooter.com/minneapolis
+504,340,"DFG, Inc",dfginc,TRUE,TRUE,,,,,,6127700564,,http://www.rotorooter.com/newbrightonmn/
+505,340,Dolphin Staffing,dolphinstaffing,FALSE,FALSE,,,,,,6124558709,lsr_david@msn.com,http://www.hillwater.com
+506,340,Industrial Staffing,industrialstaffing,FALSE,FALSE,,,,,,7637803404,salesmgr@leossouth.com,http://www.rosedalechev.com
+507,340,Codeblu Medical Staffing,codeblumedicalstaffing,FALSE,FALSE,,,,,,6124298023,wbedeaux@leossouth.com,http://www.RentalResearch.com
+508,340,Dolphin Group Companies,dolphingroupcompanies,FALSE,FALSE,,,,,,9524454412,,http://www.facebook.com/RentalResearch?sk=info
+509,340,Indrotec,indrotec,FALSE,FALSE,,,,,,9528845334,,https://plus.google.com/111270453793858589891/posts
+510,340,Clinicor,clinicor,FALSE,FALSE,,,,,,7634932288,FVB_lifespace_invoicecapture@concursolutions.com,http://www.twitter.com/Rental_Research
+511,340,Humera,humera,FALSE,FALSE,,,,,,9529352116,,http://dynamex.com
+512,340,Jurisin,jurisin,FALSE,FALSE,,,,,,9529379042,jrandall@latuffbrothers.com,http://www.rite-waywaterproofing.com
+513,340,Binesta,binesta,FALSE,FALSE,,,,,,6124293363,Bob.Huber@leonard.com,https://www.lutherhopkinshonda.com
+514,340,Inginaire,inginaire,FALSE,FALSE,,,,,,7634735421,jill.weber@leonard.com,https://www.lutherauto.com
+515,343,C & T Properties,candtproperties,FALSE,FALSE,,,,,,6127304630,keith.moheban@stinsonleonard.com,http://www.hopkinshonda.com
+516,343,C & T Rental,candtrental,FALSE,FALSE,,,,,,9529278656,steve.brandl@leonard.com,http://www.rosegalleries.com
+517,343,DeLisle Company,delislecompany,FALSE,FALSE,,,,,,9524516866,lundlange@aol.com,http://www.RichfieldTransmission.net
+518,343,DeLisle Company Realtors,delislecompanyrealtors,FALSE,FALSE,,,,,,6127778316,info@mohawkmoving.com,http://www.redwingshoes.com
+519,343,"DeLisle Company, Inc.",delislecompanyinc,TRUE,TRUE,,,,,,7635338677,mlarson@mohawkmoving.com,http://www.emersonprocess.com/
+524,349,Darling Cleaners,darlingcleaners,FALSE,FALSE,,,,,,7634390766,rna@popp.net,http://www.raomfg.com
+525,349,Darling Drapery & Carpet Company,darlingdraperyandcarpetcompany,TRUE,TRUE,,,,,,9524453905,info@lakestreettire.com,http://www.riverhillsautomotive.com
+526,349,Soeffker Enterprises Inc,soeffkerenterprisesinc,FALSE,FALSE,,,,,,9528810770,anwar_bhimani@hotmail.com,http://www.rpvogel.com
+527,351,"RBC Dain Rauscher, Inc.",rbcdainrauscherinc,FALSE,FALSE,,,,,,7635455103,gprasch@LotSurveysCompany.com,
+528,351,RBC Wealth Management,rbcwealthmanagement,TRUE,TRUE,,,,,,7636332421,Lsc@fishnet.com,http://www.stpaulradiology.com
+529,354,"Duke's Body Shop, Inc.",dukesbodyshopinc,TRUE,TRUE,,,,,,9524745911,nancyj@lesjonesroofing.com,http://www.SSPSS.com
+530,355,Dunn's Garage,dunnsgarage,TRUE,TRUE,,,,,,7637868541,keithk@lesjonesroofing.com,http://www.sentrytablepad.com
+531,355,"Lowthian Inc., James",lowthianincjames,FALSE,FALSE,,,,,,9528901380,John.Rassett@Lonmusolf.com,http://www.stpaulsurgeons.com
+532,357,Dick's Valley Service Inc,dicksvalleyserviceinc,TRUE,TRUE,,,,,,7634279014,rslake@arvig.net,https://www.scanlaninternational.com/
+533,358,American Food Lines Inc,americanfoodlinesinc,FALSE,FALSE,,,,,,3202511897,info@morkwell.com,http://www.scicom.com
+534,358,Quantum Labs Inc,quantumlabsinc,TRUE,TRUE,,,,,,3206311832,Jacque@morkwell.com,
+539,364,E M C Corporation,emccorporation,TRUE,TRUE,,,,,,5079312393,,
+540,370,Ecolab Inc,ecolabinc,TRUE,TRUE,,,,,,8006902393,mroadways@yahoo.com,http://www.napaburnsvillemn.com
+541,371,"Wuensch Automotive Service, Inc.",wuenschautomotiveserviceinc,TRUE,TRUE,,,,,,9528545118,lindaj@muskalighting.com,https://www.facebook.com/pages/NAPA-Auto-Parts-of-Burnsville/103740583051182
+542,372,Effective Learning Systems Inc.,effectivelearningsystemsinc,TRUE,FALSE,,,,,,9522105275,david.knudson@centerpointenergy.com,http://www.schererbros.com
+543,372,"ELS Audio Publishing, LLC",elsaudiopublishingllc,FALSE,TRUE,,,,,,6128682077,,https://www.searsimports.com
+544,375,Endurance Automotive & Transmission,enduranceautomotiveandtransmission,FALSE,FALSE,,,,,,6517711000,rebecca.virden@centerpointenergy.com,https://www.facebook.com/searsimports
+545,375,Endurance Transmission Inc,endurancetransmissioninc,FALSE,FALSE,,,,,,7154833854,hsp@centerpointenergy.com,https://twitter.com/searsimports/
+546,375,"Endurance Automotive, Inc.",enduranceautomotiveinc,TRUE,TRUE,,,,,,7158318752,,https://plus.google.com/+SearsImportedAutos/posts
+547,377,"Enviromatic Corporation of America, Inc.",enviromaticcorporationofamericainc,TRUE,TRUE,,,,,,6512873122,david.muller@centerpointenergy.com,http://www.sedgwickheating.com
+548,379,Eastern Onion Singing Telegram Service,easternonionsingingtelegramservice,TRUE,TRUE,,,,,,9527426203,,http://www.facebook.com/sedgwickheating
+549,380,Energy Savers Insulation Inc,energysaversinsulationinc,TRUE,TRUE,,,,,,9527427575,,http://twitter.com/SedgwickHeating
+550,381,Environments Incorporated,environmentsincorporated,FALSE,TRUE,,,,,,9527426000,,
+551,381,Goebel Fixture Company,goebelfixturecompany,TRUE,FALSE,,,,,,9527425486,,http://www.stpaulplumbing.com
+552,384,Agri Bank FCB,agribankfcb,FALSE,FALSE,,,,,,9527422866,,
+553,384,AgriBank,agribank,TRUE,TRUE,,,,,,9527425410,,
+554,384,Farm Credit Services - Formerly,farmcreditservicesformerly,FALSE,FALSE,,,,,,9527426910,fisrus@aol.com,http://www.facebook.com/MSPPlumbingHeatingAir?sk=wall
+555,387,First Landmark Builders Inc,firstlandmarkbuildersinc,TRUE,TRUE,,,,,,6128611555,chris.mickman@mickman.com,
+556,387,Landmark Builders,landmarkbuilders,FALSE,FALSE,,,,,,6514261631,jeff.sutter@mickman.com,http://www.stpaulplumbing.com/#
+557,388,Forrest Heating Inc.,forrestheatinginc,TRUE,TRUE,,,,,,,john.mickman@mickman.com,https://mspplumbingheatingair.com/
+558,388,Forrest Heating Service,forrestheatingservice,FALSE,FALSE,,,,,,6125966000,randall.brott@mickman.com,http://www.springercollections.net
+559,390,D J Fretland & Associates Inc,djfretlandandassociatesinc,TRUE,TRUE,,,,,,6125966337,randy@wayzatanissan.com,http://www.accarlsons.com
+561,391,Fullerton Building Systems,fullertonbuildingsystems,FALSE,FALSE,,,,,,6517391265,,
+562,,,,,,15830 Franklin Trl SE ,Prior Lake,MN,55372,2012,6517393496,frmidas@mnmidas.com,http://www.sipebros.com
+563,391,Fullerton Lumber Company,fullertonlumbercompany,FALSE,FALSE,155 1st Ave SW ,Rochester,MN,55902,3147,6517319855,office@mnmidas.com,
+564,,,,,,1601 County Road C W ,Saint Paul,MN,55113,1313,6514574722,mgmidasshop@comcastbiz.net,http://www.snellingcompany.com
+565,392,Fireside Hearth & Home,firesidehearthandhome,TRUE,FALSE,3928 Silver Lake Rd NE ,Minneapolis,MN,55421,4397,6512221634,joestra56@gmail.com,http://www.southsideelectric.net/
+566,392,Allied Fireside Inc,alliedfiresideinc,FALSE,FALSE,1015 W Saint Germain St Ste 400 ,Saint Cloud,MN,56301,5423,8003761153,stanam@comcast.net,http://www.twincities.com
+567,392,Fireside Corner,firesidecorner,FALSE,FALSE,3777 Park Center Blvd ,St Louis Park,MN,55416,2515,6514880234,debbie.finn@ragstock.com,http://www.surgewater.com
+571,392,"Hearth & Home Technologies, LLC",hearthandhometechnologiesllc,FALSE,FALSE,,,,,,9528847537,email@midwestbrokersinc.com,http://www.facebook.com/HouseBoardshop
+572,398,Floyd Lock & Safe Company,floydlockandsafecompany,FALSE,FALSE,,,,,,9528845009,gmurtha@monray.com,http://twitter.com/houseboardshop
+573,398,Floyd Security Systems,floydsecuritysystems,FALSE,TRUE,,,,,,8008882983,info@monray.com,http://www.cexp.com
+574,398,Floyd Total Security,floydtotalsecurity,FALSE,FALSE,,,,,,7637574340,,http://savittpaint.com
+576,404,"Freeway Ford, LLC",freewayfordllc,TRUE,TRUE,,,,,,7635370949,midwestgar49@yahoo.com,http://www.stephensbuick.com
+577,407,Elan Financial Services,elanfinancialservices,FALSE,FALSE,,,,,,7635151105,info@mwqa.com,http://www.lutherauto.com
+578,407,FirstBank,firstbank,FALSE,FALSE,,,,,,9528544446,debra.bursing@morries.com,http://www.suburbanchev.com
+580,407,FirstBank South Dakota,firstbanksouthdakota,FALSE,FALSE,,,,,,8668609061,,http://www.sawhorseusa.com
+581,407,Firstar Bank Of Minnesota,firstarbankofminnesota,FALSE,FALSE,,,,,,8476471700,,http://www.swansonhomes.com
+582,407,US  Bank,usbank,TRUE,FALSE,,,,,,,chris@metricautoworks.com,http://www.susselbuilders.com
+583,407,U.S. Bank Nat'l Assoc. ND,usbanknatlassocnd,FALSE,FALSE,,,,,,,securiancomplaints@securian.com,
+584,407,BankCard Center,bankcardcenter,FALSE,FALSE,,,,,,9528419961,joan.lanasa@securian.com,http://www.saxonautogroup.com
+585,407,F B S Card Services,fbscardservices,FALSE,FALSE,,,,,,9739215500,kathy.mcdonald@securian.com,http://www.sextonprinting.com
+586,407,FirstBank Card Services,firstbankcardservices,FALSE,FALSE,,,,,,9528949000,,https://www.walsertoyota.com/
+587,407,U S Bancorp Service Center Inc,usbancorpservicecenterinc,FALSE,FALSE,,,,,,,pattyy@mckaysfamily.com,
+588,407,U S Bank Corp Card Services,usbankcorpcardservices,FALSE,FALSE,,,,,,,travis@mckaysfamily.com,
+589,407,U S Bank/U S Bancorp Service Center Inc,usbankusbancorpservicecenterinc,FALSE,FALSE,,,,,,6127811788,travis@mckaysdodge.com,
+590,407,Keystone Leasing,keystoneleasing,FALSE,FALSE,,,,,,6516470171,marty@mayerelectriccorp.com,http://www.sterlingfenceinc.com
+591,407,Portfolio Financial Servicing Company,portfoliofinancialservicingcompany,FALSE,FALSE,,,,,,6514909191,marty@mayerelec.com,http://www.superamerica.com
+592,407,Card Member Services,cardmemberservices,FALSE,FALSE,,,,,,7637868107,,http://www.heinsnursery.com
+594,407,World Perks Visa,worldperksvisa,FALSE,FALSE,,,,,,8003971339,,https://www.facebook.com/schoonoverbodyworks
+595,407,ReliaCard,reliacard,FALSE,FALSE,,,,,,9528909358,terry@hartmancommunities.com,https://standardwater.com/
+596,407,Downey Savings,downeysavings,FALSE,FALSE,,,,,,2187231626,main@rosevillemidwayford.com,http://www.samaritantire.com
+597,407,PFF (Pacific),pffpacific,FALSE,FALSE,,,,,,2183024205,Tkulick@rosevillemidwayford.com,
+598,407,"BankUSA, N.A",bankusana,FALSE,FALSE,,,,,,6127224200,tichenorjet@yahoo.com,http://www.facebook.com/SamaritanTire
+599,407,BankUSA,bankusa,FALSE,FALSE,,,,,,6512224200,rbortnem@meritchev.com,http://twitter.com/SamaritanTireCo
+600,407,Cal Nat'l,calnatl,FALSE,FALSE,,,,,,6127676257,,http://www.sunshinetravelco.com
+601,407,Citizens National Bank,citizensnationalbank,FALSE,FALSE,,,,,,,tlkskier@aol.com,http://www.suburbanlandscapeservice.com
+602,407,Madisonville State Bank,madisonvillestatebank,FALSE,FALSE,,,,,,7634288601,tsanford@meritchev.com,http://www.torgersonwell.com
+603,407,North Houston Bank,northhoustonbank,FALSE,FALSE,,,,,,9529389350,crinkel@meritchev.com,http://www.ctmt.com
+604,407,Pacific National Bank,pacificnationalbank,FALSE,FALSE,,,,,,9528883493,,http://cassidyturley.com
+605,407,Park National Bank,parknationalbank,FALSE,FALSE,,,,,,7635729839,,
+606,407,San Diego National Bank,sandiegonationalbank,FALSE,FALSE,,,,,,9528907578,tkraby@marsden.com,
+607,407,Community Bank of Lemont,communitybankoflemont,FALSE,FALSE,,,,,,6128616425,carol.d.hansen@marsh.com,http://www.kaufmancontainer.com
+608,407,U S Bancorp Manifest Funding,usbancorpmanifestfunding,FALSE,FALSE,,,,,,9528948220,bruce.w.smith@marsh.com,http://www.tjelias.com
+609,407,U.S. Bank Five Star Education Loans,usbankfivestareducationloans,FALSE,FALSE,,,,,,9527464706,b.mchugh@martinwilliams.com,http://www.telias.com
+610,407,U.S. Bank Systems,usbanksystems,FALSE,FALSE,,,,,,9528888000,t.frojd@martinwilliams.com,http://www.feldmanns.com
+611,407,U.S. Bank Voyager Fleet,usbankvoyagerfleet,FALSE,FALSE,,,,,,6514908000,accountspayable@martinwilliams.com,https://www.feldmannimports.com
+612,407,US Bank Marine Lending,usbankmarinelending,FALSE,FALSE,,,,,,6514908239,member@mna.org,http://tapemark.com
+613,407,The Private Client Reserve,privateclientreserve,FALSE,FALSE,,,,,,6514837773,barbaratrebisovsky@mna.org,http://www.tilsenbilt.com
+614,407,US Bank Visa Buxx,usbankvisabuxx,FALSE,FALSE,,,,,,6517871173,mna@mna.org,
+615,407,U S Bank Branham Lane Safeway Office,usbankbranhamlanesafewayoffice,FALSE,FALSE,,,,,,7195341102,,http://www.centrav.com
+616,407,"Dealers' Financial Services, LLC",dealersfinancialservicesllc,FALSE,FALSE,,,,,,7195341164,,http://www.twincityplating.com
+617,407,Clarion Financial,clarionfinancial,FALSE,FALSE,,,,,,6127819290,,http://www.dalegreencompany.com
+618,407,Toshiba Financial Services,toshibafinancialservices,FALSE,FALSE,,,,,,6123792277,,http://www.gbp.com
+621,407,US Bank Trust Company NA,usbanktrustcompanyna,FALSE,FALSE,,,,,,,,
+622,407,US Bank National Association,usbanknationalassociation,FALSE,FALSE,,,,,,,tmeyer@homeenergycenter.com,http://www.tonkaseamlessgutters.com
+623,407,"Elavon, Inc",elavoninc,FALSE,FALSE,,,,,,,tom@homeenergycenter.com,
+624,407,Business Equipment Financing,businessequipmentfinancing,FALSE,FALSE,,,,,,,brentfury@homeenergycenter.com,
+625,407,U.S. Bank,usbank,FALSE,FALSE,,,,,,,info@homeenergycenter.com,http://www.tiscoparts.com
+626,409,Flo-Pac Corp Southeast Division,flopaccorpsoutheastdivision,FALSE,FALSE,,,,,,6128275461,service@mastertransmission.com,https://www.goabcseamless.com
+627,409,Flo-Pac Corporation Midwest Division,flopaccorporationmidwestdivision,TRUE,TRUE,,,,,,6123717750,solberbing@midwaychevy.com,http://www.ecowater.com
+628,409,Flo-Pac/Midwest Division,flopacmidwestdivision,FALSE,FALSE,,,,,,6123712711,jherrmann@globeuniversity.edu,http://www.target.com
+629,409,Flo-Pac/Pacific Division (CA),flopacpacificdivisionca,FALSE,FALSE,,,,,,6123712811,Tdye@globeunuversity.edu,
+630,409,Flo-Pac/Southwest Division (GA),flopacsouthwestdivisionga,FALSE,FALSE,,,,,,7635377200,mgustafson@globeuniversity.edu,http://www.twincityinsulationllc.com
+631,409,Flour City Brush Company (former name),flourcitybrushcompanyformername,FALSE,FALSE,,,,,,6127212351,mbecker@globeuniversity.edu,
+632,410,Foley Stucco,foleystucco,FALSE,FALSE,,,,,,9524322848,,
+633,410,"Foley Exteriors, LLC",foleyexteriorsllc,TRUE,TRUE,,,,,,6125451984,mhughes@globeuniversity.edu,http://www.lutherbrookdaletoyota.com
+636,411,Bluestem Brands,bluestembrands,TRUE,TRUE,,,,,,,rkuhl@globeuniversity.edu,http://www.transmissionshopinc.com
+637,411,Gettington.com,gettingtoncom,FALSE,FALSE,918 N 3rd St ,Minneapolis,MN,55401,1017,,rkuhl@msbcollege.edu,http://www.na.thermoking.com
+638,411,Fingerhut,fingerhut,FALSE,FALSE,,,,,,6512902800,,http://www.thermoking.com
+639,411,Bluestem Enterprises Inc,bluestementerprisesinc,FALSE,FALSE,,,,,,8003525326,info@msbcollege.edu,
+640,411,Bluestem Fulfillment,bluestemfulfillment,FALSE,FALSE,700 Washington Ave N Ste 400 ,Minneapolis,MN,55401,1130,,jkuhl@msbcollege.edu,http://www.firestone.com
+641,411,PayCheck Direct,paycheckdirect,FALSE,FALSE,PO Box 9356 ,Minneapolis,MN,55440,9356,,gseifert@msbcollege.edu,http://www.twincitygaragedoor.com
+642,,,,,,451 Wilson St NE ,Minneapolis,MN,55413,2800,,bmeyer@msbcollege.edu,
+643,412,"Flare Heating & Air Conditioning, Inc.",flareheatingandairconditioninginc,TRUE,TRUE,6250 Ridgewood Rd ,Saint Cloud,MN,56303,820,,kmcccarthy@msbcollege.edu,http://www.facebook.com/TwinCityGarageDoor
+644,414,Faegre Baker Daniels LLP,faegrebakerdanielsllp,FALSE,TRUE,6509 Flying Cloud Dr STE 300 ,Eden Prairie,MN,55344,3307,6128611050,mitchellpeterson@globeuniversity.edu,http://www.trs-pos.com
+645,,,,,,9303 Plymouth Ave N Ste 104 ,Golden Valley,MN,55427,3769,9528931680,stesdall@globeuniversity.edu,http://www.idcdoors.com
+646,,,,,,90 S 7th St Ste 2200 ,Minneapolis,MN,55402,3901,9529431660,llundquist@globeuniversity.edu,
+647,418,Frenz Brake Service Inc,frenzbrakeserviceinc,TRUE,TRUE,,,,,,8009660443,gharvotich@frontiernet.net,http://twitter.com/IDCgaragedoor
+648,418,Frenz Brake & Automotive,frenzbrakeandautomotive,FALSE,FALSE,,,,,,6127244653,george@masterautomn.com,http://www.facebook.com/IDCGarageDoor
+649,420,First State Bank of Bayport,firststatebankofbayport,TRUE,TRUE,,,,,,7635457143,ALICIA@masterautomn.com,http://www.eescodist.com
+650,420,First State Bank & Trust,firststatebankandtrust,FALSE,FALSE,,,,,,6514885005,websitehelp@medicalartspress.com,http://www.bankofamerica.com
+651,421,Fairfield Company The,fairfieldcompanythe,TRUE,TRUE,,,,,,8003258476,ewinthrap@medicalartspress.com,http://www.fiacardservices.com
+652,427,"Grand Pre Properties, LLC",grandprepropertiesllc,FALSE,FALSE,,,,,,6128613330,steve.thomas@medicalartspress.com,https://plus.google.com/112657720765389962564/about?gl=us&hl=en
+653,427,"Black Marlin Investments, Inc.",blackmarlininvestmentsinc,FALSE,FALSE,,,,,,7635371820,christi.fisher@quill.com,http://www.uptowntransfer.com
+654,427,"Ted Glasrud Associates MN,LLC",tedglasrudassociatesmnllc,TRUE,TRUE,,,,,,6128274736,info@metrogaragedoor.com,http://twitter.com/UptownMoving
+655,427,Ted Glasrud Associates of DeLand FL Inc,tedglasrudassociatesofdelandflinc,FALSE,FALSE,,,,,,9529339981,custsvc@metrogaragedoor.com,http://www.linkedin.com/company/uptown-moving-and-storage?trk=company_name
+656,427,"Canabury Hill,LLC",canaburyhillllc,FALSE,FALSE,,,,,,6512828498,d_robinsonmn@att.net,http://www.valleyfair.com
+657,427,"Hill Plaza, LLC",hillplazallc,FALSE,FALSE,,,,,,6512828499,ridgedoor@hotmail.com,http://www.vikingexteriors.com
+658,429,Gopher Bearing Co.,gopherbearingco,TRUE,TRUE,2749 Nicollet Ave ,Minneapolis,MN,55408,1631,6512827702,metrogaragedoorco@gmail.com,http://www.vizecky.com
+659,431,Grahn's Upholstery & Antiques,grahnsupholsteryandantiques,FALSE,FALSE,950 Highway 95 N ,Bayport,MN,55003,1014,6512828800,btaylor@startribune.com,http://www.valspar.com
+660,431,Grahn's Upholstery & Furniture Restoration,grahnsupholsteryandfurniturerestoration,TRUE,TRUE,1221 Nicollet Ave # 225 ,Minneapolis,MN,55403,2420,6516993135,kwest@startribune.com,http://www.valsparpaint.com
+661,432,"Best Blacktop, Dale Griepp and Sons",bestblacktopdalegrieppandsons,FALSE,FALSE,1710 Douglas Dr N Ste 108 ,Minneapolis,MN,55422,4397,6126993135,cccvip@startribune.com,
+662,432,Dale Griepp & Sons Best Blacktop,dalegrieppandsonsbestblacktop,FALSE,FALSE,1700 Highway 36 W Ste 650 ,Saint Paul,MN,55113,4027,6517764585,lisa.jacobus@startribune.com,
+663,432,"Griepp, Dale and Sons, Best Blacktop",grieppdaleandsonsbestblacktop,FALSE,FALSE,2490 Territorial Rd ,Saint Paul,MN,55114,1570,6127764585,,
+664,432,"Jellison Enterprises, Inc.",jellisonenterprisesinc,FALSE,FALSE,350 W 2nd St ,Winona,MN,55987,3171,9528352717,john.walker@startribune.com,http://www.friendlychev.com
+665,432,Best Blacktop,bestblacktop,FALSE,FALSE,3688 S Park Ave ,Tucson,AZ,85713,5041,7635432700,,http://www.valleypools.com
+666,432,Jellison's Best Blacktop,jellisonsbestblacktop,TRUE,TRUE,14 27th Ave SE ,Minneapolis,MN,55414,3102,7635432722,steve.yaeger@startribune.com,http://www.windyscollision.com
+667,435,Sprint,sprint,FALSE,FALSE,3220 Loop Rd N ,Burnsville,MN,55306,5217,7634259656,patrick.davis@startribune.com,
+668,435,Sprint PCS New Transfers,sprintpcsnewtransfers,FALSE,FALSE,9801 Dupont Ave S Ste 250 ,Bloomington,MN,55431,3270,6516331042,,http://www.whitakerauto.com
+669,435,Sprint PCS,sprintpcs,TRUE,TRUE,1300 Game Farm Rd N ,Mound,MN,55364,8015,9528900758,,http://www.facebook.com/pages/Whitaker-Buick/173982002636821
+670,435,Sprint Nextel,sprintnextel,FALSE,FALSE,7625 County Road 50 ,Carver,MN,55315,9604,9525453797,info@mwhi.com,http://twitter.com/whitakerautos
+671,435,Sprint Long Distance,sprintlongdistance,FALSE,FALSE,,,,,,9524523399,jvmurr@yahoo.com,http://www.wilkersoncpa.com
+672,435,Sprint Broadband Group,sprintbroadbandgroup,FALSE,FALSE,,,,,,,evininc1@msn.com,
+673,435,Sprint Corp/Sprint PCS,sprintcorpsprintpcs,FALSE,FALSE,,,,,,,midascustomer@msn.com,http://www.westernconstructioninc.com
+674,435,Boost Mobile,boostmobile,FALSE,FALSE,,,,,,,stevedrobinski@erincos.com,
+675,437,Gibbs Lawn Inc,gibbslawninc,FALSE,TRUE,601 Carlson Pkwy ,Hopkins,MN,55305,5203,,sales@nelsonstucco.com,
+676,439,Gordon Jewelers of Maplewood Mall,gordonjewelersofmaplewoodmall,FALSE,FALSE,128 W Rose St ,Owatonna,MN,55060,2337,6123632372,sales@twincityroofing.com,https://www.walsercjd.com/
+677,439,Gordon's,gordons,FALSE,FALSE,7145 E Point Douglas Rd S ,Cottage Grove,MN,55016,3045,,annette.ozer@northmemorial.com,http://www.wagamonbrothers.com
+678,439,"Gordon's Jewelers Of Minn., Inc.",gordonsjewelersofminninc,FALSE,FALSE,13915 Radium St NW Ste D ,Ramsey,MN,55303,9144,,steve.miller@northmemorial.com,http://www.wnins.com
+679,,,,,,6300 Bunker Lake Blvd NW ,Anoka,MN,55303,5848,,todd.ostendorf@northmemorial.com,http://www.westernbr.com
+680,439,Gordons Jewelers,gordonsjewelers,FALSE,FALSE,7460 Viking Blvd NW ,Anoka,MN,55303,9683,,larry.taylor@northmemorial.com,
+681,439,Zale Corporation,zalecorporation,TRUE,TRUE,,,,,,,pat.boran@northmemorial.com,http://www.westernroofingsupply.com
+682,439,Zales,zales,FALSE,FALSE,620 Apache Mall ,Rochester,MN,55902,2109,9528889481,stephanie.davis@northmemorial.com,http://www.webbfinancial.com
+683,439,Zales Jewelers,zalesjewelers,FALSE,FALSE,3001 White Bear Ave N Ste 1056 ,Saint Paul,MN,55109,1207,6129734506,maria.gallegos@nashfinch.com,http://www.charnstrom.com
+684,439,Zales Outlet,zalesoutlet,FALSE,FALSE,602 Kirkwood Mall ,Bismarck,ND,58504,5704,6516364300,mary.masse@nashfinch.com,http://www.kare11.com
+685,439,Zales The Diamond Store,zalesthediamondstore,FALSE,FALSE,1605 1st St S ,Willmar,MN,56201,4234,6514394411,thesidingguys@qwestoffice.net,http://twincities.momslikeme.com/
+686,439,Zales The Diamond Store Outlet,zalesthediamondstoreoutlet,FALSE,FALSE,182 Northtown Dr NE ,Minneapolis,MN,55434,1035,6514302820,brakemanbrh@comcast.net,http://www.showcaseminnesota.com/
+687,446,"Grussing Roofing, Inc.",grussingroofinginc,TRUE,TRUE,Rosedale Mall W Hwy 36 & Fairview Ave N,Saint Paul,MN,55113,,6514297758,diane.sparish@michaelfoods.com,
+688,96082382,Gopher Motor Rebuilding Inc.,gophermotorrebuildinginc,FALSE,TRUE,Crossroads Shopping Center 41st and Division Street,Saint Cloud,MN,56301,,9522923958,beth.peta@michaelfoods.com,http://www.mnbound.com/
+689,449,Garlock-French Roofing,garlockfrenchroofing,TRUE,TRUE,1600 Miller Trunk Hwy ,Duluth,MN,55811,5640,6517804240,northern.asphalt@yahoo.com,
+690,450,G & H Truck Leasing Inc,gandhtruckleasinginc,FALSE,FALSE,12625 Wayzata Blvd ,Hopkins,MN,55305,1941,6124365237,,http://www.walkerroofing.com
+691,450,North Star Idealease,northstaridealease,TRUE,FALSE,2102 Maplewood Mall ,Saint Paul,MN,55109,1201,7637862500,natalie.maczka@xcelenergy.com,http://www.nottco.com
+692,450,North Star International Trucks Inc,northstarinternationaltrucksinc,FALSE,FALSE,1232 Eden Prairie Center ,Eden Prairie,MN,55344,,6516860487,dlcustadv@xcelenergy.com,http://www.walterhammond.com
+693,450,Astleford International,astlefordinternational,FALSE,FALSE,Mall of America E240,Minneapolis,MN,55425,,7634210198,james.g.erickson@xcelenergy.com,http://www.watergremlin.com
+694,450,Astleford Idealease,astlefordidealease,FALSE,TRUE,757 Zales W Acres Mall ,Fargo,ND,58103,,6129731111,Custcomp@xcelenergy.com,http://www.westsidevw.com
+695,450,North Star Truck Rental & Leasing Inc (OLD INFO),northstartruckrentalandleasingincoldinfo,FALSE,FALSE,River Hills Mall ,Mankato,MN,56001,,6512050674,Jeff.Eden@XCELENERGY.COM,https://www.whitebearlincoln.com
+696,455,Gold Eagle Of Roseville,goldeagleofroseville,FALSE,FALSE,6415 LaBeaux Ave NE Suite C050 ,Albertville,MN,55301,,6512447516,wendy.l.jaede@xcelenergy.com,
+697,455,Roseville Gold Eagle,rosevillegoldeagle,TRUE,TRUE,915 County Rd 42 West # 2018 ,Burnsville,MN,55306,4427,9529271702,rozanne.encinias@xcelenergy.com,http://www.warnersstellian.com
+698,,,,,,38573 Tanger Dr ,North Branch,MN,55056,5404,6129730400,Diedra.K.Howard@xcelenergy.com,http://www.paulwilliamstire.com
+699,,,,,,4305 Shady Oak Rd S ,Hopkins,MN,55343,6923,7634414501,Vincent.Gonzales@xcelenergy.com,http://www.facebook.com/pages/Paul-Williams-Tire-Company-Inc/241073030499
+700,461,Green Boy Lawns Inc.,greenboylawnsinc,TRUE,TRUE,6921 Raven Ct ,Eden Prairie,MN,55346,2613,6129732261,brenda.hughes@xcelenergy.com,https://www.KlineAutoWorld.com
+701,462,"Gray, Plant, Mooty, Mooty & Bennett, P.A.",grayplantmootymootyandbennettpa,FALSE,FALSE,6401 Cambridge St ,Minneapolis,MN,55426,4419,6512446177,andrea.borchers@xcelenergy.com,https://www.klinenissan.com
+702,462,Gray Plant Mooty,grayplantmooty,FALSE,FALSE,6530 James Ave N ,Brooklyn Center,MN,55430,,9528876060,tina.brusca@xcelenergy.com,https://www.klinevolvo.com
+703,463,Gamber Roofing Company,gamberroofingcompany,TRUE,TRUE,2301 E 25th St ,Minneapolis,MN,55406,1220,6517317219,josie.parkhurst@xcelenergy.com,http://www.waldoch.com
+704,465,Graco Inc,gracoinc,TRUE,TRUE,3000 Broadway St NE ,Minneapolis,MN,55413,1794,6517782650,judy.m.poferl@xcelenergy.com,http://www.young-america.com
+705,466,Community Safety Net,communitysafetynet,TRUE,FALSE,1233 Larpenteur Ave W ,Roseville,MN,55113,6319,6519822280,mark.a.tarnowski@xcelenergy.com,
+706,466,"Gateway Publishing, Inc.",gatewaypublishinginc,FALSE,TRUE,1233 Larpenteur Ave W ,Saint Paul,MN,55113,6319,6517483800,inquire@xcelenergy.com,http://www.youngstedts.com
+707,468,"Giertsen Company of Minnesota, Inc.",giertsencompanyofminnesotainc,TRUE,TRUE,,,,,,6517665660,sandi.a.kaduce@xcelenergy.com,http://www.facebook.com/Youngstedts
+708,468,Giertsen Construction,giertsenconstruction,FALSE,FALSE,,,,,,6517472000,custcomp@xcelenergy.com,http://twitter.com/youngstedts
+709,469,Brad Ragan Tire & Appliance,bradragantireandappliance,FALSE,FALSE,12255 120th St S ,Hastings,MN,55033,9479,6516473528,anna.moehagen@xcelenergy.com,http://www.zieglercat.com
+710,469,Carolina Tire,carolinatire,FALSE,FALSE,80 S 8th St Ste 500 ,Minneapolis,MN,55402,5383,6516368300,David.Lindstrom@bmo.com,
+711,469,Goodyear Auto Service Center,goodyearautoservicecenter,FALSE,FALSE,1010 W Saint Germain St ,Saint Cloud,MN,56301,3406,6517653819,melody.belknap@micorp.com,http://www.goldencare.com
+712,469,Goodyear Tire & Rubber Company,goodyeartireandrubbercompany,FALSE,TRUE,600 New Hampshire Ave NW ,Washington,DC,20037,2403,6514268266,sue.quam@bmo.com,
+713,469,Goodyear Tire & Service,goodyeartireandservice,TRUE,TRUE,2641 29th Ave S ,Minneapolis,MN,55406,1536,6512640200,jeanne.crain@micorp.com,
+714,469,Just Tires,justtires,FALSE,FALSE,88 11th Ave NE ,Minneapolis,MN,55413,1829,9529979600,james.sathre@micorp.com,https://www.abraauto.com
+715,470,Gregory's Carpet & Furniture Cleaning,gregoryscarpetandfurniturecleaning,TRUE,TRUE,PO Box 559 ,Pembina,ND,58271,559,6518694080,genna.reitberger@micorp.com,http://twitter.com/ABRAauto
+716,470,Gregory's Carpet & Upholstery,gregoryscarpetandupholstery,FALSE,FALSE,,,,,,9528542211,districtoperations.executiveescalations@bmo.com,https://plus.google.com/+abraautobody/posts
+718,,,,,,8385 10th Ave N ,Golden Valley,MN,55427,4420,9528908500,ehren.mcgeehan@bmo.com,http://www.americanruglaundry.com
+719,473,General Mills Consumer Services,generalmillsconsumerservices,FALSE,FALSE,,,,,,9524353235,sales@nordicinsulation.com,http://www.BlaineAutoBody.com
+720,473,"General Mills, Inc",generalmillsinc,TRUE,TRUE,12 Broadway Ave N ,Rochester,MN,55906,3795,6517683200,ctw@nordicinsulation.com,https://www.bloomingtonchryslerjeep.net
+721,473,Box Tops for Education,boxtopsforeducation,FALSE,FALSE,,,,,,6513651975,qnews@qwest.com,http://www.mastersonpersonnel.com/home.html
+722,473,General Mills Sales Inc,generalmillssalesinc,FALSE,FALSE,3013 W 66th St ,Richfield,MN,55423,1943,6512296134,info@mattressvalue.com,http://www.mastersonstaffing.com/
+723,475,Gene's Service,genesservice,TRUE,TRUE,820 Superior Blvd ,Wayzata,MN,55391,,6516956201,bruce@mattressvalue.com,http://www.wenzelplumbing.com/
+724,479,"Homeco Insulation, Inc.",homecoinsulationinc,TRUE,TRUE,1915 County Road D E ,Maplewood,MN,55109,5309,9529856180,nbrco@qwestoffice.net,https://www.stanleysteemer.com/locations-home/mn/mn-eden-prairie/895
+725,482,High Security,highsecurity,FALSE,FALSE,4020 Silver Lake Rd. NE ,Minneapolis,MN,55421,4396,7635761060,chadthompson@northerncargo.net,http://www.stanleysteemer.com
+726,482,"Highland Electric, Inc.",highlandelectricinc,TRUE,TRUE,10650 County Road 81 Ste 222,Osseo,MN,55369,4075,6126592000,laura.juergens@allianzlife.com,http://www.facebook.com/stanleysteemer
+727,482,RSR Electric,rsrelectric,FALSE,FALSE,629 Lowry Ave NE ,Minneapolis,MN,55418,2854,9529483131,Complaints_in-box@allianzlife.com,https://www.northcountryford.com
+728,483,"Hilltop Trailer Sales, Inc.",hilltoptrailersalesinc,FALSE,TRUE,326 E Hennepin Ave Ste 206 ,Minneapolis,MN,55414,1165,6514668330,,http://www.themarsh.com
+729,484,Hoeft Appliance Center,hoeftappliancecenter,TRUE,TRUE,627 Lowry Ave NE ,Minneapolis,MN,55418,2854,6512655999,,https://www.facebook.com/TheMarshACenterForBalanceAndFitness
+730,484,Hoeft's Electric Co,hoeftselectricco,FALSE,FALSE,,,,,,6515520420,,
+731,487,Hagen's Auto Body,hagensautobody,TRUE,FALSE,,,,,,9523612929,,http://www.amsi-corp.com
+732,487,"Hagen's Body Shop, Inc.",hagensbodyshopinc,FALSE,FALSE,,,,,,6123317388,ebanking@northeastbank-mn.com,http://www.govmint.com
+733,489,Horton Inc,hortoninc,TRUE,TRUE,PO Box 9452 Consumer Services Jfb Annex,Minneapolis,MN,55440,9452,9529422832,,
+734,489,Horton Industrial Products Inc - Webster SD,hortonindustrialproductsincwebstersd,FALSE,FALSE,PO Box 1113 ,Minneapolis,MN,55440,1113,9529257333,lwatts@ingdirect.com,http://www.diamondheadjewelers.com
+735,489,Horton Industries,hortonindustries,FALSE,FALSE,1 General Mills Blvd ,Minneapolis,MN,55426,1347,7635774060,ombudsman@ingdirect.com.,
+736,489,Horton Manufacturing,hortonmanufacturing,FALSE,FALSE,7233 Vincent Ave S ,Minneapolis,MN,55423,2897,9529362700,keith.beveridge@novusglass.com,http://www.aabbottferraro.com
+737,489,Horton Vehicle Components Inc - Britton SD,hortonvehiclecomponentsincbrittonsd,FALSE,FALSE,9541 Foley Blvd NW ,Coon Rapids,MN,55433,5524,6127288300,kimberly.wilson@novusglass.com,https://twitter.com/AabbottFerraro
+738,,,,,,3102 103rd Ln NE ,Minneapolis,MN,55449,4522,7634162800,info@northerndoor.com,http://www.facebook.com/pages/The-eye-nook/147787888625981
+739,,,,,,2030 Saint Clair Ave ,Saint Paul,MN,55105,1100,9523802000,nbeckman@northerndoor.com,https://plus.google.com/104931567248922378579/about
+740,,,,,,5200 West 74th Street ,Edina,MN,55439,,6122767000,internetsales@novakgm.com,http://www.theeye-nook.com
+741,496,"Hawkins, Inc.",hawkinsinc,TRUE,TRUE,7810 University Ave NE ,Fridley,MN,55432,2625,7635093700,brady.androff@northlandwater.com,
+742,496,Hawkins Chemical Inc. (old name),hawkinschemicalincoldname,FALSE,FALSE,334 University Ave E ,Saint Paul,MN,55130,4432,9522268300,,https://www.angieslist.com/companylist/us/mn/minneapolis/roncor-custom-rebuilders-reviews-390607.htm
+743,497,Hoigaards Inc,hoigaardsinc,TRUE,TRUE,2800 Lyndale Ave S ,Minneapolis,MN,55408,2156,9525428000,minneapolis@northlandwater.com,https://www.facebook.com/pages/Roncor-Custom-Rebuilders/313076833969
+744,497,Hoigaards,hoigaards,FALSE,TRUE,2565 Walnut St ,Saint Paul,MN,55113,2522,6128216221,stpaul@northlandwater.com,https://www.houzz.com/pro/roncorcustomrebuilders/roncor-custom-rebuilders
+745,498,A.E. Henry Funeral Home,aehenryfuneralhome,FALSE,FALSE,,,,,,9529271230,hansonji@wellsfargo.com,
+746,498,Holcomb-Henry-Boom Funeral Home,holcombhenryboomfuneralhome,TRUE,TRUE,,,,,,6123787181,Lois.A.Sullivan@wellsfargo.com,
+747,498,Holcomb-Henry-Boom Funeral Home & Cremation,holcombhenryboomfuneralhomeandcremation,FALSE,FALSE,,,,,,6123315445,Jeffrey.D.Kemink@wellsfargo.com,http://www.southdaleoptical.com
+748,500,"Austin's Auto Repair Center, Inc.",austinsautorepaircenterinc,TRUE,TRUE,,,,,,9522497070,carolyn.h.roby@wellsfargo.com,
+749,502,Hardrives Inc,hardrivesinc,TRUE,TRUE,,,,,,9528060221,joandt@email.com,
+750,503,"Olson Family Enterprises, Inc",olsonfamilyenterprisesinc,FALSE,TRUE,,,,,,6127064000,newgateschool@mail.com,http://www.housemaster.com
+751,503,"Houle Insulation, Inc",houleinsulationinc,TRUE,FALSE,,,,,,7633918111,david@podanys.com,
+754,506,"Homecare, Inc.",homecareinc,FALSE,FALSE,,,,,,6123377051,jareko@olsenfire.com,
+755,509,"Hirte Transfer & Storage, Inc.",hirtetransferandstorageinc,TRUE,TRUE,,,,,,6127824169,lisao@olsenfire.com,http://wayzatamarine.com/
+757,518,"House of Clocks, Inc",houseofclocksinc,TRUE,TRUE,,,,,,7635365328,plymouthroofing@hotmail.com,http://www.prestigepools.com
+758,519,Downtown Jaguar Land Rover (old),downtownjaguarlandroverold,FALSE,FALSE,,,,,,6123787101,,http://www.fourstarauto.com
+759,519,Downtown Pontiac Jaguar,downtownpontiacjaguar,FALSE,FALSE,,,,,,6123813000,daphne@pilgrimdrycleaners.com,http://www.idea-ma.com
+760,519,Luther Downtown Jaguar Lotus Land Rover,lutherdowntownjaguarlotuslandrover,FALSE,FALSE,10430 Excelsior Blvd ,Hopkins,MN,55343,3427,6126428000,chaynes@pilgrimdrycleaners.com,
+761,519,Jaguar Land Rover Minneapolis,jaguarlandroverminneapolis,FALSE,FALSE,,,,,,6122872115,dholmes@palenkimball.com,http://tbs.toshiba.com/tbs/
+762,519,Hansord Pont Company,hansordpontcompany,FALSE,FALSE,,,,,,5072388300,,
+763,520,Bockstruck Jewelers,bockstruckjewelers,FALSE,TRUE,,,,,,5076743210,parentsauto@yahoo.com,
+764,520,Rogers Corporate Awards,rogerscorporateawards,FALSE,FALSE,PO Box 506 ,Osseo,MN,55369,506,3207592785,dave@parentsautocare.com,https://www.goodinco.com
+765,520,The H. Bockstruck Co.,hbockstruckco,FALSE,FALSE,,,,,,5075836627,dolson@kpmg.com,http://www.actionautopartsmn.com
+766,520,Bockstruck's Fine Jewelry,bockstrucksfinejewelry,FALSE,TRUE,,,,,,6512579074,skopher@kpmg.com,http://www.sunsetfuneralservices.com
+767,522,"Harold Chevrolet, Inc. (old)",haroldchevroletincold,FALSE,FALSE,,,,,,2188787878,mcrottier@kpmg.com,http://www.wetpaintart.com
+768,522,Lupient Chevrolet of Bloomington,lupientchevroletofbloomington,TRUE,TRUE,3100 E Hennepin Ave ,Minneapolis,MN,55413,2923,2187201053,minneapolis@patioenc.com,https://www.johnroberts.com/
+769,522,Lupient Suzuki of Bloomington,lupientsuzukiofbloomington,FALSE,FALSE,2381 Rosegate ,Roseville,MN,55113,,2187232938,suzann.thorn@patioenclosures.com,
+770,522,Lupient Kia of Bloomington,lupientkiaofbloomington,FALSE,FALSE,3550 South Hwy 100 ,Minneapolis,MN,55416,2398,2187201076,Karen@petersonroofing.net,https://www.tcfence.com/
+771,523,Honeywell Inc,honeywellinc,TRUE,TRUE,5425 Excelsior Blvd ,Saint Louis Park,MN,55416,2912,2187201042,linda@petersonroofing.net,http://www.strippersonselby.com
+772,523,Honeywell Automation & Control Solutions,honeywellautomationandcontrolsolutions,FALSE,FALSE,5425 Excelsior Blvd ,Minneapolis,MN,55416,2912,2187365623,info@parkchryslerjeep.com,http://www.adc.com
+773,525,Handicapped Driving Systems,handicappeddrivingsystems,FALSE,FALSE,536 Snelling Ave N ,Saint Paul,MN,55104,2332,2183275340,ddworsky@parkchryslerjeep.com,http://www.dolphinpool-spa.com
+774,525,Handicapped Driving Systems Inc,handicappeddrivingsystemsinc,FALSE,FALSE,515 Highway 96 W ,Saint Paul,MN,55126,1903,5073879460,louis.ainsworth@pentair.com,https://www.chsinc.com
+775,525,HDS Specialty Vehicles,hdsspecialtyvehicles,FALSE,FALSE,1620 Commerce Dr ,North Mankato,MN,56003,1912,7632714165,,http://www.broadviewsecurity.com
+776,,,,,,14475 Quiram Dr Ste 1 ,Rogers,MN,55374,9067,2182996760,noell.mcpheeters@pentair.com,http://www.mainmotor.com
+777,526,Federal Sales Co/Harris Machinery,federalsalescoharrismachinery,FALSE,TRUE,381 118th Ave NW ,Minneapolis,MN,55448,2493,9527585666,mgreene@walser.com,http://www.facebook.com/mainmotors?ref=hl
+778,526,Harris Machinery Co,harrismachineryco,FALSE,FALSE,,,,,,3206296777,pporter@walser.com,http://twitter.com/MainMotorAnoka
+779,526,Harris Warehouse Canvas & Camping,harriswarehousecanvasandcamping,FALSE,FALSE,9301 Bryant Ave S Ste 215 ,Bloomington,MN,55420,3482,7633894504,webleads@walserbpgbloomington.dsmessage.com,http://www.berginautobody.com
+780,527,Hinding Company Heating & Air,hindingcompanyheatingandair,FALSE,FALSE,2077 Ellis Ave # A ,Saint Paul,MN,55114,1308,3202517110,,http://www.ezmasonry.com
+781,527,"Hinding Heating, Air & Electric, Inc.",hindingheatingairandelectricinc,TRUE,TRUE,,,,,,5072857870,arsclassic@aol.com,http://www.economymufflermn.net
+782,528,Holiday Companies,holidaycompanies,FALSE,FALSE,,,,,,5072857905,dkim513260@aol.com,http://www.alsautotrans.com
+783,528,Holiday Stores,holidaystores,FALSE,FALSE,,,,,,3202020836,tgmetcor@yahoo.com,http://alsautotrans.com
+784,528,Holiday Stores & Stations,holidaystoresandstations,FALSE,FALSE,1435 White Bear Ave N ,Saint Paul,MN,55106,2402,5075322443,kbwka@aol.com,https://www.buerkleacura.com
+785,528,Holiday Gas Station,holidaygasstation,FALSE,FALSE,,,,,,6516592025,info@plantscapeinc.com,https://www.facebook.com/BuerkleAcura
+786,528,"Holiday Stationstores, Inc.",holidaystationstoresinc,FALSE,TRUE,3701 Alabama Ave S ,Minneapolis,MN,55416,5156,6123033667,info@commericalsilk.com,https://twitter.com/BuerkleAcura
+787,528,Holiday,holiday,FALSE,FALSE,3624 Galleria ,Minneapolis,MN,55435,4220,,stacey@plantscapeinc.com,
+788,532,Hiawatha Lumber Company,hiawathalumbercompany,TRUE,TRUE,400 St. Peter Street ,Saint Paul,MN,55102,1105,5074330229,betty@penncycle.com,http://www.arrowinvergrove.com
+789,534,Heritage Builders,heritagebuilders,TRUE,TRUE,5108 Edina Industrial Blvd ,Edina,MN,55439,3008,2188285424,bill@penncycle.com,
+790,,,,,,1601 Southtown Dr ,Bloomington,MN,55431,1470,2187232947,Brenda.Herbst@Medica.com,
+791,,,,,,8033 Knox Ave S ,Minneapolis,MN,55431,1444,2187232800,jane.tessmann@medica.com,
+792,,,,,,1885 Douglas Dr. N. ,Minneapolis,MN,55422,4386,2187201067,bill.cousins@pioneerwheel.com,https://www.bloomingtonacura.com
+793,,,,,,7171 Ohms Ln. ,Minneapolis,MN,55439,2115,2187738701,,https://www.bloomingtonsubaru.com
+795,,,,,,1985 Douglas Dr N Mn10-131A,Minneapolis,MN,55422,3992,5077527331,,http://www.ditterinc.com
+796,539,Hoffman Corner Heating & Air Conditioning,hoffmancornerheatingandairconditioning,TRUE,TRUE,,,,,,2182627155,,https://www.pinterest.com/pin/198862139770307963/
+797,541,Hilton Fire Brick Services Inc,hiltonfirebrickservicesinc,FALSE,FALSE,16290 Kenrick Loop ,Lakeville,MN,55044,8495,5073879410,stever@wblsuperstore.com,http://www.gregies.com
+798,541,Hilton Fire-Brick Service Inc,hiltonfirebrickserviceinc,FALSE,FALSE,501 30th Ave SE ,Minneapolis,MN,55414,3218,3202564880,leeg@wblsuperstore.com,http://www.floor-center.com
+799,541,Hilton Mini Storage,hiltonministorage,FALSE,FALSE,915 7th St W ,Saint Paul,MN,55102,3602,5074442200,paulr@wblsuperstore.com,
+800,541,"Refractory Service, Inc.",refractoryserviceinc,TRUE,TRUE,PO Box 1224 ,Minneapolis,MN,55440,1224,2185872772,charlesg@wblsuperstore.com,http://www.andersoncleaners.net
+801,,,,,,4567 American Blvd W ,Bloomington,MN,55437,1123,5072857883,,https://cornerstoneford.com/
+802,,,,,,PO Box 1216 ,Minneapolis,MN,55440,1216,3202597566,clehr@bloomingtonlm.com,https://plus.google.com/116009157788377236253/posts
+803,543,Hage Kobany Transmission Service,hagekobanytransmissionservice,TRUE,TRUE,320 3rd Ave E ,Alexandria,MN,56308,1406,3202597565,kpatterson@bloomingtonlm.com,http://www.kesslermaguire.com
+804,543,Hage-Kobany Transmissions & Driveline Inc,hagekobanytransmissionsanddrivelineinc,FALSE,FALSE,650 50th Ave W ,Alexandria,MN,56308,9588,2187423314,qualinsu@qualityinsulationmn.com,http://www.cblfloors.com
+805,543,"Hage-Kobany Transmission & Automotive Service, Inc.",hagekobanytransmissionandautomotiveserviceinc,FALSE,FALSE,5310 Highway 29 S ,Alexandria,MN,56308,6079,3202313201,,https://colorglo.com/
+806,546,International Design Center Inc,internationaldesigncenterinc,FALSE,FALSE,115 Elm St W ,Annandale,MN,55302,1154,7153667378,,
+807,,,,,,460 W Main St ,Anoka,MN,55303,2017,6128744760,office@qeroof.com,https://www.facebook.com/colorglointernational
+808,,,,,,5980 149th St W ,Apple Valley,MN,55124,5701,6517357847,jerry@raymondautobody.com,https://twitter.com/ColorGlo/
+809,,,,,,5495 Highway 100 ,Aurora,MN,55705,8705,9528982235,jslom@raymondautobody.com,
+810,,,,,,15052 Dellwood Dr ,Brainerd,MN,56401,6938,9524748990,wrossbach@rossbachconst.com,
+811,551,Ameriprise Financial,ameriprisefinancial,TRUE,TRUE,PO Box 426 ,Beaver Bay,MN,55601,426,6514528070,dhruby@rossbachconst.com,http://riccarhvac.com
+812,551,Riversource Investment,riversourceinvestment,FALSE,FALSE,1106 Paul Bunyan Dr S ,Bemidji,MN,56601,,9528310673,RichRossbach@rossbachconst.com,http://www.saintpaulhotel.com
+813,551,RiverSource Life Insurance Company,riversourcelifeinsurancecompany,FALSE,FALSE,315 14th St S ,Benson,MN,56215,1705,7635935405,office@rossbachconst.com,http://www.stpaulhotel.com
+814,,,,,,281 Jefferson Blvd ,Big Lake,MN,55309,9573,3206329214,info@rudyluthertoyota.com,http://www.facebook.com/TheSaintPaulHotel
+815,554,"IC System, Inc.",icsysteminc,TRUE,TRUE,905 E Bismarck Expy ,Bismarck,ND,58504,6602,7634940275,monte.bion@rudyluthertoyota.com,http://twitter.com/SaintPaulHotel
+816,554,I C System Collection Agency,icsystemcollectionagency,FALSE,FALSE,8654 Central Ave NE ,Blaine,MN,55434,3315,9525139867,don.schumacher@rudyluthertoyota.com,http://www.southsideheating.com
+817,562,JBE Inc,jbeinc,FALSE,FALSE,123 W Market ,Bloomington,MN,55425,5521,6516391620,rick.johnson@rudyluthertoyota.com,http://www.facebook.com/pages/Southside-Heating-and-Air-Conditioning/187663791257540?v=info
+818,562,Johnson Roofing & Sheet Metal,johnsonroofingandsheetmetal,TRUE,TRUE,8401 Lyndale Ave S ,Minneapolis,MN,55420,2235,9529294150,deborah.basurto@rudyluthertoyota.com,http://www.citywidedoorco.com
+819,562,Milton Johnson Roofing,miltonjohnsonroofing,FALSE,FALSE,50 W 98th St ,Bloomington,MN,55420,4802,6517025577,Mark.Beithon@lutherauto.com,https://www.valleycardealers.com
+820,562,Milton L. Johnson Roofing & Sheet Metal,miltonljohnsonroofingandsheetmetal,FALSE,FALSE,8920 Penn Ave S ,Bloomington,MN,55431,2025,8779787446,joe.portillo@rudyluthertoyota.com,http://www.westmetroauto.com
+821,566,Jefferson Construction Inc,jeffersonconstructioninc,TRUE,TRUE,8331 Normandale Blvd ,Bloomington,MN,55437,1047,5073776868,james.michael@rrsc.com,http://www.facebook.com/WestMetroBuickGMC
+822,566,Jefferson Homes,jeffersonhomes,FALSE,FALSE,424 S 6th St ,Brainerd,MN,56401,3540,2188273171,cory.herbert@rrsc.com,
+823,566,Kent W. Jefferson Construction Inc.,kentwjeffersonconstructioninc,FALSE,FALSE,420 66th Ave N ,Brooklyn Center,MN,55430,1610,6128722657,troy.willey@rrsc.com,https://plus.google.com/112917591782243047860/po
+824,,,,,,7525 Brooklyn Blvd ,Brooklyn Park,MN,55443,3102,8668289640,sales@hillwater.com,http://www.dakotaunlimited.com
+825,,,,,,8500 Edinburgh Center Dr ,Brooklyn Park,MN,55443,3723,8003881131,nick@hillwater.com,https://www.facebook.com/dakotaunlimited
+826,,,,,,8517 Jefferson Ln N ,Brooklyn Park,MN,55445,2109,8003882328,karen@hillwater.com,
+827,,,,,,7 8th St NE ,Buffalo,MN,55313,1712,6126592025,jhanson@rosedalechev.com,http://www.mcnultyhomes.com
+828,,,,,,14150 Irving Ave S ,Burnsville,MN,55337,4440,8662629678,tgmetcor@gmail.com,
+829,571,John Kaufman Sheet Metal & Roofing Inc,johnkaufmansheetmetalandroofinginc,FALSE,FALSE,635 Main St S ,Cambridge,MN,55008,1918,5073889383,jkrapu@rosedalechev.com,http://www.ontimeservicepros.com
+830,571,"Kaufman Sheet Metal & Roofing, Inc.",kaufmansheetmetalandroofinginc,FALSE,TRUE,12024 Champlin Dr ,Champlin,MN,55316,2378,5075327755,Lee@RentalResearch.com,http://www.calhouncompanies.com
+831,571,Kaufman Roofing,kaufmanroofing,FALSE,FALSE,6210 109th Ave N ,Champlin,MN,55316,3468,2187232952,info@rentalresearch.com,http://www.facebook.com/pages/Calhoun-Companies/516424931748147
+832,574,Lupient Automotive Group,lupientautomotivegroup,TRUE,TRUE,441 W 79th St ,Chanhassen,MN,55317,4505,8008722657,Lee.Mikkelson@rentalresearch.com,https://twitter.com/CalhounCos
+833,,,,,,1465 White Oak Dr ,Chaska,MN,55318,2525,6123328641,steven.ladin@rentalresearch.com,http://www.gssc.net
+834,,,,,,PO Box 371 ,Clearwater,MN,55320,371,6123316510,info@rite-waywaterproofing.com,
+835,575,H V H Auto Parts Inc,hvhautopartsinc,FALSE,FALSE,1420 Cloquet Ave ,Cloquet,MN,55720,1944,8002082500,char@rite-waywaterproofing.com,http://www.pioneerpower.com
+836,575,John's Auto Parts,johnsautoparts,TRUE,FALSE,4259 Central Ave NE ,Columbia Heights,MN,55421,2921,,jeremy@rite-waywaterproofing.com,http://www.burnsvilleheating.com
+837,575,LKQ John's Auto Parts,lkqjohnsautoparts,FALSE,FALSE,202 101st Ave NW ,Coon Rapids,MN,55448,5221,3202379120,breanna@rite-waywaterproofing.com,http://www.facebook.com/BVHAC?sk=wall
+838,575,LKQ Great Lakes Corp,lkqgreatlakescorp,FALSE,TRUE,12480 Foley Blvd NW ,Coon Rapids,MN,55448,2122,,info@lutherhopkinshonda.com,http://twitter.com/BvilleHeating
+839,576,Jostens Inc,jostensinc,TRUE,TRUE,5410 Lakeland Ave N ,Crystal,MN,55429,3120,9526563861,info@hopkinshonda.com,https://plus.google.com/112194409097639692370/about?hl=en
+840,576,Jostens Photography,jostensphotography,FALSE,FALSE,PO Box 188 ,Deer River,MN,56636,188,,brian.peterson@hopkinshonda.com,http://coonrapidsgoodyear.com
+841,578,"Jeff's Auto Service, Inc.",jeffsautoserviceinc,TRUE,TRUE,31 Babcock Blvd W. ,Delano,MN,55328,,8664419160,kyle.allison@hopkinshonda.com,http://www.gurtekhomes.com
+842,582,KMSP-TV Fox/Fox UTV Holdings,kmsptvfoxfoxutvholdings,FALSE,TRUE,233 Frazee St E ,Detroit Lakes,MN,56501,3503,7635421166,kyle.allison@lutherhopkinshonda.com,http://www.ptltireandauto.com
+843,582,KMSP-TV - Fox Entertainment Group,kmsptvfoxentertainmentgroup,TRUE,FALSE,PO Box 1018 ,Devils Lake,ND,58301,1018,6127667000,auctions@rosegalleries.com,http://www.facebook.com/pages/PTL-Tire-Auto/75218369269
+844,582,Fox News,foxnews,FALSE,FALSE,231 W Museum Dr ,Dickinson,ND,58601,3933,6123363864,,http://www.chunksautomotiveservice.com
+845,582,Fox Television Stations Inc,foxtelevisionstationsinc,FALSE,FALSE,5430 Grand Ave ,Duluth,MN,55807,2639,6123363164,chuck@richfieldtransmission.net,
+846,582,KMSP-TV Fox/UTV Holding Inc.,kmsptvfoxutvholdinginc,FALSE,FALSE,1530 Woodland Ave ,Duluth,MN,55803,2626,6128715953,arlen.mattern@twcable.com,http://www.lbpmech.com/
+847,582,United Television,unitedtelevision,FALSE,FALSE,210 S 27th Ave W ,Duluth,MN,55806,,6514395195,Mark.Boehler@twcable.com,http://www.newspaces.com
+848,583,Ken's Roofing,kensroofing,TRUE,TRUE,2605 London Rd ,Duluth,MN,55812,2328,7634395195,arlen.mattern@cable.comcast,
+849,,,,,,1520 Kenwood Ave ,Duluth,MN,55811,2346,8008484897,MN_Corporatecomplaints@cable.comcast.com,
+850,,,,,,3301 W Arrowhead Rd ,Duluth,MN,55811,4065,7635442323,info@levitt-levitt.com,http://www.argosy.edu
+851,587,"Kraus Anderson, Incorporated",krausandersonincorporated,FALSE,FALSE,1065 Diffley Rd ,Eagan,MN,55123,1504,6514848833,LNEL@aol.com,
+852,587,Kraus Anderson Insurance,krausandersoninsurance,FALSE,FALSE,4595 Nicols Rd ,Eagan,MN,55122,,6513618941,matt.streiff@redwingshoe.com,
+853,587,Kraus Anderson Mortgage Company,krausandersonmortgagecompany,FALSE,FALSE,3615 Pilot Knob Rd ,Eagan,MN,55122,1316,7727810771,chris.crider@redwingshoe.com,http://www.acamn.com
+854,587,"Kraus-Anderson Companies, Inc.",krausandersoncompaniesinc,TRUE,TRUE,3044 Holiday Ln ,Eagan,MN,55121,1571,6516455871,jeff.marcus@redwingshoes.com,http://www.briggs.com
+855,587,Kraus-Anderson Realty Company,krausandersonrealtycompany,FALSE,FALSE,6213 Dell Rd ,Eden Prairie,MN,55346,1122,6123331446,michael.rudquist@redwingshoes.com,
+856,,,,,,5200 Interlachen Blvd ,Edina,MN,55436,1427,9528904664,InfoCentral@EmersonProcess.com,http://www.chubaco.com
+857,587,Kraus-Anderson Construction Company,krausandersonconstructioncompany,FALSE,FALSE,13445 Business Center Dr NW ,Elk River,MN,55330,4610,9528813514,sue.dann@emerson.com,http://www.facebook.com/chubaco
+858,,,,,,18823 Freeport St NW ,Elk River,MN,55330,1269,9524355671,beth.strand@emerson.com,
+859,,,,,,1036 E Sheridan St ,Ely,MN,55731,1745,6122828598,regal@regalremodelers.com,http://www.autorepairbloomingtonmn.com
+860,,,,,,3040 25th St S ,Fargo,ND,58103,5056,6128507852,mikecessna@comcast.net,http://www.sheridansheetmetal.com
+861,,,,,,101 University Dr N ,Fargo,ND,58102,4631,9524729332,alannoot@popp.net,http://www.stuartco.com
+862,,,,,,707 4th St NW ,Faribault,MN,55021,5036,9523614330,Alan@Popp.net,
+863,,,,,,305 S Union Ave ,Fergus Falls,MN,56537,2554,8667270665,info@raomfg.com,http://www.steinerkoppelman.com
+864,594,Kath Auto,kathauto,FALSE,FALSE,207 Lake St N ,Forest Lake,MN,55025,2506,6517690959,samj@raomfg.com,http://www.BrenHomes.com
+865,594,Kath Fuel Oil Services,kathfueloilservices,TRUE,TRUE,1543 Lake St S ,Forest Lake,MN,55025,2629,7637128339,dave@riverhillsautomotive.com,https://www.murphyauto.com
+866,594,Kath Heating & Air Conditioning,kathheatingandairconditioning,FALSE,FALSE,1208 W Broadway Ave ,Forest Lake,MN,55025,1417,9529443636,craig@roosfrick.com,http://www.streeterhomes.com
+867,594,Kath Heating A/C & Electrical,kathheatingacandelectrical,FALSE,FALSE,6571 N Lake Blvd ,Forest Lake,MN,55025,8296,6127703983,jim@roosfrick.com,http://www.diamondsdirectmn.com
+868,,,,,,31 SW 19th St. ,Forest Lake,MN,55025,,9525464312,jim.roosfrick@gmail.com,http://www.gpandsonremodeling.com
+869,,,,,,200 57th Ave NE ,Fridley,MN,55432,5420,2187238460,info@rpvogel.com,http://www.fslf.org
+870,,,,,,5695 Hackmann Ave NE ,Fridley,MN,55432,5748,9528588431,cwebb@rpvogel.com,http://www.professionalturf.com
+871,601,Kraft General Foods,kraftgeneralfoods,TRUE,TRUE,303 W Arizona Ave ,Gilbert,MN,55741,5186,9524358601,bjosborn@comcast.net,http://www.facebook.com/ProfessionalTurf
+872,604,Kelco Supply Company,kelcosupplycompany,TRUE,TRUE,7925 Wayzata Blvd ,Golden Valley,MN,55426,1430,2188941042,etracy84@hotmail.com,http://twitter.com/ProTurfMN
+873,604,L H Kellogg Chemical Company,lhkelloggchemicalcompany,FALSE,FALSE,202 NE 4th St ,Grand Rapids,MN,55744,2851,6516289204,smountford@zotecpartners.com,http://www.tonkabaymarina.com
+874,611,Key Cadillac Oldsmobile Inc,keycadillacoldsmobileinc,FALSE,TRUE,920 Pokegama Ave ,Grand Rapids,MN,55744,,6126289204,info@sspss.com,
+875,611,Key Collision & Paint,keycollisionandpaint,FALSE,FALSE,4795 Miller Trunk Hwy ,Hermantown,MN,55811,3918,7637864210,ttruesdell@sspss.com,http://watsonapplianceinc.com/
+876,611,"Key Cadillac, Inc.",keycadillacinc,TRUE,FALSE,2115 1st Ave ,Hibbing,MN,55746,1804,3202359591,dberg@sspss.com,http://www.hearthnhome.com
+877,611,Key Collision & Paint Ctr,keycollisionandpaintctr,FALSE,FALSE,401 Fire Monument Rd ,Hinckley,MN,55037,8336,6517703983,steven.mckay@gte.net,http://www.tsi.com
+878,614,Associated Bank,associatedbank,TRUE,FALSE,300 11th Ave S ,Hopkins,MN,55343,7831,7017469307,steven.d.mckay@gmail.com,http://www.eaglewindowtc.com/
+879,614,"Associated Bank, N.A.",associatedbankna,FALSE,FALSE,6380 Concord Blvd ,Inver Grove Heights,MN,55076,1811,6517480862,customerservice@padsdirect.com,
+880,614,Associated Banc-Corp,associatedbanccorp,FALSE,TRUE,7287 161st St W ,Rosemount,MN,55068,1043,5072885950,tmuellner@stpaulsurgeons.com,http://www.facebook.com/yourwindowsolution
+881,614,"Associated Bank, National Association",associatedbanknationalassociation,FALSE,FALSE,420 North Main ,Minnesota Lake,MN,56068,,9725804440,info@scanlangroup.com,http://twitter.com/WindowSolution7
+882,614,Associated Commerce Bank,associatedcommercebank,FALSE,FALSE,965 Sibley Memorial Hwy ,Saint Paul,MN,55118,3601,7132228080,CobianS@ScanlanGroup.com,
+883,614,Associated Card Services,associatedcardservices,FALSE,FALSE,1301 1st Ave NE ,Little Falls,MN,56345,3386,9528832063,info@scicom.com,http://www.expedite-dmf.com
+884,614,Associated Trust Company,associatedtrustcompany,FALSE,FALSE,14 Lake St S ,Long Prairie,MN,56347,1309,7012824533,info@standardheating.com,http://www.americanabank.com
+885,,,,,,1901 Adams St ,Mankato,MN,56001,6802,5076251933,,http://www.muellnerblacktop.com
+886,619,"Lil' Orbits, Inc.",lilorbitsinc,TRUE,TRUE,1302 N Riverfront Dr ,Mankato,MN,56001,3251,7012221550,,https://www.poolstoreinc.com
+887,619,Orbie,orbie,FALSE,FALSE,16350 96th Ave N ,Maple Grove,MN,55311,1267,7634970284,marketing@standardheating.com,http://www.A1outdoorpower.com
+888,620,"Land O'Lakes, Inc.",landolakesinc,TRUE,TRUE,1300 County Road 29 ,Maple Plain,MN,55359,9440,9524357883,,http://www.mckenzierepair.com
+889,623,Fargo Leef Laundry,fargoleeflaundry,FALSE,FALSE,280 McKnight Rd S ,Maplewood,MN,55119,5306,6516740880,mpls-stpaulmn@surfacespecialists.com,http://www.mcext.com
+890,623,"Leef Services, Inc.",leefservicesinc,TRUE,TRUE,405 Central Ave N ,Milaca,MN,56353,,9529350557,info@surfacespecialistsmetro.com,https://www.facebook.com/minnesotaexteriors
+891,623,Leef Brothers,leefbrothers,FALSE,FALSE,2124 E Franklin Ave ,Minneapolis,MN,55404,2248,9529290441,sales@stpaullinocpt.com,https://twitter.com/MNExteriorsinc
+892,623,Leef Services,leefservices,FALSE,FALSE,107 6th St SE ,Minneapolis,MN,55414,1168,6127227129,james@splino.com,https://www.linkedin.com/company/mei-minnesota-exteriors-inc
+893,623,Range Linen Service,rangelinenservice,FALSE,FALSE,5444 Nicollet Ave ,Minneapolis,MN,55419,1928,6123781660,info@napaburns.com,https://plus.google.com/101299895939513788979/about
+894,623,Leef Bros. Inc. (OLD INFO),leefbrosincoldinfo,FALSE,FALSE,3700 W 50th St ,Minneapolis,MN,55410,2016,6126175326,lnissen@schererbros.com,https://www.minnesotaexteriors.com
+895,,,,,,2322 Washington Ave N ,Minneapolis,MN,55411,2223,6123312722,,http://www.minnesotarusco.com
+896,628,"Lieberman Companies, Inc.",liebermancompaniesinc,TRUE,TRUE,2448 Hennepin Ave ,Minneapolis,MN,55405,2604,6516461252,windowinfo@schererbros.com,http://www.facebook.com/pages/Minnesota-Rusco/334646139336?ref=ts
+897,628,Viking Vending,vikingvending,FALSE,FALSE,4601 Hiawatha Ave ,Minneapolis,MN,55406,3927,6126461252,mail@searsimports.com,
+898,629,Critter Control,crittercontrol,FALSE,FALSE,1301 Industrial Blvd NE ,Minneapolis,MN,55413,1702,,don.davidson@searsimports.com,
+899,629,Critter Control Of Minnesota,crittercontrolofminnesota,FALSE,FALSE,2801 Hopkins Xrd ,Minnetonka,MN,55305,3901,,jeffrey.weinberger@serviceexperts.com,http://www.WorkmanFinancial.com
+900,629,Laughlin's Pest Control Company Inc,laughlinspestcontrolcompanyinc,TRUE,TRUE,330 20th Ave SW ,Minot,ND,58701,6478,6514376622,gfranti@gtd.org,http://www.dombrovskimeats.com/
+901,630,Lehman's Auto Body,lehmansautobody,FALSE,FALSE,123 W 7th St ,Monticello,MN,55362,8317,6124376622,,http://www.ottobockus.com
+902,630,"Lehman's Garage, Inc.",lehmansgarageinc,TRUE,TRUE,400 21st St S ,Moorhead,MN,56560,3215,6126323000,jons@sedgwickheating.com,http://www.ottobock.com
+903,630,Lehmans Garage,lehmansgarage,FALSE,FALSE,1501 11th St N ,Moorhead,MN,56560,1401,6127225611,jarrodb@sedgwickheating.com,http://www.construct-allcorp.com
+904,630,Dent-B-Gone,dentbgone,FALSE,FALSE,PO Box 428 ,Moose Lake,MN,55767,428,6126236000,contact@sedgwickheating.com,http://www.heggembros.com
+905,631,Lindstrom Cleaning & Construction,lindstromcleaningandconstruction,FALSE,FALSE,700 Highway 65 S ,Mora,MN,55051,1919,6126236850,jarrod.beach@sedgwickheating.com,http://www.unitron.com
+906,631,Lindstrom Restoration,lindstromrestoration,TRUE,TRUE,1206 Hastings Ave ,Newport,MN,55055,1726,6126236604,,http://www.unitronhearing.com
+907,632,Lakewood Cemetery Association,lakewoodcemeteryassociation,TRUE,TRUE,PO Box 13 ,Nisswa,MN,56468,13,6126236217,,
+908,633,A B C Seamless Of Newport,abcseamlessofnewport,FALSE,FALSE,100 Water St S ,Northfield,MN,55057,2040,2042224294,,http://www.communicatingforamerica.org
+909,633,"Lifetime Siding & Remodeling, Inc.",lifetimesidingandremodelinginc,FALSE,FALSE,624 2nd St SE ,Ortonville,MN,56278,1701,8006656167,,http://www.rottlundhomes.com
+910,633,"DuBois Design & Remodeling, Inc.",duboisdesignandremodelinginc,FALSE,FALSE,124 Central Ave ,Osseo,MN,55369,1243,7635461300,,http://www.quarve.com
+911,633,DuBois,dubois,FALSE,FALSE,719 1st St E ,Park Rapids,MN,56470,1706,6128124244,,http://www.jerrysblacktop.com
+912,633,DuBois Conservatories,duboisconservatories,FALSE,FALSE,570 Main St S ,Pine City,MN,55063,1659,3307962121,,
+913,636,Leo's South,leossouth,TRUE,TRUE,715 13th St ,Pine City,MN,55063,2085,3307969262,,http://www.timmermanleasing.com
+914,636,Leo's Kawasaki Sales South Inc,leoskawasakisalessouthinc,FALSE,FALSE,3020 Fernbrook Ln N ,Plymouth,MN,55447,5318,6517707971,brad@springercollections.net,http://www.southimportmotors.com
+915,638,Friendship Village of Bloomington,friendshipvillageofbloomington,TRUE,TRUE,10900 Highway 55 ,Plymouth,MN,55441,6115,6512241818,deb@springercollections.net,http://www.fredstireandservice.net
+916,638,Lifespace Communities,lifespacecommunities,FALSE,FALSE,189 Cheshire Ln N ,Plymouth,MN,55441,5465,7634253349,accarlson@comcast.net,
+917,638,Friendship Village of Bloomington Health Care Center,friendshipvillageofbloomingtonhealthcarecenter,FALSE,FALSE,10100 County Rd 9 ,Plymouth,MN,55442,3309,9524732579,dkrusenstjerna@shawstewartlumberco.com,https://www.freshpaintinc.com
+918,639,Lakeland Florist Supply Inc,lakelandfloristsupplyinc,TRUE,TRUE,9700 Betty Crocker Dr ,Plymouth,MN,55441,6440,6127812668,,http://www.transalarm.com
+919,644,"Latuff Bros., Inc.",latuffbrosinc,TRUE,TRUE,9705 Schmidt Lake Rd ,Plymouth,MN,55442,2287,6128665053,,http://www.tschidabrothersplumbing.com
+920,644,Latuff Brothers Auto Body,latuffbrothersautobody,FALSE,FALSE,2725 Campus Dr ,Plymouth,MN,55441,2614,7635617811,,
+921,645,"Leonard, Street and Deinard Professional Association",leonardstreetanddeinardprofessionalassociation,FALSE,FALSE,308 S Rum River Dr ,Princeton,MN,55371,2017,5072882485,,
+922,645,"Leonard, Street & Deinard (OLD INFO)",leonardstreetanddeinardoldinfo,FALSE,FALSE,16800 Duluth Ave SE ,Prior Lake,MN,55372,2948,6123780922,peggy.tierney@slumberland.com,
+923,645,Stinson Leonard Street PA,stinsonleonardstreetpa,FALSE,FALSE,200 S Boundary Ave ,Duluth,MN,55810,2318,6124622000,vern.notbohm@slumberland.com,http://www.qpanels.com
+924,645,"Stinson Morrision Hecker, LLP",stinsonmorrisionheckerllp,FALSE,FALSE,9314 W Skyline Pkwy ,Proctor,MN,55810,2034,,josh.meyer@slumberland.com,http://www.novak-fleck.com
+925,645,"Stinson Leonard Street, LLP",stinsonleonardstreetllp,FALSE,FALSE,7167 Highway 10 NW ,Ramsey,MN,55303,6043,,,http://www.twincitiesglassblock.com
+926,646,Hamm Enterprises,hammenterprises,FALSE,FALSE,14350 Xkimo St NW ,Ramsey,MN,55303,5638,7637647600,debra.obrien@slumberland.com,http://www.utravel.com
+927,646,Lund & Lange Florists,lundandlangeflorists,TRUE,TRUE,435 Main St W # 360 ,Rice,MN,56367,9516,8887992444,sipebros@gmail.com,http://www.univtravel.com
+928,646,Lund & Lange Flowers,lundandlangeflowers,FALSE,FALSE,821 5th St NW ,Rochester,MN,55901,2761,8002487310,sipebros@aol.com,http://Makemybudgettrip.com
+929,649,Larsen Motors,larsenmotors,FALSE,TRUE,13017 Main St # 176 ,Rogers,MN,55374,9401,7637642293,sipebros@mechanicnet.com,http://www.midwestfence.com
+930,650,Larson Records Management,larsonrecordsmanagement,FALSE,FALSE,21451 S Diamond Lake Rd ,Rogers,MN,55374,4500,7632933656,info@snellingcompany.com,http://www.mnnorthlandsiding.com
+931,650,"Mohawk Moving & Storage, Inc.",mohawkmovingandstorageinc,TRUE,TRUE,PO Box 156 ,Roseau,MN,56751,156,6128665771,sales@snellingcompany.com,http://www.jackpixleysweeps.com
+932,650,V & K Leasing LLC,vandkleasingllc,FALSE,FALSE,15066 Chippendale Ave W ,Rosemount,MN,55068,1521,7637553581,becky@snellingcompany.com,http://www.robbinsdalemarine.com
+933,650,Go-Mini's,gominis,FALSE,FALSE,7461 Egan Dr ,Savage,MN,55378,2428,6516901551,phil@snellingcompany.com,http://www.vogtheating.com
+934,650,United Moving Systems,unitedmovingsystems,FALSE,FALSE,12220 Zinran Ave ,Savage,MN,55378,2347,9528311576,vjensen@snellingcompany.com,http://www.heppnersautobody.com
+935,650,Classic Moving Systems,classicmovingsystems,FALSE,FALSE,444 1st Ave E ,Shakopee,MN,55379,1455,7635719103,rae@snellingcompany.com,http://twitter.com/HeppnersAB
+936,650,Mohawk,mohawk,FALSE,FALSE,1381 Greenwood Ct ,Shakopee,MN,55379,4345,6512243866,harlanm@southsideelectric.net,http://ww.facebook.com/pages/Heppners-Auto-Body/143710035667264
+937,650,Larson Moving & Storage Co.,larsonmovingandstorageco,FALSE,FALSE,8002 Old Carriage Ct ,Shakopee,MN,55379,3156,7632243866,davew@southsideelectric.net,http://www.rent-n-travel.com/
+938,652,"Bob Lowth Ford, Inc.",boblowthfordinc,TRUE,TRUE,8108 University Ave NE ,Spring Lake Park,MN,55432,,7637830011,syungbauer@pioneerpress.com,http://www.bauerfloorcovering.com
+939,653,Thrivent  Investment Management Inc,thriventinvestmentmanagementinc,TRUE,TRUE,8720 State Hwy 7 ,Saint Bonifacius,MN,55375,,6128726671,ljswanson@pioneerpress.com,http://www.facebook.com/pages/Bauer-Floor-Covering-Inc/160868020601025
+940,653,Thrivent Financial for Lutherans,thriventfinancialforlutherans,FALSE,FALSE,730 Highway 10 S ,Saint Cloud,MN,56304,1800,6513616400,surgewater@hotmail.com,http://www.j-dbuildersinc.com
+941,655,"Gardahl Sales & Service, Inc.",gardahlsalesandserviceinc,FALSE,TRUE,5720 Excelsior Blvd ,Saint Louis Park,MN,55416,2828,,sales@surgewater.com,http://www.steinel.net
+942,655,Land Of Lakes Tile Company,landoflakestilecompany,FALSE,FALSE,7000 W. Lake Sr. ,Saint Louis Park,MN,55426,,,paulasurge@hotmail.com,http://www.authconst.com
+943,655,Land of Lakes Tile & Stone,landoflakestileandstone,TRUE,FALSE,629 Rice St ,Saint Paul,MN,55103,1828,,tom@stanthonymobil.com,http://www.healthpartners.com
+944,657,Lake Street Tire Center,lakestreettirecenter,FALSE,FALSE,500 7th St E ,Saint Paul,MN,55101,2402,,accounts@stanthonymobil.com,
+945,657,RNA Enterprises,rnaenterprises,FALSE,FALSE,1400 Arcade St ,Saint Paul,MN,55106,1824,,info@the-house.com,
+946,657,Lake Street GoodYear,lakestreetgoodyear,FALSE,FALSE,600 Snelling Ave N ,Saint Paul,MN,55104,1805,,custserv@the-house.com,
+947,657,"RNA Enterprises, Inc",rnaenterprisesinc,FALSE,FALSE,200 Wabasha St S ,Saint Paul,MN,55107,1804,,steve@the-house.com,http://www.herbsservicenter.com
+948,657,Lake Street Tire,lakestreettire,FALSE,FALSE,1445 7th St W ,Saint Paul,MN,55102,4209,,rick.toppin@cexp.com,http://www.facebook.com/herbsservice
+949,657,Lake Street Tire & Auto Center,lakestreettireandautocenter,TRUE,TRUE,1608 Rice St ,Saint Paul,MN,55117,3754,,info@savittpaint.com,http://twitter.com/HerbServicenter
+950,659,Lot Surveys Company Inc,lotsurveyscompanyinc,TRUE,TRUE,2438 Margaret St N ,North Saint Paul,MN,55109,3020,,brobbins@slplumber.com,https://plus.google.com/+HerbsServiceCenterNet/posts
+951,661,Architectural Sheet Metal Company,architecturalsheetmetalcompany,FALSE,FALSE,1345 Marshall Ave ,Saint Paul,MN,55104,6344,,dfrancen@slplumber.com,http://www.flexoimpressions.com
+952,661,"Les Jones Roofing, Inc.",lesjonesroofinginc,TRUE,TRUE,123 Saint Julien St ,Saint Peter,MN,56082,1877,,mail@suburbanchev.com,
+953,661,"Jones Roofing, Inc.",jonesroofinginc,FALSE,FALSE,14773 60th St N ,Stillwater,MN,55082,6359,,jpeifer@suburbanchev.com,http://www.soderlin.com
+954,662,Lon Musolf Distributing Inc,lonmusolfdistributinginc,TRUE,TRUE,1503 US Highway 59 SE ,Thief River Falls,MN,56701,3413,9529357761,lindsey.blades@supervalu.com,http://www.northcountryrv.com
+955,662,Musolf Distributing Inc Lon (OLD INFO),musolfdistributinginclonoldinfo,FALSE,FALSE,333 7th Ave ,Two Harbors,MN,55616,1447,,johnrothbauer@sawhorseusa.com,http://www.tcautobody.com
+956,665,Lake Country RainSoft  Inc.,lakecountryrainsoftinc,TRUE,TRUE,1502 S 12th Ave W ,Virginia,MN,55792,3255,,curt@swansonhomes.com,https://aquariushomeservices.com/
+957,665,Ran Jo  Inc.,ranjoinc,FALSE,FALSE,303 N 6th Ave ,Virginia,MN,55792,2438,,patrickrussell@susselbuilders.com,https://www.facebook.com/AquariusKinetico
+958,665,Minnesota Environmental Products,minnesotaenvironmentalproducts,FALSE,FALSE,240 W Highway 5 ,Waconia,MN,55387,1718,,plee@saxonautogroup.com,
+959,667,"Mork Well Co., Inc.",morkwellcoinc,TRUE,TRUE,101 Jefferson St N ,Wadena,MN,56482,1368,,mail@saxonford.com,https://plus.google.com/103618765787224147497/posts
+960,668,Magnum Tire Corporation,magnumtirecorporation,TRUE,TRUE,203 State Ave SW ,Warroad,MN,56763,2621,,srs@sextonprinting.com,http://www.raymonddrakehomes.com
+961,,,,,,1325 Wayzata Blvd E ,Wayzata,MN,55391,1937,7635215100,cswenson@walser.com,http://www.mavo.com
+962,,,,,,1845 Robert St S ,West Saint Paul,MN,55118,3904,7634241601,,http://www.iloveaparade.org
+963,671,Mercury Travel Bureau Inc,mercurytravelbureauinc,TRUE,TRUE,1800 County Road F E ,White Bear Lake,MN,55110,3866,9524510694,webleads@walsertoyota.dsmessage.com,http://www.cityviewelectric.com
+964,676,New Brighton Ford,newbrightonford,TRUE,TRUE,817 Litchfield Ave SW ,Willmar,MN,56201,3112,,pporter@walser.com,http://www.silvermarkdb.com
+965,679,Minnesota State Agricultural Society,minnesotastateagriculturalsociety,FALSE,TRUE,26125 Highway 169 ,Zimmerman,MN,55398,5708,,,http://www.libertydiversified.com
+966,679,Minnesota State Fair,minnesotastatefair,TRUE,FALSE,1025 Hadley Ave N ,Oakdale,MN,55128,5914,,,
+967,680,Modern Roadways Company,modernroadwayscompany,TRUE,TRUE,14740 165th Ave ,Becker,MN,55308,9580,8774427666,,http://www.TamarackMaterials.com
+968,682,Muska Lighting Center,muskalightingcenter,TRUE,TRUE,7911 Nicollet Ave S ,Bloomington,MN,55420,1227,7634933992,,http://redpineindustries.com
+969,684,CenterPoint Energy Minnesota Gas,centerpointenergyminnesotagas,FALSE,FALSE,3450 32nd Ave S ,Grand Forks,ND,58201,5916,6123316910,,http://waconiaford.com
+970,684,CenterPoint Energy,centerpointenergy,TRUE,TRUE,2250 S Columbia Rd ,Grand Forks,ND,58201,5824,9529291351,sterlingfence@aol.com,http://www.facebook.com/WaconiaFord
+971,684,Home Care Services,homecareservices,FALSE,FALSE,5401 W Old Shakopee Rd ,Bloomington,MN,55437,3166,8002668157,sales@sterlingfenceinc.com,http://www.rognessservices.com
+972,684,Reliant Energy Resources Corporation,reliantenergyresourcescorporation,FALSE,FALSE,2820 Chaska Blvd ,Chaska,MN,55318,2294,6516462844,peduke@ssallc.com,
+973,684,Safety Plus,safetyplus,FALSE,FALSE,3233 E 40th St ,Minneapolis,MN,55406,3288,6514827606,info@HeinsNursery.com,
+974,684,Minnegasco Home Service Plus,minnegascohomeserviceplus,FALSE,FALSE,5020 Minnetonka Blvd ,Minneapolis,MN,55416,2255,5076252886,mschoonover@sbwinc.com,http://www.whitebearacurasubaru.com
+975,684,Minnegasco,minnegasco,FALSE,FALSE,6960 Madison Ave W Ste 6,Minneapolis,MN,55427,3627,7634288868,,http://www.suncontrolmn.com
+978,,,,,,2086 County Road E E ,White Bear Lake,MN,55110,4704,,PATIMMERS@COMCAST.NET,
+979,687,"Metro Cleaning Service, Inc.",metrocleaningserviceinc,TRUE,TRUE,154 Hardman Ave S ,South Saint Paul,MN,55075,2453,9528844187,trammerexxon@comcast.net,
+980,687,Metro Duct & Fireplace,metroductandfireplace,FALSE,FALSE,175 Bridgepoint Dr ,South Saint Paul,MN,55075,2500,6128125743,dkrosnowski@sunshinetravelco.com,
+981,687,Metro Duct & Furnace,metroductandfurnace,FALSE,FALSE,4201 Highway P ,Jackson,WI,53037,9760,9529424978,pgerm@sunshinetravelco.com,http://www.verizonwireless.com
+982,687,Metro Furnace Cleaning,metrofurnacecleaning,FALSE,FALSE,,,,,,6516445888,Sales@sunshinetravelco.com,
+983,687,Metro Ventilation Cleaning,metroventilationcleaning,FALSE,FALSE,701 39th Ave NE ,Columbia Heights,MN,55421,3811,6512103411,collin@suburbanlandscapeservice.com,https://www.goldenvalleyhtg.com
+984,690,Minnesota Marine,minnesotamarine,TRUE,TRUE,7035 Washington Ave S ,Edina,MN,55439,1514,8668445888,,http://alaskanfur.com
+985,693,Merrill Lynch,merrilllynch,TRUE,TRUE,1550 E. 78th St. ,Minneapolis,MN,55423,4644,7152942477,admin@torgersonwell.com,http://www.jerrysfloorstore.com
+986,693,Bank America,bankamerica,FALSE,FALSE,4920 W 78th St ,Bloomington,MN,55435,5410,,jlafavre@ctmt.com,http://www.motivaction.com
+987,694,Mickman Brothers Inc,mickmanbrothersinc,TRUE,TRUE,219 N 2nd St Ste 102 ,Minneapolis,MN,55401,1452,6517717479,,http://www.schaeferhardwoodfloors.com
+988,694,Mickman Brothers Landscape & Irrigation,mickmanbrotherslandscapeandirrigation,FALSE,FALSE,,,,,,6127717479,customercare@firsttech.com,http://www.allamericanrec.com
+990,695,"Wayzata Nissan, LLC",wayzatanissanllc,TRUE,TRUE,,,,,,7632222200,info@tjelias.com,http://brotherselectricinc.com/
+991,697,Jimichaeleen Inc,jimichaeleeninc,FALSE,FALSE,117 S Valley St ,New Ulm,MN,56073,3013,6123286920,roger@tjelias.com,http://www.curleyfurniture.com
+992,697,Midas Muffler,midasmuffler,FALSE,FALSE,5221 Ameriprise Financial Ctr ,Minneapolis,MN,55474,52,7635835755,kathyl@feldmannimports.com,http://www.preislers.com
+993,697,Midas Auto Service Experts,midasautoserviceexperts,FALSE,FALSE,,,,,,9522588800,,http://www.richfieldblacktop.com
+994,697,Midas Maple Grove,midasmaplegrove,TRUE,TRUE,,,,,,6512221858,joefeld@feldmannimports.com,http://www.facebook.com/RichfieldBlacktop
+995,697,Midas Auto Service,midasautoservice,FALSE,FALSE,,,,,,9529293143,jat111@msn.com,
+996,697,Lesam Auto Inc,lesamautoinc,FALSE,FALSE,444 Highway 96 E ,Saint Paul,MN,55127,2557,9527676707,geoff@tilsenbilt.com,http://www.captainkens.com
+997,699,Advantage Auto Painting,advantageautopainting,FALSE,FALSE,PO Box 64448 ,Saint Paul,MN,55164,448,9528843333,jat11@westviewparkapartments.com,
+998,699,J W Auto Services,jwautoservices,TRUE,TRUE,,,,,,9528889100,,
+999,699,Wuchko Bros Inc,wuchkobrosinc,FALSE,FALSE,PO Box 64437 ,Saint Paul,MN,55164,437,9528879320,greg@centrav.com,
+1000,699,Advantage Auto Glass,advantageautoglass,FALSE,FALSE,4170 28th Ave. S. ,Fargo,ND,58104,8405,7635446666,tasautomotive@gmail.com,
+1001,700,Midas Auto Service Centers,midasautoservicecenters,FALSE,FALSE,858 Calmus Ct. ,Mason City,IA,50401,9615,7635135560,lbutler@dalegreencompany.com,
+1002,700,"Stranik, Inc",stranikinc,TRUE,TRUE,301 Sand Lake Rd ,Onalaska,WI,54650,,6129513688,jtowle@gbp.com,
+1003,700,Midas,midas,FALSE,FALSE,,,,,,6129510050,pkorkows@gbp.com,
+1004,701,Maas Motors Inc,maasmotorsinc,TRUE,TRUE,4012 Gunn Hwy. Ste. 250 ,Tampa,FL,33618,8802,6122343223,scottk@tcq.net,http://www.poquetauto.com
+1005,703,Minneapolis Rag Stock Company,minneapolisragstockcompany,TRUE,TRUE,525 Lowry Ave NE ,Minneapolis,MN,55418,2868,6129511000,info@airovation.com,https://www.facebook.com/IHeartErickson/
+1006,703,Ragstock,ragstock,FALSE,FALSE,4530 Highway 61 N ,Saint Paul,MN,55110,3424,8778412840,joe@tonkaseamlessgutters.com,http://www.ihearterickson.com
+1007,707,Premier Bank,premierbank,TRUE,TRUE,,,,,,9524358889,,https://www.genzryan.com
+1008,710,"Midwest Brokers, Inc.",midwestbrokersinc,TRUE,TRUE,,,,,,8008266176,cflodstrom@goabcseamless.com,https://www.facebook.com/pages/Genz-Ryan-AC-Heating-Plumbing/128157830569634
+1009,713,"Mon-Ray, Inc.",monrayinc,TRUE,TRUE,2521 24th Ave S ,Minneapolis,MN,55406,1218,6123311829,info@goabcseamless.com,https://twitter.com/GenzRyan
+1010,713,Mon Ray Windows Inc,monraywindowsinc,FALSE,FALSE,"7100 Wayzata Blvd, Ste 200 ",Golden Valley,MN,55426,1674,6512281303,chuck@goabcseamless.com,https://plus.google.com/110500877241553008228/about
+1011,715,Midwest Window & Siding Company,midwestwindowandsidingcompany,TRUE,FALSE,750 Pennsylvania Ave S ,Golden Valley,MN,55426,1603,9528308087,info@ecowater.com,
+1012,715,Midwest Window Company,midwestwindowcompany,FALSE,TRUE,3200 Mall Dr ,Eau Claire,WI,54701,6842,9528308700,,http://www.prudentialsecurities.com
+1013,716,Minnesota Water Quality Association,minnesotawaterqualityassociation,TRUE,TRUE,6905 Wayzata Blvd ,Minneapolis,MN,55426,1717,3208457075,solinm@ecowater.com,
+1014,718,Morrie's Automotive Group,morriesautomotivegroup,TRUE,TRUE,1701 American Blvd W ,Minneapolis,MN,55431,1402,3207620447,guest.relations@target.com,
+1015,720,Metric Auto Works,metricautoworks,FALSE,FALSE,7911 Lakeland Ave N ,Brooklyn Park,MN,55445,2416,3207638130,Martha.Rome@target.com,
+1016,720,"Metric Auto Works, Inc.",metricautoworksinc,TRUE,TRUE,801 Louisiana Ave S ,Golden Valley,MN,55426,1625,3207632345,Target.comGuestServices@target.com,
+1017,721,Minnesota Life Insurance Company,minnesotalifeinsurancecompany,FALSE,FALSE,14700 Buck Hill Rd ,Burnsville,MN,55306,4984,3202745657,marcus.mata@target.com,http://www.preferredbuilders.us
+1018,721,"Securian Financial Group, Inc.",securianfinancialgroupinc,TRUE,TRUE,2955 48th St NW ,Rochester,MN,55901,5848,7634224075,ecr@target.com,https://www.durasupreme.com
+1019,721,Securian Life Insurance Company,securianlifeinsurancecompany,FALSE,FALSE,4646 Highway 52 N ,Rochester,MN,55901,151,9528915090,aimee.archibald@target.com,http://www.facebook.com/durasupreme
+1020,721,Securco Trust Financial,securcotrustfinancial,FALSE,FALSE,10506 Central Ave NE ,Blaine,MN,55434,3798,2182293883,marcie.haggerty@target.com,http://twitter.com/durasupreme
+1021,721,"Securian Trust Company, NA",securiantrustcompanyna,FALSE,FALSE,590 Park St STE 6 ,Saint Paul,MN,55103,1895,2186342210,Virve.VanSloun@target.com,http://www.houzz.com/pro/durasupremecabinetry/dura-supreme-cabinetry
+1022,721,Securian Financial Group,securianfinancialgroup,FALSE,FALSE,500 W Madison St STE 2800 ,Chicago,IL,60661,2506,2188251978,Gerald.Engebretson@target.com,
+1023,723,McKay's Family Chrysler Jeep Dodge Mitsubishi,mckaysfamilychryslerjeepdodgemitsubishi,FALSE,FALSE,5501 American Blvd W ,Minneapolis,MN,55437,,2182263227,angel.rodriguez2@target.com,http://www.alexav.com
+1024,723,McKay's Family Dodge Inc,mckaysfamilydodgeinc,FALSE,FALSE,PO Box 992 ,Owatonna,MN,55060,992,7632637550,James.Fournier@target.com,
+1025,723,Unger Motor Company,ungermotorcompany,FALSE,FALSE,148 E Broadway St ,Owatonna,MN,55060,2499,2187516070,nigel.mcguire@target.com,http://www.electrowatchman.com
+1026,723,McKay's,mckays,FALSE,FALSE,3101 41st Ave S ,Fargo,ND,58104,6646,3208432018,julie.tell@target.com,http://tcgoldsilver.com
+1027,723,McKay's Family Mitsubishi,mckaysfamilymitsubishi,FALSE,FALSE,16526 W 78th St # 328 ,Eden Prairie,MN,55346,4302,7632637979,tammy.getman@target.com,http://www.plekkenpol.com
+1028,727,Mayer Electric Corporation,mayerelectriccorporation,TRUE,TRUE,PO Box 860 ,Owatonna,MN,55060,860,7637551166,ccsee35@gmail.com,https://www.metrochimneyandmasonry.com
+1029,728,Kinnard Company John G,kinnardcompanyjohng,FALSE,FALSE,5501 Norman Center Dr ,Minneapolis,MN,55437,,9528816083,ron.murray@lutherauto.com,https://www.dieselandimport.com
+1030,728,Kinnard Investment,kinnardinvestment,FALSE,FALSE,3601 Minnesota Dr Ste 400 ,Minneapolis,MN,55435,6008,9528811285,jacobsons@autonation.com,http://www.InspectaHomes.com
+1031,728,"Kinnard, John G.  (old)",kinnardjohngold,FALSE,FALSE,1505 Mainstreet ,Hopkins,MN,55343,7406,9528818551,luedtkem@autonation.com,http://www.ulrichmotorsco.com
+1032,728,Miller Johnson Steichen Kinnard Inc,millerjohnsonsteichenkinnardinc,TRUE,TRUE,11358 Viking Dr ,Eden Prairie,MN,55344,7238,9528815077,tracktwo@frontiernet.net,http://www.dundeenursery.com/
+1033,728,"Miller, Johnson, Steichen & Kinnard",millerjohnsonsteichenandkinnard,FALSE,FALSE,1211 Avenue of the Americas ,New York,NY,10036,,9528546660,russtransmission@comcast.net,http://www.americanwoodmark.com
+1034,728,Online Brokerage Solutions,onlinebrokeragesolutions,FALSE,FALSE,PO Box 4630 ,New York,NY,10185,4630,9528883919,pat@TrudeauandJohnson.com,http://www.northernconstructioninc.com
+1035,728,Resource Bank,resourcebank,FALSE,FALSE,,,,,,9528351691,lperdue@bfusa.com,http://www.baldwinsupply.com
+1036,728,Stockwalk,stockwalk,FALSE,FALSE,3600 Minnehaha Ave # 1 ,Minneapolis,MN,55406,3594,9528845444,rfellers@bfrc.com,https://www.modernautobodymn.com
+1037,729,Master Plan Hearing Centers,masterplanhearingcenters,TRUE,TRUE,,,,,,2188280076,mwirkkala@bfrc.com,http://www.swimnhole.com
+1038,729,Musselmans Inc,musselmansinc,FALSE,FALSE,,,,,,2188290984,shague@bfrc.com,http://www.timsqualityplumbing.com
+1039,733,Mark's Amoco,marksamoco,FALSE,FALSE,,,,,,7635664311,,http://www.myspeedyplumber.com
+1040,733,Mark's Eden Prairie BP,marksedenprairiebp,TRUE,TRUE,,,,,,7635664100,,http://www.myfargoplumber.com
+1041,733,Norseman Oil Company,norsemanoilcompany,FALSE,TRUE,,,,,,7635666624,,http://www.fmcbank.com
+1042,734,Amoco,amoco,FALSE,FALSE,525 S 8th St ,Minneapolis,MN,55404,1030,7634935277,janderson@trs-pos.com,http://www.filmvideoservices.net
+1043,734,Marshall-Cretin Amoco,marshallcretinamoco,FALSE,TRUE,200 Grand Ave ,Saint Paul,MN,55102,2319,7634255455,bkanderson@trs-pos.com,http://www.petsareinn.com
+1044,735,"Hartman Communities, LLC",hartmancommunitiesllc,TRUE,TRUE,8625 Rendova St NE ,Circle Pines,MN,55014,4102,7636825507,sales@idcdoors.com,
+1045,736,Midway Ford Company,midwayfordcompany,TRUE,TRUE,2500 Minnehaha Ave ,Minneapolis,MN,55404,4118,9528921050,jmcgrath@idcdoors.com,http://twitter.com/PetsAreInnMpls
+1046,736,Roseville Midway Ford,rosevillemidwayford,FALSE,FALSE,3716 Oneota St ,Duluth,MN,55807,2827,7636894877,dearle@clopay.com,http://clairsautomotivemn.com
+1047,740,Merit Chevrolet Company,meritchevroletcompany,TRUE,TRUE,206 Beltrami Ave NW ,Bemidji,MN,56601,4008,7633239117,image@technicalreproductions.com,https://www.applefordshakopee.com
+1048,741,"Midwest/Northern, Inc.",midwestnortherninc,FALSE,FALSE,1940 Fulham St ,Saint Paul,MN,55113,5118,7634935066,,http://www.unitedclaimservice.com
+1049,745,Marsden Building Maintenance LLC,marsdenbuildingmaintenancellc,TRUE,TRUE,,,,,,9529371894,mbeck@eescodist.com,http://www.jimcoopers.com
+1050,745,American Security Corporation,americansecuritycorporation,FALSE,FALSE,,,,,,9524484882,uhinc@qwestoffice.net,http://www.springbornheating.com
+1051,745,Marsden Building Maintenance,marsdenbuildingmaintenance,FALSE,FALSE,3096 Rice St ,Saint Paul,MN,55113,2288,9524487170,maggiemcq@gmail.com,http://www.wrapinsulation.com
+1052,745,"American Security and Investigations, LLC",americansecurityandinvestigationsllc,FALSE,FALSE,,,,,,3205582568,info@uptowntransfer.com,http://www.jihomes.com
+1054,746,J & H Marsh & McLennan Inc,jandhmarshandmclennaninc,FALSE,FALSE,7656 Executive Dr Ste 974 ,Eden Prairie,MN,55344,3677,7637886933,kkamp@uptowntransfer.com,http://WWW.DALCORFNG.COM
+1055,746,"Marsh USA, Inc.",marshusainc,TRUE,TRUE,,,,,,7637552511,todd@uptownmove.com,http://www.dalcoroofing.com
+1056,746,M.U. Inc./Name is not authorized from this company (OLD INFO),muincnameisnotauthorizedfromthiscompanyoldinfo,FALSE,FALSE,7700 Setzler Pkwy N ,Brooklyn Park,MN,55445,1880,7637859405,jguthridge@valleyfair.com,http://www.stillwatermotors.com
+1057,747,Martin Williams Advertising,martinwilliamsadvertising,TRUE,TRUE,20000 â€“ 176th Street NW ,Big Lake,MN,55309,,6514592210,rstinnett@valleyfair.com,http://www.maaco.com
+1058,747,Martin Williams Inc,martinwilliamsinc,FALSE,FALSE,20000 176th St NW STE 203 ,Big Lake,MN,55309,8020,2185466120,meg.riesenberg@valleyfair.com,
+1059,751,Minnesota Newspaper Association,minnesotanewspaperassociation,TRUE,TRUE,6825 York Ave S ,Edina,MN,55435,2534,2186922708,,
+1060,752,"Pulte Homes of Minnesota, LLC",pultehomesofminnesotallc,TRUE,TRUE,480 American Blvd W ,Bloomington,MN,55420,1124,7635379213,,
+1061,752,Pulte Homes,pultehomes,FALSE,FALSE,,,,,,2182462700,llamminen@valspar.com,
+1062,752,Pulte Group Inc.,pultegroupinc,FALSE,FALSE,,,,,,7639723318,kriksen@valspar.com,http://www.DonnayHomes.com
+1063,752,"Anderson Homes, Inc.",andersonhomesinc,FALSE,FALSE,1305 Main St Stop 7722 ,Stevens Point,WI,54481,2830,2188474883,cjohanssen@valspar.com,
+1064,752,Marv Anderson Homes Inc,marvandersonhomesinc,FALSE,FALSE,733 S Marquette Ave STE 235 ,Minneapolis,MN,55402,2369,2186245201,TREGAN@valspar.com,http://www.sjewelers.com
+1065,752,Pulte Homes Corp,pultehomescorp,FALSE,FALSE,45 S 7th St ,Minneapolis,MN,55402,1614,2187284544,ksamuelson@valspar.com,http://www.facebook.com/ScheherazadeJewelers
+1066,754,"Home Energy Center, Inc.",homeenergycenterinc,TRUE,FALSE,2850 Vicksburg Ln N ,Minneapolis,MN,55447,8809,2187278125,mhoel@villagechev.com,
+1067,754,Thomas M Meyer Enterprises Inc,thomasmmeyerenterprisesinc,FALSE,FALSE,8900 109th Ave N STE 100 ,Champlin,MN,55316,3168,2187247789,ccsswen@aol.com,http://AFewGoodMovers.com
+1068,757,Master Transmission,mastertransmission,FALSE,TRUE,4001 Lexington Ave N ,Arden Hills,MN,55126,2934,2187248245,grant.osgood@napleton.com,http://wenzelhvac.com/
+1069,759,Midway Automotive Superstore,midwayautomotivesuperstore,FALSE,FALSE,PO Box 64101 ,Saint Paul,MN,55164,101,2187245045,,
+1070,759,Midway Chevrolet Geo Inc,midwaychevroletgeoinc,FALSE,FALSE,PO Box 64050 ,Saint Paul,MN,55164,50,2187860715,pauljasa@gmail.com,http://www.bankcib.com
+1071,759,Midway Chevrolet Inc,midwaychevroletinc,TRUE,TRUE,212 James Ave. N. ,Minneapolis,MN,55405,1700,6514521194,steve.vadnais@mascocs.com,http://www.shadywoodtreeexperts.com
+1072,762,Bradford Schools Inc.,bradfordschoolsinc,FALSE,FALSE,1002 1st Ave. S. ,Fargo,ND,58103,1704,6514540267,briantaylor@friendlychev.com,http://www.advisornet.com
+1073,762,Minneapolis Business College,minneapolisbusinesscollege,TRUE,TRUE,PO Box 16327 ,Duluth,MN,55816,327,6516839936,robowens@friendlychev.com,http://www.swensonanderson.com
+1074,764,Minnesota School of Business,minnesotaschoolofbusiness,FALSE,FALSE,5995 Opus Pkwy Ste 500,Minnetonka,MN,55343,9078,6513650275,larryb@valleypools.com,http://www.cfpcorp.net
+1075,764,Globe University,globeuniversity,FALSE,FALSE,,,,,,2187734829,heidib@valleypools.com,http://www.facebook.com/advisornetfinancial
+1076,764,Globe Education Network,globeeducationnetwork,TRUE,TRUE,,,,,,9529740094,info@valleypools.com,http://twitter.com/anfinancial
+1077,764,Globe College,globecollege,FALSE,FALSE,9549 Penn Ave S ,Bloomington,MN,55431,2596,9529206516,AmyB@valleypools.com,http://www.dannetkoexteriors.com
+1078,764,Globe College Of Business (OLD INFO),globecollegeofbusinessoldinfo,FALSE,FALSE,1908 University Ave W ,Saint Paul,MN,55104,3426,7632418848,cherylb@valleypools.com,http://www.automobileserviceco.com
+1079,764,Minnesota School of Business & Globe University,minnesotaschoolofbusinessandglobeuniversity,FALSE,FALSE,,,,,,7632416946,jon@windyscollision.com,http://www.lutherinfiniti.com
+1080,764,Minnesota School of Imaging,minnesotaschoolofimaging,FALSE,FALSE,,,,,,2183656003,,http://www.piercerefrigeration.com
+1082,,,,,,5431 Lyndale Ave S ,Minneapolis,MN,55419,1717,2187393803,rkroll@wilkersoncpa.com,https://www.burnsvilletoyota.com
+1083,766,Master Automotive Tire & Lube,masterautomotivetireandlube,TRUE,FALSE,1979 Seneca Rd ,Eagan,MN,55122,1006,2187396519,bhoeker@wilkersoncpa.com,
+1084,772,Medical Arts Press,medicalartspress,TRUE,TRUE,171 American Blvd W ,Bloomington,MN,55420,1183,6514645782,rgeorges@wilkersoncpa.com,http://www.rogersbenefit.com
+1085,772,Staples this is the name the dues come in,staplesthisisthenametheduescomein,FALSE,FALSE,8533 Highway 101 W ,Savage,MN,55378,1029,6514646887,amuntifering@wilkersoncpa.com,http://www.pilgrimdrycleaners.com
+1086,773,Metro Garage Door Company,metrogaragedoorcompany,TRUE,TRUE,619 S 7th St ,Minneapolis,MN,55415,1601,6514642673,rthell@wilkersoncpa.com,http://bradleyplumbingllc.com/
+1087,773,Ridge Door Sales & Service,ridgedoorsalesandservice,FALSE,FALSE,1320 Crystal Lane ,Chaska,MN,55318,2232,6519826812,brad@westerngarage.com,
+1088,773,Ace Garage Door Company,acegaragedoorcompany,FALSE,FALSE,9621 10th Ave N ,Plymouth,MN,55441,5098,6514646573,brad@westernconstructioninc.com,
+1089,773,DNR Enterprises Inc,dnrenterprisesinc,FALSE,FALSE,3600 Hennepin Ave ,Minneapolis,MN,55408,3889,7635742577,bchazin@westerngarage.com,http://www.taschifsky.com
+1090,775,The McClatchy Company,mcclatchycompany,FALSE,FALSE,11825 Point Douglas Dr S ,Hastings,MN,55033,9146,7635722271,info@westernconstructioninc.com,http://www.sandauinc.com
+1091,775,Star Tribune,startribune,FALSE,FALSE,715 Saint Croix St Ste 14 ,River Falls,WI,54022,3611,7635719506,kwebb@walser.com,http://www.jiffylube.com
+1092,775,Star Tribune Newspaper Of The Twin Cities,startribunenewspaperofthetwincities,FALSE,FALSE,16375 Kenrick Ave ,Lakeville,MN,55044,8494,3206924124,pporter@walser.com,http://www.bdrs.com
+1093,775,Minneapolis Star & Tribune,minneapolisstarandtribune,FALSE,FALSE,8100 Highwood Dr ,Bloomington,MN,55438,1006,2187417190,webleads@walsercjd.dsmessage.com,http://www.keljiks.com
+1094,775,"Star Tribune Media Company, LLC",startribunemediacompanyllc,TRUE,TRUE,10700 Prairie Lakes Dr ,Eden Prairie,MN,55344,3858,7635467383,knelson@walser.com,http://www.auersteel.com
+1095,776,Manheim Minneapolis,manheimminneapolis,TRUE,TRUE,7035 Washington Ave S ,Minneapolis,MN,55439,1514,2183871043,,http://www.walsernissan.com
+1096,776,Minneapolis Auto Auction,minneapolisautoauction,FALSE,FALSE,880 University Ave W ,Saint Paul,MN,55104,4799,2183264204,info@wagamonbrothers.com,http://www.enerjac.com
+1097,779,"Midwest Hearing Industries, Inc.",midwesthearingindustriesinc,FALSE,FALSE,150 S 5th St Ste 2300 ,Minneapolis,MN,55402,4238,2183261092,wagamonbrothers@gmail.com,http://www.gopco.com
+1098,780,Jim Murr Plumbing Inc.,jimmurrplumbinginc,TRUE,TRUE,,,,,,7634344699,info@wnins.com,http://www.fidelitybankmn.com
+1099,781,Merry Hill Corporation,merryhillcorporation,TRUE,TRUE,,,,,,6514801575,,http://eastcomanagement.com
+1100,782,Erin Company,erincompany,FALSE,TRUE,,,,,,6514373411,pete.corning@wnins.com,http://www.ottinghousemovers.com
+1102,784,W.E. Nelson Stucco Company,wenelsonstuccocompany,TRUE,FALSE,,,,,,2187229934,joe.pingatore@wnins.com,http://www.northstarbank.com
+1103,784,M K Metals & Roofing Inc.,mkmetalsandroofinginc,FALSE,TRUE,272 Snelling Ave S ,Saint Paul,MN,55105,2097,2187228700,john.tollefsrud@wnins.com,http://www.northwestexteriorsinc.com
+1104,784,Nelson Stucco,nelsonstucco,FALSE,FALSE,1088 County Road B W ,Saint Paul,MN,55113,4416,2182626421,lumberpres@aol.com,http://www.autopiaautopia.com
+1105,785,North Memorial Medical Center,northmemorialmedicalcenter,FALSE,FALSE,8271 W 35W Service Dr NE ,Minneapolis,MN,55449,7261,2182622855,dmcgregor@westernroofingsupply.com,http://autopia.hibersoft.net
+1106,785,North Memorial Hospital,northmemorialhospital,FALSE,FALSE,2630 E. 81st St. ,Minneapolis,MN,55425,1328,3203847231,gary@webbfinancial.com,http://www.autopiacars.com
+1107,785,North Memorial Health Care,northmemorialhealthcare,TRUE,TRUE,3010 Bemidji Ave N ,Bemidji,MN,56601,4302,9529353654,customerservice@charnstrom.com,http://www.elkriverexteriors.com
+1108,789,Nash Finch Company,nashfinchcompany,FALSE,FALSE,,,,,,2182839324,,https://www.tcomfort.com
+1109,789,SpartanNash,spartannash,TRUE,TRUE,625 4th Ave. S. ,Minneapolis,MN,55415,1624,6514577480,info@walkerroofing.com,https://www.facebook.com/totalcomfortHVAC
+1110,790,"North Central Builders, Inc.",northcentralbuildersinc,TRUE,TRUE,,,,,,6514511760,sreese@walkerroofing.com,http://www.amway.com
+1111,791,Northwestern Bookstores,northwesternbookstores,TRUE,TRUE,629 W Central Entrance ,Duluth,MN,55811,2617,6514509707,vschaaf@walkerroofing.com,http://www.alticor.com
+1112,792,"Northwest Brake Service, Inc.",northwestbrakeserviceinc,TRUE,TRUE,845 Highway 169 N ,Plymouth,MN,55441,6404,6514517984,ctallman@nottco.com,http://www.quixtar.com
+1113,795,Enstar Inc,enstarinc,FALSE,FALSE,11800 62nd St NE ,Albertville,MN,55301,9731,9524927737,salesoffice@walterhammond.com,https://artinstructionschools.edu/
+1114,795,Michael Foods Inc,michaelfoodsinc,TRUE,TRUE,2817 Riverside Ave ,Minneapolis,MN,55406,1150,9528987800,scott.schulz@watergremlin.com,http://blacktopdrivewaymn.com
+1115,798,"Northern Asphalt, Inc.",northernasphaltinc,TRUE,TRUE,610 E Lake St ,Minneapolis,MN,55407,1502,9524691998,jim.casey@westsidevw.com,http://www.evergreenindustries.net
+1116,802,Lifetouch Inc,lifetouchinc,TRUE,FALSE,4630 E Lake St ,Minneapolis,MN,55406,2306,9529972266,tom.daly@westsidevw.com,
+1117,802,Lifetouch National School Studios Inc,lifetouchnationalschoolstudiosinc,FALSE,FALSE,2727 26th Ave S ,Minneapolis,MN,55406,1526,9528982771,jim.baldwin@westsidevw.com,http://www.concretedrivewayco.com
+1118,802,Lifetouch Portrait Studios Inc,lifetouchportraitstudiosinc,FALSE,FALSE,7601 73rd Ave N ,Minneapolis,MN,55428,1210,5076656061,info@westsidevw.com,http://www.londonchimneysweeps.com
+1119,802,Lifetouch Church Directories and Portraits Inc,lifetouchchurchdirectoriesandportraitsinc,FALSE,FALSE,941 W 80th St ,Bloomington,MN,55420,1028,6514540515,julie.hose@westsidevw.com,http://www.danssouthsidemarine.com
+1120,802,Flash Digital Portraits,flashdigitalportraits,FALSE,FALSE,985 Berwood Ave ,Vadnais Heights,MN,55110,5144,6512572030,thomas.taube@wblincoln.com,http://www.menards.com
+1121,802,Lifetouch Services Inc,lifetouchservicesinc,FALSE,FALSE,7452 Washington Ave ,Eden Prairie,MN,55344,3704,3206322637,lisa.neely@wblincoln.com,https://www.americanpageants.org/miss-teen-of-america/
+1122,802,Prestige Portraits,prestigeportraits,FALSE,FALSE,,,,,,3207326721,,
+1123,802,Cilento Photography,cilentophotography,FALSE,FALSE,65 11th Ave NE Ste A ,Perham,MN,56573,1924,5073875711,wmwarner@warnersstellian.com,
+1124,802,Olan Mills,olanmills,FALSE,TRUE,7303 185th Ave NW ,Anoka,MN,55303,9602,5073886087,rschirmer@warnersstellian.com,
+1125,802,Lifetouch Video Productions,lifetouchvideoproductions,FALSE,FALSE,PO Box 270730 ,Minneapolis,MN,55427,6730,7634209909,jawarner@warnersstellian.com,
+1126,803,N S P,nsp,FALSE,FALSE,,,,,,7634796875,,
+1127,803,Northern States Power Company,northernstatespowercompany,FALSE,FALSE,,,,,,6517399090,info@warnersstellian.com,
+1128,803,"Xcel Energy, Inc.",xcelenergyinc,TRUE,TRUE,131 Endicott Bldg Arcade ,Saint Paul,MN,55101,,6517388838,woodbury@warnersstellian.com,
+1129,803,Xcel Energy,xcelenergy,FALSE,FALSE,1100 Silver Lake Rd NW ,New Brighton,MN,55112,6399,6517395349,saintpaul@warnersstellian.com,
+1130,803,Xcell Energy Foundation & Corporate Citizenship,xcellenergyfoundationandcorporatecitizenship,FALSE,FALSE,1265 Snelling Ave N ,Saint Paul,MN,55108,3099,7634788115,rochester@warnersstellian.com,http://healthandwellnessclub.com/
+1131,804,Northrup King & Company,northrupkingandcompany,TRUE,TRUE,1620 Winnetka Ave N ,Minneapolis,MN,55427,3921,,minneapolisoutlet@warnersstellian.com,
+1132,805,M & I Bank,mandibank,FALSE,FALSE,280 E Broadway ,Minneapolis,MN,55425,5512,,Maplegrove@warnersstellian.com,
+1133,805,Marshall & Ilsley Corporation,marshallandilsleycorporation,FALSE,FALSE,700 Grand Ave ,Saint Paul,MN,55105,6801,,edina@warnersstellian.com,
+1134,805,BMO Harris Bank,bmoharrisbank,TRUE,TRUE,1879 Gateway Blvd ,Arden Hills,MN,55112,2770,,Applevalley@warnersstellian.com,
+1135,806,"Nordic Insulation, Inc.",nordicinsulationinc,TRUE,TRUE,PO Box 59038 ,Minneapolis,MN,55459,38,,customerservice@warnersstellian.com,
+1136,807,Qwest Communications Inc,qwestcommunicationsinc,TRUE,TRUE,,,,,,,pwtireco@aol.com,
+1137,807,LCI / Qwest International,lciqwestinternational,FALSE,FALSE,,,,,,,mgallob@klineautoword.com,https://www.scout.com/
+1138,808,Furniture Liquidators,furnitureliquidators,FALSE,FALSE,208 Ryan Dr ,Saint Paul,MN,55117,1035,,mlear@klineautoworld.com,https://www.northerntool.com
+1139,808,Mattress Liquidators,mattressliquidators,FALSE,TRUE,1990 County Road D E STE 2 ,Saint Paul,MN,55109,5310,,janschulte@klineautoworld.com,http://www.kotulas.com
+1140,808,Mattress Value Superstores,mattressvaluesuperstores,FALSE,TRUE,1321 Andover Blvd NE Ste 119,Ham Lake,MN,55304,2265,,marcweis@klineautoworld.com,http://www.ormanguidance.com
+1141,808,Mattress Value Superstores / Mattress Liquidators,mattressvaluesuperstoresmattressliquidators,TRUE,FALSE,601 2nd Ave S ,Minneapolis,MN,55402,4303,,volvosales@klineautoworld.com,http://www.southwesternfamily.com
+1142,809,Neighborhood Building & Remodeling Company,neighborhoodbuildingandremodelingcompany,TRUE,TRUE,225 S 6th St Ste 4400 ,Minneapolis,MN,55402,4618,,hkortleever@klineautoworld.com,http://www.vetstreeservice.com
+1143,810,Northern Cargo Association,northerncargoassociation,TRUE,TRUE,,,,,,,,http://www.visionworks.com
+1144,811,Northland Appliance Service Company,northlandapplianceservicecompany,TRUE,TRUE,51 Broadway ,Fargo,ND,58102,4933,,,http://www.primerica.com
+1145,812,Allianz Life Insurance Company of North America,allianzlifeinsurancecompanyofnorthamerica,TRUE,TRUE,130 W Superior St ,Duluth,MN,55802,4000,,Info@waldoch.com,
+1146,814,Northeast Bank,northeastbank,TRUE,TRUE,14630 Highway 65 NE ,Ham Lake,MN,55304,6110,,,
+1147,814,Northeast Bank of Columbia Heights,northeastbankofcolumbiaheights,FALSE,FALSE,15906 Wayzata Blvd ,Wayzata,MN,55391,1477,,,http://carxtwincities.com
+1148,814,Northeast Bank of Coon Rapids,northeastbankofcoonrapids,FALSE,FALSE,13350 Grove Dr ,Maple Grove,MN,55369,9413,,,http://www.galaxyautocenters.com
+1149,814,Northeast Bank of Minneapolis,northeastbankofminneapolis,FALSE,FALSE,1300 N Arlington Heights Rd Ste 1 ,Itasca,IL,60143,3115,,,http://www.am1500.com
+1150,815,ING Bank,ingbank,TRUE,TRUE,19244 Freeport St NW ,Elk River,MN,55330,1265,,,http://www.midwaychamber.com
+1151,815,ING Direct,ingdirect,FALSE,FALSE,PO Box 1332 ,Burnsville,MN,55337,332,,,http://www.3m.com
+1152,817,Novus Inc,novusinc,FALSE,TRUE,685 W Bridge St # 113 ,Owatonna,MN,55060,2887,,,http://www.3m.com/healthcare
+1153,817,Novus Franchising Inc,novusfranchisinginc,FALSE,FALSE,520 University Ave W ,Saint Paul,MN,55103,1986,,,
+1154,817,Novus Glass,novusglass,FALSE,FALSE,4200 Excelsior Blvd ,St Louis Park,MN,55416,4729,,Steve@Youngstedts.com,
+1155,817,Novus Franchising,novusfranchising,TRUE,FALSE,4415 Central Ave NE ,Minneapolis,MN,55421,2927,,william.hoeft@zieglercat.com,http://www.ncogroup.com
+1156,817,TCG International Inc,tcginternationalinc,FALSE,FALSE,601 E Lake St ,Minneapolis,MN,55407,1501,,mary.crippen@zieglercat.com,http://www.egscorp.com
+1157,817,Novus Plate Glass Repair,novusplateglassrepair,FALSE,FALSE,14053 Grand Ave ,Burnsville,MN,55337,5701,,zbcompanies@aol.com,http://www.minneapolischamber.org
+1158,818,North Star Builders,northstarbuilders,TRUE,TRUE,2168 Snelling Ave N ,Roseville,MN,55113,4202,,information@goldencareusa.com,http://www.inventhelp.com
+1159,824,"Northern Door Company, Inc.",northerndoorcompanyinc,TRUE,TRUE,1697 7th St W ,Saint Paul,MN,55116,2368,,,http://www.dandlelectric.net
+1160,825,Novak GMC & RV Center,novakgmcandrvcenter,FALSE,FALSE,15455 Cedar Ave ,Apple Valley,MN,55124,7073,,jessicaf@goldencareusa.com,http://www.facebook.com/pages/DL-Electric/306732419421618
+1161,825,Novak GMC Center,novakgmccenter,FALSE,FALSE,,,,,,,,
+1162,825,Novak Inc,novakinc,TRUE,TRUE,5211 W Broadway Ave ,Minneapolis,MN,55429,3101,,digitalmarketing@abraauto.com,http://www.paramountautoservice.com
+1163,825,Novak Pontiac Buick GMC Truck,novakpontiacbuickgmctruck,FALSE,FALSE,830 N. 7th St. ,Minneapolis,MN,55411,4313,,ljanu@abraauto.com,http://www.fertilawnmn.com
+1164,828,Northland Water Conditioning Company,northlandwaterconditioningcompany,FALSE,TRUE,113 27th Ave NE Ste L,Minneapolis,MN,55418,2726,,,http://www.lenscrafters.com
+1165,829,Wells Fargo Bank Minnesota,wellsfargobankminnesota,TRUE,TRUE,1433 W Lake St # A ,Minneapolis,MN,55408,3865,,fgovekar@abraauto.com,http://www.sunglasshut.com
+1166,829,Shareowner Services,shareownerservices,FALSE,FALSE,2866 White Bear Ave N ,Saint Paul,MN,55109,1384,,sdonahue@abraauto.com,http://www.pearlevision.com
+1167,829,Wells Fargo Bank N.A.,wellsfargobankna,FALSE,FALSE,301 Central Ave ,Osseo,MN,55369,1126,,,http://www.plazatv.com
+1168,829,Wells Fargo Dealer Services,wellsfargodealerservices,FALSE,FALSE,1875 Highway 36 W ,Saint Paul,MN,55113,2767,,,
+1169,829,Wachovia Dealer Services,wachoviadealerservices,FALSE,FALSE,2151 3rd St ,Saint Paul,MN,55110,3270,,,http://www.highlandbp.com
+1170,830,North Star Amoco,northstaramoco,FALSE,FALSE,4405 Pheasant Ridge Dr. NE ,Blaine,MN,55449,,,dlave@abraauto.com,http://www.investmentrarities.com
+1171,830,North Suburban Amoco,northsuburbanamoco,FALSE,TRUE,10240 Hudson Road ,Woodbury,MN,55129,,,snavab@americanruglaundry.com,
+1172,830,North Suburban Auto Care,northsuburbanautocare,TRUE,FALSE,14815 Forest Blvd. ,Hugo,MN,55038,,,info@americanruglaundry.com,http://www.culliganwater.com
+1173,830,North Suburban Amoco Service,northsuburbanamocoservice,FALSE,FALSE,316 Oak St ,Farmington,MN,55024,1359,,,
+1174,832,New Faces Models & Talent Inc,newfacesmodelsandtalentinc,TRUE,TRUE,9100 W Bloomington Fwy ,Bloomington,MN,55431,2251,,,
+1175,833,Newgate Education Center,newgateeducationcenter,TRUE,TRUE,2333 Niagara Ln N ,Plymouth,MN,55447,4712,,,http://Pianomoversextraordinaire.com
+1176,833,Newgate School,newgateschool,FALSE,FALSE,801 Boone Ave N ,Golden Valley,MN,55427,4432,,sreid26017@aol.com,http://www.peregrinecapital.com
+1177,836,Beard Communications Inc,beardcommunicationsinc,TRUE,TRUE,"7900 Excelsior Blvd., Ste. 140 ",Hopkins,MN,55343,3454,,pporter@walser.com,
+1178,836,Christian Newspaper Association,christiannewspaperassociation,FALSE,FALSE,,Minneapolis,MN,55406,2689,,crickards@walser.com,http://www.drivewaydesign.net
+1179,,,,,,PO Box 48452 ,Minneapolis,MN,55448,452,,slpos@mastersonpersonnel.com,https://www.yelloh.com/
+1180,,,,,,12520 Wayzata Blvd ,Minnetonka,MN,55305,1939,,kellyg@mastersonpersonnel.com,
+1181,,,,,,13708 Wayzata Blvd ,Minnetonka,MN,55305,1734,,minos@mastersonpersonnel.com,
+1182,,,,,,670 Commerce Dr STE 150 ,Woodbury,MN,55125,9213,,rightjobs@mastersonpersonnel.com,http://www.niemeyers.com
+1183,,,,,,400 Robert St N ,Saint Paul,MN,55101,2098,,bloomos@mastersonpersonel.com,http://www.facebook.com/pages/Niemeyer-Trailer-Sales/199695286747028
+1184,,,,,,2020 Division St ,Waite Park,MN,56387,1806,,plymouth@mastersonstaffing.com,
+1185,,,,,,2020 Frontage Road South ,Waite Park,MN,56387,1806,,kjohnston@plymouthplumbinginc.com,
+1186,,,,,,2635 W. Division Street ,Saint Cloud,MN,56301,,,smeyer@plymouthplumbinginc.com,
+1187,,,,,,7224 Winnetka Ave N ,Minneapolis,MN,55428,1622,,rhallstrom@plymouthplumbinginc.com,https://www.hastingsautomotive.com
+1188,,,,,,600 Highway 169 S Ste 701 ,Minneapolis,MN,55426,1200,,plyplumb@aol.com,http://automaxmn.com
+1189,,,,,,5500 Wayzata Blvd #100 ,Minneapolis,MN,55416,,,cwenzel@wppmn.com,http://www.automaxch.com
+1190,,,,,,322 Main St. ,Williston,ND,58801,,,trent.nutter@steemer.com,
+1191,,,,,,25 1st Ave. W. ,Dickinson,ND,58601,,,ndugan@steemer.com,http://www.equifax.com
+1192,,,,,,219 1st Ave S. ,Jamestown,ND,58401,,,steve.berryhill@steemer.com,http://www.conocophillips.com
+1193,,,,,,317 N Minnesota St. ,New Ulm,MN,56073,,,info@northcountryford.com,http://dicksmetroflooring.com
+1194,,,,,,1010 W St. German Street #500 ,Saint Cloud,MN,56301,,,charlie.odden@lutherauto.com,http://www.rayscontracting.com
+1195,,,,,,4723 Hiawatha Ave ,Minneapolis,MN,55406,3928,,tim.reil@northcountryford.com,
+1196,,,,,,310 Belle Ave ,Mankato,MN,56001,5287,,richard.lien@northcountryford.com,http://www.blainbrookbowl.com/
+1197,,,,,,122 Chestnut St # A ,Virginia,MN,55792,2509,,ron.budhram@lutherauto.com,http://www.newtub.net
+1198,,,,,,8100 Flying Cloud Dr ,Eden Prairie,MN,55344,5332,,thomas.glansman@northcountryford.com,http://www.polarisindustries.com
+1199,,,,,,7675 Mitchell Rd ,Eden Prairie,MN,55344,2042,,mike.swoboda@lutherauto.com,http://www.polaris.com
+1200,,,,,,8110 Eden Rd Ste 201 ,Eden Prairie,MN,55344,,,rstricker@themarsh.com,
+1201,,,,,,2178 Marshall Ave ,Saint Paul,MN,55104,5756,,mschmidt@themarsh.com,http://www.precisiontune.com
+1202,,,,,,PO Box 65 ,Victoria,MN,55386,65,,rzats@themarsh.com,http://www.marvstruevalue.com
+1203,,,,,,1750 Tower Blvd. Suite 201 ,Victoria,MN,55386,,,frontdesk@themarsh.com,http://www.facebook.com/pages/Marvs-True-Value-and-Just-Ask-Rental/182668225103979
+1204,,,,,,1750 Tower Blvd ,Victoria,MN,55386,4566,,,http://twitter.com/TrueValue
+1205,,,,,,2777 Snelling Ave N ,Roseville,MN,55113,1731,,tmortenson@themarsh.com,
+1206,,,,,,2695 Brookview Dr E ,Maplewood,MN,55119,4794,,,http://www.libertycarton.com
+1207,,,,,,I-94 and Century Ave ,Maplewood,MN,55119,4748,,bbb@amsi-corp.com,http://www.carlsontoyota.com
+1208,,,,,,3105 Columbia Ave NE ,Minneapolis,MN,55418,1896,,amsbbb@amsi-corp.com,https://www.hopkinscarpetone.com
+1209,,,,,,1717 University Ave W ,Saint Paul,MN,55104,3688,,EXC-AMSBBB@amsi-corp.com,http://www.roxycleaners.com
+1210,,,,,,333 S 7th St Ste 1600,Minneapolis,MN,55402,2427,,tsmith@amsi-corp.com,https://www.rochesterford.com
+1212,,,,,,60 S 6th St Ste 2800 ,Minneapolis,MN,55402,4428,,lticen@amsi-corp.com,http://www.carx.com
+1213,,,,,,150 S 5th St STE 900 ,Minneapolis,MN,55402,4200,,dmndhd@nsatel.net,
+1214,,,,,,12 S 6th St Ste 1120 ,Minneapolis,MN,55402,1502,,Dmndhd@qwestoffice.net,http://www.tcfbank.com
+1215,,,,,,10 S 5th St STE 1105 ,Minneapolis,MN,55402,1036,,nicksr@popp.net,http://www.tcfexpress.com
+1216,,,,,,102 Sandpiper Cir ,Hastings,MN,55033,4052,,service@AFHeat.info,http://www.juiceplus.com
+1218,,,,,,PO Box 3660 ,Portland,OR,97208,3660,,connie@AFHeat.info,
+1219,,,,,,7500 Flying Cloud Dr Ste 670 ,Eden Prairie,MN,55344,3751,,,
+1220,,,,,,2415 Annapolis Ln N Ste 170 ,Plymouth,MN,55441,3674,,,http://www.nordaashomes.com
+1221,,,,,,14805 S Robert Trl ,Rosemount,MN,55068,3108,,augiedoris@aol.com,http://www.longsautoplace.com
+1222,,,,,,1333 University Ave W ,Saint Paul,MN,55104,4104,,sales@roncor.com,http://www.oreillyauto.com
+1223,,,,,,1711 County Road B W ,Saint Paul,MN,55113,4056,,mike@roncor.com,http://www.davey.com
+1224,,,,,,309 E Morehead St Ste 220 ,Charlotte,NC,28202,2380,,brad@roncor.com,http://www.savviminnesota.com
+1225,,,,,,80 S 8th St ,Minneapolis,MN,55402,2100,,bpeterson@southdaleoptical.com,http://www.streichers.com
+1226,,,,,,1201 2nd St S ,Waite Park,MN,56387,2325,,minneapolis@wellingtonwindow.com,
+1228,,,,,,2521 Pennington Dr NW ,Rochester,MN,55901,194,,ledin02@yahoo.com,https://jrbr.builders/
+1229,,,,,,8089 Globe Dr ,Woodbury,MN,55125,3388,,pitlick101@hotmail.com,http://www.haascollisionandglass.com
+1231,,,,,,2777 34th St S ,Moorhead,MN,56560,5477,,ivan@ivanross.net,http://www.facebook.com/BarringtonCap
+1233,,,,,,3680 Pheasant Ridge Dr NE ,Blaine,MN,55449,5844,,,http://www.arbortreeservicemn.com
+1234,,,,,,8147 Globe Dr ,Woodbury,MN,55125,3379,,krnke4heat@aol.com,
+1235,,,,,,1401 W 76th St ,Richfield,MN,55423,3846,,accounting@krinkiesheatingandair.com,http://www.westernunion.com
+1239,,,,,,2620 Development Drive ,Green Bay,WI,54311,,,builderonethehomedoctor@comcast.net,http://www.fulfillmentsystemsinc.com
+1241,,,,,,17685 Juniper Path ,Lakeville,MN,55044,9819,,thehomedoctor@frontier.com,http://www.seestedts.com
+1244,,,,,,1750 Weir Dr ,Woodbury,MN,55125,2252,,,http://www.wilsonleather.com
+1245,,,,,,300 1st Ave N STE 500 ,Minneapolis,MN,55401,1648,,john.stringer@tbs.toshiba.com,
+1246,,,,,,9740 Humboldt Ave S ,Minneapolis,MN,55431,2623,,holly.yanish@tbs.toshiba.com,http://www.wendtandsonsinc.com/
+1247,,,,,,1051 Cliff Rd E ,Burnsville,MN,55337,1513,,,http://www.mppoa.com
+1248,,,,,,8500 Wyoming Ave N ,Minneapolis,MN,55445,1831,,,http://www.shorewoodrv.com
+1249,,,,,,PO Box 43200 ,Minneapolis,MN,55443,200,,,
+1250,,,,,,100 Schelter Rd Quill Corporation,Lincolnshire,IL,60069,3602,,,http://www.mjonespaving.com
+1251,,,,,,8175 Lewis Rd Ste A ,Golden Valley,MN,55427,4495,,,http://www.scherlingphotography.com
+1252,,,,,,3709 County Road 42 W ,Burnsville,MN,55306,4822,,,http://www.apresparty.com
+1253,,,,,,14094 Toledo Ct ,Savage,MN,55378,1972,,,http://www.facebook.com/apresparty
+1254,,,,,,425 Portland Ave ,Minneapolis,MN,55488,1511,,,http://twitter.com/ApresParty
+1256,,,,,,PO Box 408 8001 Jefferson Hwy,Maple Grove,MN,55369,408,,,http://www.blaylockplumbing.com
+1257,,,,,,4510 W 77th St Ste 109 ,Minneapolis,MN,55435,5501,,,http://www.carpetcourt.net
+1258,,,,,,780 19th St ,Newport,MN,55055,1564,,,http://www.kaplanbros.com
+1259,,,,,,344 Ruth St N ,Saint Paul,MN,55119,4304,,,http://www.hponline.com
+1260,,,,,,5445 Lyndale Ave. S. ,Minneapolis,MN,55419,1717,,,https://www.nelsonmarine.biz
+1261,,,,,,3224 Southdale Circle ,Minneapolis,MN,55435,2511,,,http://www.ostvigtree.com
+1262,,,,,,2420 W. Broadway Ave. ,Minneapolis,MN,55411,1735,,,http://www.facebook.com/OstvigTree
+1263,,,,,,1450 Robert St. S. ,Saint Paul,MN,55118,3140,,,https://plus.google.com/105312590812690194421/pos
+1264,,,,,,1415 White Bear Ave. N. ,Saint Paul,MN,55106,2402,,,http://www.partymusic.com
+1265,,,,,,8647 E Point Douglas Rd S ,Cottage Grove,MN,55016,4086,,,http://www.westendkitchen.com
+1267,,,,,,8100 Brooklyn Blvd. ,Minneapolis,MN,55445,2459,,,http://www.farmerseed.com
+1268,,,,,,1945 E. County Rd. D ,Maplewood,MN,55109,5309,,,http://www.kellynurseries.com
+1269,,,,,,1206 Brookdale Center ,Brooklyn Center,MN,55429,,,,
+1270,,,,,,2345 Rice St Ste 162 ,Roseville,MN,55113,3720,,,http://www.skybridgemg.com
+1271,,,,,,5642 Feltl Rd Former: Reportable,Hopkins,MN,55343,3946,,,http://www.fourcorners.com
+1272,,,,,,72 Ivy Ave W ,Saint Paul,MN,55117,4514,,,
+1273,,,,,,3300 Oakdale Ave N ,Robbinsdale,MN,55422,2900,,,http://www.smucklerarchitects.com
+1274,,,,,,7600 France Ave S ,Edina,MN,55435,5924,,,http://www.jmscustomhomes.com
+1275,,,,,,PO Box 355 ,Minneapolis,MN,55440,355,,,
+1276,,,,,,3030 Main Ave ,Fargo,ND,58103,6815,,,
+1278,,,,,,7401 42nd Ave N Ste 102 ,New Hope,MN,55427,1246,,,http://www.countryfinancial.com
+1279,,,,,,14150 Nicollet Ave Ste 4 ,Burnsville,MN,55337,5726,,,http://www.marvin.com
+1280,,,,,,2901 E Franklin Ave ,Minneapolis,MN,55406,1128,,,
+1281,,,,,,301 Carlson Pkwy Ste 400 ,Minnetonka,MN,55305,5370,,,
+1282,,,,,,3211 101st Ave NE ,Blaine,MN,55449,6926,,,
+1283,,,,,,18533 Buchanan St NE ,East Bethel,MN,55011,9538,,,
+1284,,,,,,7831 Glenroy Rd. Suite #400,Minneapolis,MN,55439,3136,,,
+1285,,,,,,PO Box 46995 ,Eden Prairie,MN,55344,6995,,,
+1286,,,,,,11000 Viking Dr Ste 400 ,Eden Prairie,MN,55344,7242,,,
+1287,,,,,,1087 Burnsville Ctr ,Burnsville,MN,55306,4447,,,
+1288,,,,,,3115 Centre Pointe Dr. ,Saint Paul,MN,55113,1132,,,
+1289,,,,,,825 Rice St. ,Saint Paul,MN,55117,5459,,,
+1290,,,,,,PO Box 2747 ,Fargo,ND,58108,2747,,,
+1291,,,,,,414 Nicollet Mall Fl 5 ,Minneapolis,MN,55401,1993,,,
+1292,,,,,,5363 260th St ,Wyoming,MN,55092,8045,,,
+1293,,,,,,7500 Highway 55 ,Minneapolis,MN,55427,4800,,,
+1303,,,,,,1341 Greenwood Ct ,Shakopee,MN,55379,4345,,,
+1304,,,,,,30 E. 7th St. ,Saint Paul,MN,55101,,,,
+1305,,,,,,9935 Hudson Pl ,Woodbury,MN,55125,9461,,,
+1307,,,,,,9600 Colorado Ln N ,Brooklyn Park,MN,55445,2384,,,
+1308,,,,,,1780 Highway 36 W ,Roseville,MN,55113,4030,,,
+1309,,,,,,651 Nicollet Mall ,Minneapolis,MN,55402,1613,,,
+1312,,,,,,522 Snelling Ave S ,Saint Paul,MN,55116,1501,,,
+1315,,,,,,1520 N 109th Avenue ,Blaine,MN,55449,,,,
+1320,,,,,,1550 93rd Ln NE ,Blaine,MN,55449,4317,,,
+1322,,,,,,3725 Chicago Ave ,Minneapolis,MN,55407,2690,,,
+1323,,,,,,1286 County Road 42 ,Burnsville,MN,55337,4431,,,
+1324,,,,,,4305 Central Ave NE ,Columbia Heights,MN,55421,2925,,,
+1325,,,,,,6244 Bass Lake Rd ,Crystal,MN,55429,2702,,,
+1541,,,,,,PO Box 1C ,Minnetonka,MN,55345,903,,,
+7760,6001479,L A Nails,lanails,TRUE,TRUE,,,,,,,,
+18637,22003635,Dominium,dominium,FALSE,FALSE,,,,,,,,
