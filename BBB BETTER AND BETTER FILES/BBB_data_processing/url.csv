@@ -1,0 +1,101 @@
+url_id,firm_id,url,main,display_rr,verified,verifiedon,note,url_type_id,verifyresult,verifystatus,addinfo,createdon,modifiedon,url_status_id,domain
+1,5,http://www.albinchapel.com/,True,False,False,,,1,,,,,,,albinchapel.com
+3,9,http://www.arthurwilliamsoptical.com/,True,True,True,2019-10-11 10:10:03.84,,1,,,,,2019-10-11 10:10:03.44,1.0,arthurwilliamsoptical.com
+5,10,http://www.ablemovers.net,False,True,True,2017-10-17 13:16:13.123,infoUSA insert,1,,,,,2017-10-17 13:16:13.217,,ablemovers.net
+6,18,http://www.andersencorp.com,False,True,True,2022-10-26 13:24:22.983,,1,,,,,2022-10-26 13:24:22.737,1.0,andersencorp.com
+9,22,http://www.asphaltmn.com,True,True,True,2018-09-07 17:01:48.963,,1,,,,,2018-09-07 17:01:48.927,1.0,asphaltmn.com
+10,22,http://asphaltmn.com,False,True,True,2018-09-07 17:01:51.067,,1,,,,,2018-09-07 17:01:51.03,1.0,asphaltmn.com
+12,22,http://twitter.com/asphaltmn,False,True,True,2018-09-07 17:01:54.647,,3,,,,,2018-09-07 17:01:54.593,1.0,twitter.com
+13,22,http://www.facebook.com/asphaltmn,False,True,True,2018-09-07 17:01:56.977,,2,,,,,2018-09-07 17:01:56.927,1.0,facebook.com
+15,30,http://www.adt.com,True,True,True,2018-05-25 12:07:02.393,,1,,,,,2018-05-25 12:07:02.457,1.0,adt.com
+16,31,http://www.amfam.com,True,True,False,,,1,,,,,,,amfam.com
+17,32,http://www.stanthonyautorepair.com/,True,False,False,,InActive,1,,,,,2017-05-15 15:24:54.77,,stanthonyautorepair.com
+18,33,http://www.autoelectricmn.com,True,True,False,,infoUSA insert,1,,,,,,,autoelectricmn.com
+19,36,http://www.citywideinsul.com,True,True,True,2023-03-03 11:54:16.677,infoUSA insert,1,,,,,2023-03-03 11:54:16.33,1.0,citywideinsul.com
+20,43,http://www.aquacityplumbing.com,True,True,True,2019-03-06 13:07:40.823,,1,,,,,2019-03-06 13:07:40.743,1.0,aquacityplumbing.com
+21,46,http://www.aaalabor.com,True,True,True,2021-01-12 11:09:37.883,,1,,,,,2021-01-12 11:09:37.93,1.0,aaalabor.com
+24,49,http://andyandgeorgesautoservice.com/,True,True,True,2019-01-04 14:50:51.2,,1,,,,,2019-01-04 14:50:50.877,1.0,andyandgeorgesautoservice.com
+25,50,http://www.morriescadillac.com,False,False,True,2018-05-31 16:33:01.597,Former,1,,,,,2018-05-31 16:33:01.603,1.0,morriescadillac.com
+26,51,http://www.apartmentmartmn.com,True,True,False,,,1,,,,,,,apartmentmartmn.com
+28,54,http://www.allpoolside.com,True,True,True,2018-06-18 16:36:34.92,Logo not installed correctly (6/2/2017),1,,,,,2018-06-18 16:36:34.9,1.0,allpoolside.com
+29,54,http://www.facebook.com/Allpoolside,False,True,True,2018-06-18 16:36:40.843,,2,,,,,2018-06-18 16:36:40.823,1.0,facebook.com
+30,56,http://www.animalinnpetresort.net,True,True,True,2020-01-02 09:29:59.463,,1,,,,,2020-01-02 09:29:59.73,1.0,animalinnpetresort.net
+31,56,http://www.facebook.com/pages/Animal-Inn-Pet-Resort-Spa/150482981654331,False,True,True,2017-01-13 12:02:07.467,,2,,,,,2017-01-13 12:02:07.4,1.0,facebook.com
+32,56,http://twitter.com/AnimalInnPetRes,False,True,True,2020-01-02 09:30:02.01,,3,,,,,2020-01-02 09:30:02.283,1.0,twitter.com
+33,60,http://www.moundsview.abbeycarpet.com,True,True,True,2019-03-22 16:52:29.6,,1,,,,,2019-03-22 16:52:29.523,1.0,abbeycarpet.com
+34,61,http://www.allstatetreemn.com/,True,True,True,2018-08-07 09:38:28.71,,1,,,,,2018-08-07 09:38:29.243,1.0,allstatetreemn.com
+35,67,http://www.cbsainc.com,True,True,False,,,1,,,,,,,cbsainc.com
+36,67,http://www.meritain.com,False,True,False,,,1,,,,,,,meritain.com
+37,70,http://www.associatedconsultantsusa.com,True,True,True,2018-08-09 09:48:56.88,,1,,,,,2018-08-09 09:48:57.193,1.0,associatedconsultantsusa.com
+38,71,http://www.advancecos.com,True,True,True,2018-05-29 14:33:11.463,,1,,,,,2018-05-29 14:33:11.56,1.0,advancecos.com
+39,73,http://www.andersencabinet.com,True,True,True,2018-11-28 13:48:20.843,,1,,,,,2018-11-28 13:48:20.747,1.0,andersencabinet.com
+40,74,https://www.apollonowmn.com/,True,True,True,2019-09-04 16:41:08.593,,1,,,,,2019-09-04 16:41:08.56,1.0,apollonowmn.com
+41,75,https://www.asphaltdrivewayco.com,True,True,True,2020-06-23 17:11:43.16,,1,,,,,2020-06-23 17:11:43.217,1.0,asphaltdrivewayco.com
+43,77,http://www.augsburgfortress.org,True,True,False,,,1,,,,,,,augsburgfortress.org
+44,78,http://www.artmaterialsonline.com,True,True,False,,,1,,,,,,,artmaterialsonline.com
+45,78,http://www.artsuppliesonline.com,False,True,False,,,1,,,,,,,artsuppliesonline.com
+46,79,http://www.acordia.com,False,False,False,,,1,,,,,,,acordia.com
+47,79,http://www.wellsfargo.com,True,True,False,,,1,,,,,,,wellsfargo.com
+48,84,https://www.brausenauto.com,True,True,True,2018-11-19 16:32:11.647,,1,,,,,2018-11-19 16:32:11.51,1.0,brausenauto.com
+49,86,https://www.rollxvans.com,True,True,True,2019-01-10 14:59:54.003,,1,,,,,2019-01-10 14:59:53.627,1.0,rollxvans.com
+51,94,http://www.associated-hearing.com,True,True,True,2018-10-03 13:53:08.59,,1,,,,,2018-10-03 13:53:08.313,1.0,associated-hearing.com
+53,97,http://www.armorsecurity.com,True,True,True,2018-05-08 10:18:51.227,,1,,,,,2018-05-08 10:18:51.54,1.0,armorsecurity.com
+54,100,http://www.bobandcarls.com,True,True,True,2019-06-21 08:50:46.53,,1,,,,,2019-06-21 08:50:46.363,1.0,bobandcarls.com
+55,103,https://www.bergerallied.com,True,True,True,2018-07-24 11:49:19.4,,1,,,,,2018-07-24 11:49:19.59,1.0,bergerallied.com
+56,104,http://www.BesterBros.com,True,True,True,2018-08-24 10:45:43.293,,1,,,,,2018-08-24 10:45:43.573,1.0,BesterBros.com
+57,105,http://www.bolander.com,True,True,True,2018-05-08 13:23:19.737,,1,,,,,2018-05-08 13:23:20.24,1.0,bolander.com
+59,106,http://www.bonfesauto.com,True,True,True,2017-05-03 15:04:26.14,,1,,,,,2017-05-03 15:04:26.16,1.0,bonfesauto.com
+60,109,https://www.buildersandremodelers.com,True,True,True,2018-05-08 13:54:34.6,,1,,,,,2018-05-08 13:54:34.91,1.0,buildersandremodelers.com
+61,110,http://www.BoehmHeatingCo.com,True,True,True,2018-07-16 14:12:38.633,,1,,,,,2018-07-16 14:12:38.057,1.0,BoehmHeatingCo.com
+62,111,http://www.bemis.com,True,True,False,,,1,,,,,,,bemis.com
+63,113,https://www.berwaldroofing.com,True,True,True,2018-10-16 11:53:37.923,Seal incorrectly installed (6/2/2017),1,,,,,2018-10-16 11:53:38.29,1.0,berwaldroofing.com
+64,114,http://bloomingtonmn.abbeycarpetandfloor.com,False,False,False,,,1,,,,,,,abbeycarpetandfloor.com
+65,114,http://bloomingtonmn.abbeycarpet.com,False,False,False,,O,1,,,,,,,abbeycarpet.com
+66,114,http://www.blcflooring.com,False,False,False,,,1,,,,,,,blcflooring.com
+67,114,http://galaxiefloorstores.com,True,True,False,,,1,,,,,,,galaxiefloorstores.com
+68,115,http://www.bredeexhibitsplus.com,True,True,False,,,1,,,,,,,bredeexhibitsplus.com
+69,115,http://www.brede.com,False,True,False,,,1,,,,,,,brede.com
+70,116,http://www.bringlass.com,True,True,False,,,1,,,,,,,bringlass.com
+72,120,http://www.facebook.com/BergstromJewelers,False,True,True,2018-05-23 14:29:43.073,,2,,,,,2018-05-23 14:29:43.123,1.0,facebook.com
+74,133,http://www.bmfurnitureonline.com,True,True,True,2018-05-11 16:48:22.61,,1,,,,,2018-05-11 16:48:22.763,1.0,bmfurnitureonline.com
+75,135,https://www.burnsvillevw.com,True,True,True,2018-05-22 09:40:21.437,,1,,,,,2018-05-22 09:40:21.48,1.0,burnsvillevw.com
+80,148,http://www.bachmans.com,True,True,True,2020-08-07 12:09:10.343,,1,,,,,2020-08-07 12:09:10.293,1.0,bachmans.com
+156,266,http://www.coit.com,False,False,False,,(OLD INFO),1,,,,,,,coit.com
+81,149,https://www.facebook.com/pages/Basement-Water-Controlled/181275151910046,False,True,True,2018-07-02 15:58:19.557,Facebook,2,,,,,2018-07-02 15:58:19.553,1.0,facebook.com
+82,149,http://www.safedrybasement.com,False,False,False,,,1,,,,,2021-04-28 12:55:54.92,2.0,safedrybasement.com
+83,149,https://www.youtube.com/watch?t=27&v=zb5MSYRT_pk,False,True,True,2018-07-02 15:58:22.667,YouTube Video,4,,,,,2018-07-02 15:58:22.663,1.0,youtube.com
+84,154,http://www.bluecrossmn.com,True,True,True,2019-06-20 16:20:26.843,,1,,,,,2019-06-20 16:20:26.587,1.0,bluecrossmn.com
+85,155,http://www.beltmann.com,True,True,True,2018-05-03 10:18:49.7,,1,,,,,2018-05-03 10:18:49.96,1.0,beltmann.com
+86,155,http://www.facebook.com/BeltmannRelocation,False,True,True,2018-05-03 10:18:56.48,,2,,,,,2018-05-03 10:18:56.74,1.0,facebook.com
+87,155,http://twitter.com/beltmanngroup,False,True,True,2018-05-03 10:18:52.763,,3,,,,,2018-05-03 10:18:53.017,1.0,twitter.com
+89,157,http://www.btaapartments.com,True,True,False,,,1,,,,,,,btaapartments.com
+90,159,http://www.browncollege.edu,False,True,False,,,1,,,,,,,browncollege.edu
+91,159,http://www.sanfordbrown.edu,True,True,False,,,1,,,,,,,sanfordbrown.edu
+92,163,https://www.rbhonda.com,True,True,True,2019-03-19 14:49:00.907,,1,,,,,2019-03-19 14:49:00.767,1.0,rbhonda.com
+93,163,https://www.facebook.com/RichfieldBloomingtonHonda,False,True,True,2019-03-19 14:49:07.783,,2,,,,,2019-03-19 14:49:07.633,1.0,facebook.com
+94,163,https://twitter.com/rbhonda,False,True,False,,,3,,,,,2019-03-19 14:49:10.587,1.0,twitter.com
+95,163,https://plus.google.com/u/0/101341587337255851302/posts,False,True,False,,,6,,,,,,,google.com
+97,165,https://www.superiorford.com,True,True,True,2018-08-29 11:22:19.317,,1,,,,,2018-08-29 11:22:19.383,1.0,superiorford.com
+99,167,http://www.cbburnet.com,True,True,True,2020-04-22 13:41:56.99,,1,,,,,2020-04-22 13:41:57.02,1.0,cbburnet.com
+101,168,http://lundsandbyerlys.com/,True,True,False,,,1,,,,,2017-12-01 16:47:37.467,,lundsandbyerlys.com
+102,169,http://www.invergroveford.com,True,True,True,2020-06-23 16:48:06.32,,1,,,,,2020-06-23 16:48:06.36,1.0,invergroveford.com
+103,179,https://www.barnettauto.com/,True,True,True,2023-10-23 11:38:55.92,,1,,,,,2023-10-23 11:38:55.883,1.0,barnettauto.com
+104,184,http://www.brambillasinc.com,True,True,True,2019-02-26 12:08:46.747,,1,,,,,2019-02-26 12:08:46.513,1.0,brambillasinc.com
+105,184,http://www.facebook.com/pages/Brambillas-Inc/191042452283,False,True,True,2019-02-26 12:08:55.513,,2,,,,,2019-02-26 12:08:55.277,1.0,facebook.com
+108,185,http://www.broadwayrental.com,False,True,False,,,1,,,,,,,broadwayrental.com
+109,187,http://www.blainestatebank.com,True,True,False,,infoUSA insert,1,,,,,,,blainestatebank.com
+110,188,http://www.republicservices.com,True,True,True,2018-07-18 17:44:42.54,,1,,,,,2018-07-18 17:44:42.197,1.0,republicservices.com
+111,190,http://www.beisselwindows.com,False,True,True,2018-09-05 11:28:26.49,,1,,,,,2018-09-05 11:28:26.41,1.0,beisselwindows.com
+112,190,http://www.facebook.com/BeisselWindows,False,True,True,2018-09-05 11:28:29.383,,2,,,,,2018-09-05 11:28:29.3,1.0,facebook.com
+113,190,http://twitter.com/BeisselWindows,False,True,True,2018-09-05 11:28:23.99,,3,,,,,2018-09-05 11:28:23.92,1.0,twitter.com
+114,194,http://www.iverhcarlson.com,True,True,False,,,1,,,,,,,iverhcarlson.com
+116,198,http://www.centralinsulation.net,True,True,True,2018-06-11 11:21:12.46,,1,,,,,2018-06-11 11:21:12.557,1.0,centralinsulation.net
+117,201,http://www.culliganredwing.com,True,True,False,,,1,,,,,,,culliganredwing.com
+118,202,http://www.carlson.com,False,False,False,,,1,,,,,2021-09-30 16:06:54.68,3.0,carlson.com
+119,202,http://www.goldpoints.com,False,False,False,,,1,,,,,2021-09-30 16:07:03.083,3.0,goldpoints.com
+120,207,http://www.cdsdoor.com,True,True,True,2018-07-26 17:03:06.323,,1,,,,,2018-07-26 17:03:06.503,1.0,cdsdoor.com
+122,209,http://www.cub.com,True,True,True,2018-10-02 09:18:47.16,,1,,,,,2018-10-02 09:18:47.457,1.0,cub.com
+123,211,http://www.commerceexpressinc.com,True,True,False,,,1,,,,,,,commerceexpressinc.com
+124,212,http://www.campustravelmn.com,True,False,False,,infoUSA insert,1,,,,,2019-01-23 10:07:24.077,3.0,campustravelmn.com
+125,214,http://www.centraire.com,True,True,False,,,1,,,,,,,centraire.com
+126,216,http://www.custompoolsinc.com,True,True,True,2019-02-14 09:44:36.46,,1,,,,,2019-02-14 09:44:36.73,1.0,custompoolsinc.com

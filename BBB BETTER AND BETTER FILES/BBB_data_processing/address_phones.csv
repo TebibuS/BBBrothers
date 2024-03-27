@@ -1,0 +1,101 @@
+firm_id,phone,address_1,city,state,zip,address_id_a,address_id_p
+2,6512224355.0,78 Acker St E,Saint Paul,MN,55117,1,1.0
+5,,2200 Nicollet Ave,Minneapolis,MN,55404,2,
+5,9529149410.0,6855 Rowland Rd,Eden Prairie,MN,55344,3,3.0
+5,,PO Box 46147,Eden Prairie,MN,55344,4,
+5,6122700491.0,2024 Blackberry Ln,Wayzata,MN,55391,5,5.0
+7,6516334510.0,1408 County Road C W,Roseville,MN,55113,6,6.0
+9,6516451976.0,366 Saint Peter St,Saint Paul,MN,55102,8,8.0
+9,7632242883.0,772 Cleveland Ave S,Saint Paul,MN,55116,9,9.0
+10,,14601 Spring Lake Rd,Minnetonka,MN,55345,10,
+10,,12285 Rush Cir NW,Elk River,MN,55330,12,
+14,,680 Cleveland Ave S,Saint Paul,MN,55116,14,
+18,,100 4th Ave N,Bayport,MN,55003,15,
+18,,39811 Golden Ave,North Branch,MN,55056,16,
+19,7635593292.0,13118 Tyler St NE,Blaine,MN,55434,17,17.0
+22,,547 County Road E W Ste 205,Shoreview,MN,55126,18,
+29,6123314880.0,430 Industrial Blvd NE,Minneapolis,MN,55413,20,20.0
+30,,5910 Rice Creek Pkwy STE 700,Shoreview,MN,55126,21,
+30,8002387870.0,1 Town Center Rd,Boca Raton,FL,33486,22,22.0
+30,6519170000.0,14200 E Exposition Ave Stop 2,Aurora,CO,80012,23,23.0
+30,,14200 E. Exposition Ave.,Aurora,CO,80012,24,
+30,,PO Box 310700,Boca Raton,FL,33431,25,
+30,,4411 Beacon Cir Ste 4,West Palm Beach,FL,33407,26,
+31,6082424100.0,6131 Blue Circle Dr,Eden Prairie,MN,55343,27,27.0
+31,,PO Box 9462,Minneapolis,MN,55440,28,
+31,,PO Box 9436,Minneapolis,MN,55440,29,
+32,6127889087.0,3009 37th Ave NE,St Anthony,MN,55421,31,31.0
+33,,3800 W Broadway Ave,Minneapolis,MN,55422,32,
+34,,6600 France Ave S Ste 164,Minneapolis,MN,55435,34,
+34,,84 S 9th St,Minneapolis,MN,55402,35,
+36,8009579994.0,PO Box 298,Shakopee,MN,55379,38,38.0
+168,,2303 Palmer Dr,Saint Paul,MN,55112,188,
+36,,1725 3rd Ave W,Shakopee,MN,55379,39,
+36,,6834 11th Ave SW,Rochester,MN,55902,40,
+37,6516364644.0,339 8th St NW,Saint Paul,MN,55112,41,41.0
+43,9528819655.0,5428 Nicollet Ave,Minneapolis,MN,55419,42,42.0
+43,6128272871.0,6045 Pillsbury Ave S,Minneapolis,MN,55419,43,43.0
+43,,7701 Pillsbury Ave S,Minneapolis,MN,55423,44,
+46,6128712507.0,1908 Chicago Ave,Minneapolis,MN,55404,45,45.0
+49,9528844675.0,521 W 90th St,Bloomington,MN,55420,49,49.0
+50,,7400 Wayzata Blvd,Golden Valley,MN,55426,50,
+51,8882545899.0,PO Box 24258,Minneapolis,MN,55424,52,52.0
+51,,5621 Knox Ave S,Minneapolis,MN,55419,53,
+53,6127292516.0,2904 E 35th St,Minneapolis,MN,55406,54,54.0
+54,6513793682.0,121 County Road C E,Little Canada,MN,55117,55,55.0
+54,,1960 Cliff Lake Rd Ste 126,Eagan,MN,55122,56,
+58,6123330931.0,1251 Washington Ave N,Minneapolis,MN,55401,58,58.0
+60,7633983981.0,2222 Highway 10,Mounds View,MN,55112,59,59.0
+61,7632201533.0,7510 Jackson St NE,Minneapolis,MN,55432,61,61.0
+61,,7600 Highway 65 NE,Fridley,MN,55432,62,
+67,8002426226.0,400 Highway 169 S Ste 800,Minneapolis,MN,55426,63,63.0
+70,6128717700.0,516 W Franklin Ave,Minneapolis,MN,55405,65,65.0
+70,,PO Box 16293,St Louis Park,MN,55416,66,
+71,,1400 Jackson St,Saint Paul,MN,55117,67,
+72,,3901 Central Ave NE,Minneapolis,MN,55421,68,
+73,6517775377.0,2500 Charles St N,Saint Paul,MN,55109,70,70.0
+74,6516464247.0,4820 Minnetonka Blvd Ste 101,Saint Louis Park,MN,55416,71,71.0
+77,,PO Box 1209,Minneapolis,MN,55440,73,
+77,,510 Marquette Ave 8th Floor,Minneapolis,MN,55402,74,
+77,,426 South St,Minneapolis,MN,55440,75,
+77,,100 S 5th St Ste 600,Minneapolis,MN,55402,76,
+78,6123333330.0,2728 Lyndale Ave S,Minneapolis,MN,55408,77,77.0
+78,,718 Washington Ave N Ste 100,Minneapolis,MN,55401,78,
+79,,7701 York Ave S Ste 200,Minneapolis,MN,55435,80,
+79,,4300 Market Pointe Dr Ste 600,Bloomington,MN,55435,81,
+79,9528303000.0,4300 Market Pointe Dr # 600,Minneapolis,MN,55435,82,82.0
+81,6127888686.0,2803 Central Ave NE,Minneapolis,MN,55418,83,83.0
+84,,1310 County Road E W,Arden Hills,MN,55112,84,
+84,,5979 Rice Creek Pkwy,Shoreview,MN,55126,85,
+86,,6591 Highway 13 W,Savage,MN,55378,86,
+94,,393 Dunlap St N Ste 115,Saint Paul,MN,55104,90,
+95,,2099 Division St N,North Saint Paul,MN,55109,91,
+96,,7010 6th St N,Oakdale,MN,55128,92,
+97,,2313 Hennepin Ave,Minneapolis,MN,55405,93,
+97,,2601 Stevens Ave,Minneapolis,MN,55408,94,
+100,,107 Central Ave,Osseo,MN,55369,95,
+103,,2950 Long Lake Rd,Saint Paul,MN,55113,96,
+104,,260 Hardman Ave S,South Saint Paul,MN,55075,97,
+105,,PO Box 7216,Saint Paul,MN,55107,98,
+105,,251 Starkey St,Saint Paul,MN,55107,99,
+105,,13425 Court House Blvd,Rosemount,MN,55068,100,
+106,,337 7th St W,Saint Paul,MN,55102,102,
+109,,3517 Hennepin Ave,Minneapolis,MN,55408,105,
+110,,1598 Selby Ave,Saint Paul,MN,55104,106,
+110,,1040 Highway 110,Mendota Hts,MN,55120,107,
+110,,1259 Scheffer Ave,Saint Paul,MN,55116,108,
+111,,1 Neenah Ctr Ste 400,Neenah,WI,54956,109,
+113,,2440 Charles St N,North Saint Paul,MN,55109,110,
+114,,9939 Lyndale Ave S,Bloomington,MN,55420,111,
+114,,6808 151st St W STE 104,Apple Valley,MN,55124,112,
+115,,2211 Broadway St NE,Minneapolis,MN,55413,113,
+115,,430 E 1st St,Boston,MA,2127,114,
+116,,2300 N 2nd St,Minneapolis,MN,55411,115,
+323,,118 State St S Ste 102,Waseca,MN,56093,434,
+125,,2001 Broadway St NE,Minneapolis,MN,55413,119,
+132,,4332 Shady Oak Rd S Ste B,Hopkins,MN,55343,120,
+133,,256 7th St E,Saint Paul,MN,55101,121,
+133,,2117 Charles Ave Ste 9,Saint Paul,MN,55114,122,
+135,,12020 Highway 35W S,Burnsville,MN,55337,123,
+135,,14700 Buck Hill Rd,Burnsville,MN,55306,124,
+135,,14550 Buck Hill Rd,Burnsville,MN,55306,125,

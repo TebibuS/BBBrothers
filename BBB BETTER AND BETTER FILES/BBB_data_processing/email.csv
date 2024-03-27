@@ -1,0 +1,101 @@
+email_id,firm_id,email_type_id,email_type,email,display_rr,verified,verifiedon,note,domain,modifiedon
+2,5,4.0,Technical Support,office@albinchapel.com,False,False,,,albinchapel.com,
+3,5,1.0,General,jimalbinson@gmail.com,True,False,,,gmail.com,
+5,7,1.0,General,mail@albrechtcompany.com,True,False,,,albrechtcompany.com,2023-02-08 09:41:51.75
+6,7,,,edward@albrechtcompany.com,False,False,,,albrechtcompany.com,
+7,9,1.0,General,arthurwilliamsoptical@gmail.com,True,False,,,gmail.com,
+8,10,1.0,General,ablemovers@izoom.net,True,False,,,izoom.net,
+9,18,1.0,General,donna.dingle@andersencorp.com,False,False,,,andersencorp.com,
+11,18,,,jennifer.lamson@andersen.com,False,False,,Legal Dept,andersen.com,
+12,22,4.0,Technical Support,mitch@asphaltmn.com,False,False,,,asphaltmn.com,
+13,22,1.0,General,office@asphaltmn.com,True,False,,,asphaltmn.com,
+14,22,,,sales@act-asphaltspecialties.com,False,False,,no good(OLD INFO),act-asphaltspecialties.com,
+15,22,,,ed@6514841696.com,False,False,,no longer there(OLD INFO),6514841696.com,
+16,22,,,erik@act-asphaltspecialties.com,False,False,,(OLD INFO),act-asphaltspecialties.com,
+17,31,1.0,General,consumeraffairs@amfam.com,True,False,,,amfam.com,
+18,31,,,jtuzun@amfam.com,False,False,,,amfam.com,
+20,34,1.0,General,ehledoux@helixhca.com,False,False,,,helixhca.com,
+21,36,1.0,General,jgeyen@citywideinsul.com,False,False,,,citywideinsul.com,
+22,37,1.0,General,jodytravelagent@yahoo.com,True,False,,,yahoo.com,
+23,43,1.0,General,info@aquacityplumbing.com,False,False,,,aquacityplumbing.com,2022-06-15 14:34:26.937
+24,43,4.0,Technical Support,service@AquaCityPlumbing.com,False,False,,,AquaCityPlumbing.com,
+25,43,4.0,Technical Support,dave@aquacityplumbing.com,False,False,,,aquacityplumbing.com,2022-08-04 11:00:10.557
+26,46,1.0,General,support@aaalabor.com,True,False,,,aaalabor.com,
+27,46,4.0,Technical Support,sjzimmer@aaalabor.com,False,False,,,aaalabor.com,
+30,49,,,aganto@goldengate.net,False,False,,,goldengate.net,2022-08-02 12:48:56.797
+31,49,4.0,Technical Support,agauto@goldengate.net,True,False,,,goldengate.net,2022-08-02 12:49:03.733
+33,50,4.0,Technical Support,patrick.kyes@morries.com,False,False,,Patrick Kyes (1-2013),morries.com,
+34,50,1.0,General,cindy.robin@morriesclassiccars.com,False,False,,,morriesclassiccars.com,
+35,53,1.0,General,aiari@aol.com,False,False,,,aol.com,
+36,54,,,info@poolside.biz,True,False,,,poolside.biz,
+37,54,1.0,General,randerson@poolside.biz,False,False,,,poolside.biz,
+38,54,4.0,Technical Support,dsheridan@poolside.biz,False,False,,,poolside.biz,
+39,56,1.0,General,info@animalinnpetresort.net,True,False,,,animalinnpetresort.net,
+40,60,,,john@abbeymv.com,False,False,,,abbeymv.com,
+41,60,4.0,Technical Support,peter@giesecarpet.com,False,False,,Former,giesecarpet.com,
+42,60,1.0,General,kathy@abbeymv.com,False,False,,Former,abbeymv.com,
+43,61,1.0,General,info@allstatetreemn.com,True,False,,,allstatetreemn.com,
+44,67,1.0,General,lhemmer@cbsainc.com,True,False,,,cbsainc.com,
+45,67,,,cbsaa@cbsainc.com,False,False,,,cbsainc.com,
+47,71,1.0,General,khaug@advancecos.com,False,False,,,advancecos.com,
+48,71,4.0,Technical Support,srousslang@advancecos.com,False,False,,,advancecos.com,
+49,73,4.0,Technical Support,mikem@andersencabinet.com,True,False,,,andersencabinet.com,2021-12-13 14:43:00
+54,74,1.0,General,rexhanson2003@aol.com,False,False,,,aol.com,
+55,75,,,state@visi.com,False,False,,,visi.com,
+56,75,1.0,General,sales@asphaltdrivewayco.com,False,False,,,asphaltdrivewayco.com,
+57,75,4.0,Technical Support,rchorlton@asphaltdrivewayco.com,False,False,,,asphaltdrivewayco.com,
+58,77,1.0,General,credit@augsburgfortress.org,False,False,,,augsburgfortress.org,
+59,77,,,rect@augsburgfortress.org,False,False,,OLD INFO,augsburgfortress.org,
+60,78,1.0,General,jbrown@artmaterialsonline.com,False,False,,,artmaterialsonline.com,
+61,79,1.0,General,keith.burkhardt@wellsfargoservices.com,False,False,,,wellsfargoservices.com,
+62,81,1.0,General,fixmycar@maxiautoservice.com,True,False,,,maxiautoservice.com,
+63,84,1.0,General,ted@brausens.com,False,False,,,brausens.com,
+64,86,,,mharris@rollxvans.com,False,False,,,rollxvans.com,
+65,86,,,questions@rollxvans.com,True,False,,,rollxvans.com,2022-10-14 11:06:16.187
+66,86,1.0,General,sandrews@rollxvans.com,False,False,,,rollxvans.com,2022-10-14 11:06:38.2
+70,96,1.0,General,catholic2@msn.com,True,False,,,msn.com,
+71,97,1.0,General,pros@armorsecurity.com,False,False,,,armorsecurity.com,
+72,100,1.0,General,info@bobandcarls.com,True,False,,,bobandcarls.com,
+73,103,1.0,General,marketingteam@bergerallied.com,False,False,,Chuck,bergerallied.com,2022-07-26 17:49:27.783
+74,104,,,info@BesterBros.com,False,False,,,BesterBros.com,
+75,104,1.0,General,paull@besterbros.com,False,False,,,besterbros.com,
+76,105,1.0,General,info@bolander.com,True,False,,,bolander.com,
+78,106,,,tomdbonfe@aol.com,True,False,,,aol.com,
+79,106,1.0,General,bonfe@aol.com,False,False,,,aol.com,
+86,110,1.0,General,office@boehmheatingco.com,False,False,,,boehmheatingco.com,
+87,113,,,joyces@berwaldroofing.com,False,False,,reitred,berwaldroofing.com,
+88,113,,,sundaem@berwaldroofing.com,False,False,,old info,berwaldroofing.com,
+89,113,4.0,Technical Support,elizabeths@berwaldroofing.com,False,False,,Libby,berwaldroofing.com,2022-01-18 16:37:06.307
+90,113,4.0,Technical Support,paulavan@berwaldroofing.com,False,False,,,berwaldroofing.com,
+91,113,1.0,General,stacym@berwaldroofing.com,True,False,,,berwaldroofing.com,2022-01-18 16:36:45.64
+98,114,1.0,General,jodyc@gfloors.biz,True,False,,,gfloors.biz,
+99,115,1.0,General,sanderson@brede.com,True,False,,,brede.com,
+100,116,1.0,General,dnelson@bringlass.com,False,False,,,bringlass.com,
+104,132,1.0,General,chuck@bckitchens.com,False,False,,,bckitchens.com,
+105,133,1.0,General,eabramson@b-and-m-furniture.com,True,False,,,b-and-m-furniture.com,
+106,135,1.0,General,jay.radue@burnsvillevw.com,False,False,,,burnsvillevw.com,
+107,135,,,cathy.mohler@burnsvillevw.com,False,False,,Controller,burnsvillevw.com,
+108,136,,,bill.johnson@suddath.com,False,False,,fmr,suddath.com,2021-05-19 08:58:18.127
+109,136,,,bill.johnson@barrettmoving.com,False,False,,(OLD INFO),barrettmoving.com,2021-05-19 08:57:39.5
+110,136,,,info@ballardmoving.com,False,False,,(OLD INFO),ballardmoving.com,2021-05-19 08:57:26.59
+111,136,,,maryann.murphy@suddath.com,False,False,,,suddath.com,2021-05-19 09:06:18.41
+112,136,,,Brigitt.Berlin@suddath.com,False,False,,Customer Care Manager,suddath.com,2021-05-19 09:06:07.45
+113,136,,,Mike.Nash@suddath.com,False,False,,,suddath.com,
+114,136,,,Michael.Nash@suddath.com,False,False,,,suddath.com,
+115,136,1.0,General,legal@suddath.com,False,False,,All Complaints,suddath.com,
+116,136,,,marketing@suddath.com,False,False,,former,suddath.com,2021-05-19 08:58:28.293
+117,136,4.0,Technical Support,webleads283@suddath.com,False,False,,Leads/Quotes,suddath.com,
+119,146,1.0,General,info@baberautorepair.com,True,False,,,baberautorepair.com,2022-08-23 09:33:29.663
+120,148,1.0,General,cdejarlais@bachmans.com,False,False,,,bachmans.com,2023-07-18 08:41:21.51
+121,149,1.0,General,bwckevins@gmail.com,False,False,,,gmail.com,2021-04-28 12:57:34.863
+122,152,1.0,General,Gwen@brookparkrealty.com,True,False,,,brookparkrealty.com,
+125,155,4.0,Technical Support,Mike.Peshut@beltmann.com,True,False,,,beltmann.com,2022-07-21 14:11:41.813
+126,155,,,Fred.McPherson@beltmann.com,False,False,,,beltmann.com,
+127,155,1.0,General,ben.branson@beltmann.com,False,False,,,beltmann.com,
+128,155,,,ryan.seabright@beltmann.com,False,False,,,beltmann.com,
+129,155,4.0,Technical Support,lyle.saumweber@beltmann.com,True,False,,,beltmann.com,
+130,156,1.0,General,info@budgetinsulation.com,True,False,,,budgetinsulation.com,
+131,157,4.0,Technical Support,jmloney@mn.rr.com,False,False,,,mn.rr.com,
+132,157,4.0,Technical Support,loneyjm@comcast.net,False,False,,,comcast.net,
+133,157,1.0,General,jloney@kleinmanrealty.com,True,False,,,kleinmanrealty.com,
+134,159,,,wcowan@browncollege.edu,False,False,,Old,browncollege.edu,
