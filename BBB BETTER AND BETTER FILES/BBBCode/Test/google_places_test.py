@@ -44,5 +44,5 @@ def get_business_details(api_key, business_name,location="Minnesota"):
 api_key = os.getenv("GOOGLE_PLACES_TOKEN")
 business_name = "Starbucks"
 business_details_df = get_business_details(api_key, business_name)
-business_details_df.to_csv('example_google_places_data.csv')
+business_details_df.to_csv('pedro_is_so_cool.csv')
 
