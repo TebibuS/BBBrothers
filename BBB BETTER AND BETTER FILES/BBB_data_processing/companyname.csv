@@ -1,0 +1,101 @@
+name_id,firm_id,company_name,condensed_name,main,billing,display_rr,roster,note,legal
+1,2,"Able Fence, Inc.",ablefenceinc,True,True,True,True,,True
+2,5,Albin Chapel,albinchapel,False,False,True,True,,False
+3,5,Albin Funeral Chapel Inc,albinfuneralchapelinc,False,False,True,True,,False
+4,5,"Albin Endeavor, Inc.",albinendeavorinc,True,True,True,True,,True
+5,7,Albrecht Company,albrechtcompany,True,True,True,True,,False
+6,7,"Albrecht Enterprises, LLC",albrechtenterprisesllc,False,False,True,True,,True
+8,9,Arthur Williams Opticians,arthurwilliamsopticians,False,False,False,False,Former,False
+9,9,Arthur Williams Optical Inc,arthurwilliamsopticalinc,False,False,False,False,Former,False
+10,10,Able Movers LLC,ablemoversllc,True,True,True,True,,True
+11,10,Able Moving & Storage Inc,ablemovingandstorageinc,False,False,True,True,,False
+12,10,Able Transfer,abletransfer,False,False,True,True,,False
+13,14,Albrechts,albrechts,True,True,True,True,,True
+14,18,Andersen Corporation,andersencorporation,True,True,True,True,,True
+15,18,Andersen Windows Inc,andersenwindowsinc,False,False,True,True,,False
+16,18,Emco Enterprises Inc,emcoenterprisesinc,False,False,True,True,,False
+18,18,Eagle Window and Door,eaglewindowanddoor,False,False,True,True,,False
+19,19,Appearance Reconditioning Co.,appearancereconditioningco,True,True,True,True,,True
+20,22,A.C.T.  Asphalt Specialties Company,actasphaltspecialtiescompany,False,False,True,False,,False
+21,22,A C T Specialties,actspecialties,False,False,False,False,,False
+22,22,Asphalt Specialties Company,asphaltspecialtiescompany,True,True,True,True,,True
+24,29,Anderson Ladd Floors,andersonladdfloors,False,False,False,False,,False
+25,29,Anderson-Ladd,andersonladd,False,False,False,False,,False
+26,29,Haldeman Homme Inc,haldemanhommeinc,False,False,False,False,,False
+28,30,A D T Security Services,adtsecurityservices,False,False,True,True,,False
+29,30,American District Telegraph,americandistricttelegraph,False,False,True,True,,False
+30,30,ADT Security Services,adtsecurityservices,False,False,True,True,,False
+31,30,"ADT, LLC",adtllc,True,True,True,True,,True
+32,31,American Family Insurance Group - Headquarters,americanfamilyinsurancegroupheadquarters,True,True,True,True,,True
+33,31,American Family Mutual Insurance Company,americanfamilymutualinsurancecompany,False,False,True,True,,False
+34,31,American Family Insurance,americanfamilyinsurance,False,False,True,True,,False
+35,32,North Land Auto Repair Inc,northlandautorepairinc,True,True,True,True,,True
+36,33,Auto Electric Co,autoelectricco,True,True,True,True,,True
+37,34,Allied Hearing Services,alliedhearingservices,True,True,True,True,,True
+38,34,Helix Corporation,helixcorporation,False,False,True,True,,False
+39,34,Helix Hearing Care of America,helixhearingcareofamerica,False,False,True,True,,False
+40,36,"Anderson Insulation, Inc.",andersoninsulationinc,False,False,False,True,,False
+41,36,City Wide Insulation Inc,citywideinsulationinc,True,True,True,True,,True
+42,36,Carnahan City-Wide Insulation Inc,carnahancitywideinsulationinc,False,False,True,True,,True
+43,37,All Star Travel Inc,allstartravelinc,True,True,True,True,,True
+44,43,"Aqua City Plumbing, Inc.",aquacityplumbinginc,True,True,True,True,,True
+45,43,Aqua City Plumbing & Heating,aquacityplumbingandheating,False,False,False,False,Former,False
+46,46,AAA Labor,aaalabor,True,True,True,True,,True
+47,46,AAA Employment Service,aaaemploymentservice,False,False,False,False,Former,False
+52,49,"Andy & George's Auto Service Center, Inc.",andyandgeorgesautoservicecenterinc,True,True,True,True,,True
+53,49,"CNS Enterprises MN, Inc.",cnsenterprisesmninc,False,False,False,False,Former/DBA,False
+54,50,Morrie's Cadillac,morriescadillac,False,False,False,False,,True
+55,51,Apartment Mart,apartmentmart,True,True,True,True,,True
+56,53,Alexander's Import Auto Repair,alexandersimportautorepair,True,True,True,True,,True
+57,54,"All Poolside Services, Inc.",allpoolsideservicesinc,True,True,True,True,,True
+58,54,Poolside,poolside,False,False,False,False,Former,False
+59,56,Animal Inn Pet Resort & Spa Inc.,animalinnpetresortandspainc,True,True,True,True,,True
+60,58,Appliance Parts Inc,appliancepartsinc,True,True,True,True,,True
+61,60,Abbey Carpet of Mounds View,abbeycarpetofmoundsview,False,False,False,False,,False
+62,60,Giese Carpet LLC,giesecarpetllc,False,False,False,False,Former,False
+63,61,Allstate Tree Service,allstatetreeservice,True,True,True,True,,True
+64,67,A B I Financial Corp,abifinancialcorp,False,False,True,True,,False
+65,67,Associated Advisory Services,associatedadvisoryservices,False,False,True,True,,False
+66,67,"Corporate Benefit Services Of America,Inc.",corporatebenefitservicesofamericainc,False,False,True,True,,True
+67,67,"CBSA Performax, A Meritain Health Company",cbsaperformaxameritainhealthcompany,True,True,True,True,,False
+68,67,Meritain Health,meritainhealth,False,False,True,True,,False
+69,70,Associated Credit Company,associatedcreditcompany,False,False,False,False,,False
+70,70,"Associated Consultants, Inc.",associatedconsultantsinc,True,True,True,True,,True
+71,70,Associated Consultants of Carico-Box 16293,associatedconsultantsofcaricobox16293,False,False,False,False,,False
+72,70,Carico (This is a product),caricothisisaproduct,False,False,False,False,,False
+73,70,Carico Assoc Ent,caricoassocent,False,False,False,False,,False
+74,70,Carico Products,caricoproducts,False,False,False,False,,False
+75,70,Oneida Flatware (This is a product),oneidaflatwarethisisaproduct,False,False,False,False,,False
+76,70,Regal Cookware (This is a Product),regalcookwarethisisaproduct,False,False,False,False,,False
+77,71,Advance Equipment Company,advanceequipmentcompany,False,False,True,True,,False
+78,71,Advance Shoring Company,advanceshoringcompany,True,True,True,True,,True
+79,71,Advance Specialties Company,advancespecialtiescompany,False,False,True,True,,False
+80,71,"Advance Equipment, Shoring & Specialties Company",advanceequipmentshoringandspecialtiescompany,False,False,False,False,,False
+81,72,Aladdin Pools Inc,aladdinpoolsinc,False,False,True,True,,True
+82,72,Aladdin Pool and Spa,aladdinpoolandspa,True,True,True,True,,True
+83,73,"Andersen Cabinet, Inc.",andersencabinetinc,True,True,True,True,,True
+84,74,Apollo Hair Clinic,apollohairclinic,True,True,True,True,,True
+85,74,Apollo of Minneapolis,apolloofminneapolis,False,False,False,False,,False
+86,75,Asphalt Driveway Company of St Paul,asphaltdrivewaycompanyofstpaul,False,False,False,False,,False
+87,75,Asphalt Driveway Co.,asphaltdrivewayco,True,True,True,True,,True
+88,77,Augsburg Fortress Publishers,augsburgfortresspublishers,True,True,True,True,,True
+89,78,Art Materials Inc,artmaterialsinc,True,True,True,True,,False
+90,78,Penco Graphic Supply/Artist's,pencographicsupplyartists,False,False,True,True,,False
+91,78,Penco Artists' Supply Warehouse,pencoartistssupplywarehouse,False,False,True,True,,False
+92,78,"Art Materials, LLC",artmaterialsllc,False,False,True,True,,True
+93,79,Acordia,acordia,False,False,False,False,,False
+94,79,"Acordia of Minnesota, Inc.",acordiaofminnesotainc,False,False,False,False,,False
+95,79,Wells Fargo Insurance Services,wellsfargoinsuranceservices,True,True,True,True,,True
+96,79,Wells Fargo Insurance Service,wellsfargoinsuranceservice,False,False,True,True,infoUSA insert,False
+97,81,Anderson Automotive Inc,andersonautomotiveinc,False,False,True,True,,True
+98,81,Maxi Auto Center,maxiautocenter,True,True,True,True,,False
+102,84,Brausen Enterprises Inc,brausenenterprisesinc,True,True,True,True,,True
+110,86,Associated Leasing/Handicapable Van,associatedleasinghandicapablevan,False,False,False,False,,False
+111,86,Associated Partnership Ltd,associatedpartnershipltd,False,False,False,True,,True
+112,86,Associated Rollx Vans,associatedrollxvans,False,False,False,False,,False
+113,86,Rollx Vans,rollxvans,True,True,True,True,,True
+125,94,Associated Hearing,associatedhearing,False,False,False,False,,False
+126,94,Associated Hearing Instruments,associatedhearinginstruments,False,False,False,False,,False
+127,94,Associated Hearing of Saint Paul,associatedhearingofsaintpaul,False,False,False,False,,False
+128,94,"Associated Hearing of St. Paul, Inc.",associatedhearingofstpaulinc,True,True,True,True,,True
+129,95,"Affordable Automotive, Inc.",affordableautomotiveinc,True,True,True,True,,True
