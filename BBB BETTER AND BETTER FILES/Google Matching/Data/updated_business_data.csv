@@ -1,0 +1,24 @@
+firm_id,company_name,address,city,state,zip,phone,email,url,confidence_score,outdated,outdated_reason,google_name,google_address,google_phone,google_url,google_place_id
+2,"Able Fence, Inc.",78 Acker St E,Saint Paul,MN,55117.0,6512224355,,,96.60000000000001,False,Information current,Able Fence Inc.,"78 Acker St E, St Paul, MN 55117",6512224355,,ChIJ-aYwa1bVslIR85ptHKgDQeY
+5,Albin Chapel,2200 Nicollet Ave,Minneapolis,MN,55404.0,,office@albinchapel.com,http://www.albinchapel.com/,,True,No mactch found in Google Places,,,,,
+5,Albin Funeral Chapel Inc,6855 Rowland Rd,Eden Prairie,MN,55344.0,9529149410,jimalbinson@gmail.com,,,True,No mactch found in Google Places,,,,,
+5,"Albin Endeavor, Inc.",PO Box 46147,Eden Prairie,MN,55344.0,,,,,True,No match found in Google Places,,,,,
+7,Albrecht Company,1408 County Road C W,Roseville,MN,55113.0,6516334510,mail@albrechtcompany.com,,96.80000000000001,False,Information current,Albrecht Company,"1408 County Rd C West, Roseville, MN 55113",6516334510,http://www.albrechtcompany.com/,ChIJBV4IX8Mrs1IRSG2dCjvsIhw
+7,"Albrecht Enterprises, LLC",,,,,,edward@albrechtcompany.com,,,True,No mactch found in Google Places,,,,,
+9,Arthur Williams Opticians,366 Saint Peter St,Saint Paul,MN,55102.0,6516451976,arthurwilliamsoptical@gmail.com,http://www.arthurwilliamsoptical.com/,42.400000000000006,True,"Address mismatch, Phone mismatch",Arthur Williams Optical,"772 Cleveland Ave S, St Paul, MN 55116",6512242883,http://www.arthurwilliamsoptical.com/,ChIJNxZsCHgp9ocRPVr8wNPs6Gw
+9,Arthur Williams Optical Inc,772 Cleveland Ave S,Saint Paul,MN,55116.0,7632242883,,,56.0,True,Phone mismatch,Arthur Williams Optical,"772 Cleveland Ave S, St Paul, MN 55116",6512242883,http://www.arthurwilliamsoptical.com/,ChIJNxZsCHgp9ocRPVr8wNPs6Gw
+10,Able Moving & Storage Inc,12285 Rush Cir NW,Elk River,MN,55330.0,,,,32.400000000000006,True,"Address mismatch, Phone mismatch","Able Moving & Storage, Inc.","8050 Wellingford Dr, Manassas, VA 20109",7033303772,https://www.ablemoving.com/,ChIJaxxFBnxdtokRaP7otrqd_rQ
+10,Able Transfer,,,,,,,,,True,No match found in Google Places,,,,,
+14,Albrechts,680 Cleveland Ave S,Saint Paul,MN,55116.0,,,,,True,No mactch found in Google Places,,,,,
+18,Andersen Corporation,100 4th Ave N,Bayport,MN,55003.0,,donna.dingle@andersencorp.com,http://www.andersencorp.com,,True,No mactch found in Google Places,,,,,
+18,Andersen Windows Inc,39811 Golden Ave,North Branch,MN,55056.0,,jennifer.lamson@andersen.com,,,True,No mactch found in Google Places,,,,,
+18,Emco Enterprises Inc,,,,,,,,31.6,True,"Address mismatch, Phone mismatch",Emco Enterprises Inc,"2121 E Walnut St, Des Moines, IA 50317",8553378808,https://www.stormdoors.com/,ChIJr63Ysn2X7ocRdp9UIxl9S1U
+18,Eagle Window and Door,,,,,,,,,True,No mactch found in Google Places,,,,,
+19,Appearance Reconditioning Co.,13118 Tyler St NE,Blaine,MN,55434.0,7635593292,,,,True,No mactch found in Google Places,,,,,
+22,A.C.T.  Asphalt Specialties Company,547 County Road E W Ste 205,Shoreview,MN,55126.0,,mitch@asphaltmn.com,http://www.asphaltmn.com,39.0,True,"Address mismatch, Phone mismatch",Asphalt Specialties Co,"530 Shoreview Park Rd, Shoreview, MN 55126",6514841696,http://www.asphaltmn.com/,ChIJK_ldd-ops1IRERegKZX3C64
+22,A C T Specialties,,,,,,office@asphaltmn.com,http://asphaltmn.com,,True,No match found in Google Places,,,,,
+22,Asphalt Specialties Company,,,,,,sales@act-asphaltspecialties.com,http://twitter.com/asphaltmn,26.0,True,"Address mismatch, Phone mismatch",Asphalt Specialties Co,"530 Shoreview Park Rd, Shoreview, MN 55126",6514841696,http://www.asphaltmn.com/,ChIJK_ldd-ops1IRERegKZX3C64
+29,Anderson Ladd Floors,430 Industrial Blvd NE,Minneapolis,MN,55413.0,6123314880,,,53.00000000000001,True,Phone mismatch,Anderson-Ladd,"450 Industrial Blvd NE, Minneapolis, MN 55413",6123318816,http://www.andersonladd.com/,ChIJX1KOMFgss1IRbYl_iEK4Yl8
+29,Anderson-Ladd,,,,,,,,31.6,True,"Address mismatch, Phone mismatch",Anderson-Ladd,"450 Industrial Blvd NE, Minneapolis, MN 55413",6123318816,http://www.andersonladd.com/,ChIJX1KOMFgss1IRbYl_iEK4Yl8
+29,Haldeman Homme Inc,,,,,,,,29.8,True,"Address mismatch, Phone mismatch","Haldeman Homme, Inc.","430 Industrial Blvd NE #100, Minneapolis, MN 55413",8882398747,,ChIJ3xS3UsIts1IRl0xL5u17uZk
+30,A D T Security Services,5910 Rice Creek Pkwy STE 700,Shoreview,MN,55126.0,,,http://www.adt.com,54.6,True,Phone mismatch,ADT Security Services,"5910 Rice Creek Pkwy, Shoreview, MN 55126",6519688026,https://www.adt.com/local/mn/shoreview?utm_source=places&utm_medium=mn&utm_campaign=shoreview&utm_term=localseo,ChIJL5WczhMms1IRM7XaXc3FEoU
