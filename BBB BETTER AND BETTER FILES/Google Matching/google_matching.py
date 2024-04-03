@@ -63,19 +63,15 @@ def calculate_confidence(company_name, address, phone, api_data):
     print(api_address_str)
     print(phone_str)
     print(api_phone_str)
-
-
-    name_score = fuzz.ratio(company_name_str, api_name_str)
+    
     address_score = fuzz.ratio(address_str, api_address_str)
     phone_score = 100 if str(phone_str) == api_phone_str else 0  # Adjusted to give a full score on match
 
-    # Assign weights (adjust these based on your priorities)
-    name_weight = 0.2
-    address_weight = 0.4
-    phone_weight = 0.4
+    address_weight = 0.5
+    phone_weight = 0.5
 
     # Calculate weighted confidence score
-    confidence_score = (name_score * name_weight) + (address_score * address_weight) + (phone_score * phone_weight)
+    confidence_score = (address_score * address_weight) + (phone_score * phone_weight)
     return confidence_score
 
 # Function to determine outdated reason and update DataFrame
@@ -136,8 +132,7 @@ def format_phone_number(phone_str):
             return phone_str[:-2]
     return phone_str
 
-def format_zip(zip_str):
-       
+def format_zip(zip_str): 
     if zip_str and isinstance(zip_str, str):
         # If there's a '.0' at the end of the string, remove it
         if zip_str.endswith('.0'):
