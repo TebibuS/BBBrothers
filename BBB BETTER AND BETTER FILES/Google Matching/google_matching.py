@@ -6,6 +6,7 @@ from fuzzywuzzy import fuzz
 
 load_dotenv()
 API_KEY = os.getenv('GOOGLE_API_KEY')
+#API_KEY = ""
 print(API_KEY)
 
 # Function to call Google Places API with error handling
@@ -135,6 +136,14 @@ def format_phone_number(phone_str):
             return phone_str[:-2]
     return phone_str
 
+def format_zip(zip_str):
+       
+    if zip_str and isinstance(zip_str, str):
+        # If there's a '.0' at the end of the string, remove it
+        if zip_str.endswith('.0'):
+            return zip_str[:-2]
+    return zip_str
+
 
 def check_name_similarity(company_name, api_data):
     api_name_str = str(api_data.get("name", ""))
@@ -145,6 +154,7 @@ def check_name_similarity(company_name, api_data):
 df = pd.read_csv("Data/cleaned_and_normalized_data_first23.csv", dtype={'phone': str, 'zip': str})
 
 df['phone'] = df['phone'].apply(format_phone_number)
+df['zip'] = df['zip'].apply(format_zip)
 # Create a list to store updated rows
 updated_rows = []
 
@@ -189,4 +199,4 @@ updated_df = pd.DataFrame(updated_rows)
 # Export updated data to CSV
 updated_df.to_csv("Data/updated_business_data.csv", index=False)
 
-print("Business information verification complete. Updated data saved to 'updated_business_data10.csv'")
+print("Business information verification complete. Updated data saved to 'Data/updated_business_data.csv'")
